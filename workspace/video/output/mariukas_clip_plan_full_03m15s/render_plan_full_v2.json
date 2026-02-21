@@ -1,0 +1,123 @@
+{
+  "title": "Mariukas - pilnos trukmės klipas v2",
+  "duration": "03:15",
+  "encoding": "UTF-8",
+  "creative_rule": "Be klišių: jokio standartinio lietaus-perono melodramos stuburo.",
+  "characters": [
+    {
+      "id": "P1",
+      "name": "Matas",
+      "role": "vokalistas, kaltės centras"
+    },
+    {
+      "id": "P2",
+      "name": "Ema",
+      "role": "nutolusi mylimoji"
+    },
+    {
+      "id": "P3",
+      "name": "Bilietininkė",
+      "role": "likimo liudininkė"
+    },
+    {
+      "id": "P4",
+      "name": "Būgnininkas Nojus",
+      "role": "ritmo variklis, vidinė įtampa"
+    },
+    {
+      "id": "P5",
+      "name": "Mergaitė su aitvaru",
+      "role": "vilties figūra"
+    },
+    {
+      "id": "P6",
+      "name": "Naktinis vairuotojas",
+      "role": "perėjimų tarp lokacijų vedlys"
+    },
+    {
+      "id": "P7",
+      "name": "Senas laikrodininkas",
+      "role": "laiko metaforos nešėjas"
+    }
+  ],
+  "location_count": 34,
+  "sequence": [
+    {
+      "t0": "00:00",
+      "t1": "00:13",
+      "section": "Intro",
+      "lyric": "Instrumentinė įžanga",
+      "shot": "EWS",
+      "location": "Naktinė automatinių skalbyklių salė",
+      "visual": "Sukasi spalvoti būgnai; Matas stovi nejudėdamas.",
+      "objects": "Skalbimo būgnai, fluorescencinės lempos, mėlynas paltas",
+      "emotion": "sustingusi pradžia"
+    },
+    {
+      "t0": "00:13",
+      "t1": "00:46",
+      "section": "I posmelis",
+      "lyric": "Ką aš padariau ... Bet kažkas pakito",
+      "shot": "Mixed",
+      "location": "Fotokopijų kioskas, troleibusas, akvariumo tunelis, kino teatras",
+      "visual": "Kasdienėse erdvėse kaltė materializuojasi per smulkius veiksmus.",
+      "objects": "Tušti lapai, langų atspindžiai, bilietas, modelinis traukinys",
+      "emotion": "auganti kaltė"
+    },
+    {
+      "t0": "00:46",
+      "t1": "01:25",
+      "section": "Priedainis A",
+      "lyric": "Mano kaltė vienintelė ... vėluojančio traukinio",
+      "shot": "MCU/CU/WS",
+      "location": "Baseino persirengimo kambarys, tiltas, degalinė, liftas, laikrodininko dirbtuvė",
+      "visual": "Personažai trumpam susikerta, bet vis išsiskiria.",
+      "objects": "Veidrodis, aitvaras, laikrodžiai, LED lenta",
+      "emotion": "pripažinimas ir neišsipildymas"
+    },
+    {
+      "t0": "01:25",
+      "t1": "01:54",
+      "section": "II posmelis",
+      "lyric": "Lijo lyg sapne ... Kaip bebūt graudu",
+      "shot": "OTS/CU/MS",
+      "location": "Automobilių plovykla, naktinė biblioteka, repeticijų kambarys, siuvykla",
+      "visual": "Bandymai sutaisyti ryšį griūva; ritmas trūkinėja.",
+      "objects": "Metronomas, adata, stiklinės durys",
+      "emotion": "bejėgiškumas"
+    },
+    {
+      "t0": "01:54",
+      "t1": "02:32",
+      "section": "Priedainis B",
+      "lyric": "Mano kaltė vienintelė ... vėluojančio traukinio",
+      "shot": "WS/EWS",
+      "location": "Apleistas atrakcionų parkas, gėlių kioskas, keltų terminalas, oro uosto vartai",
+      "visual": "Miestas pilnas judesio, bet jų istorija lieka sustojusi.",
+      "objects": "Lelija, išvykimų lenta, vartų numeriai",
+      "emotion": "kulminacinė vienatvė"
+    },
+    {
+      "t0": "02:32",
+      "t1": "02:57",
+      "section": "Solo",
+      "lyric": "Instrumentinė dalis",
+      "shot": "Montage/Tracking",
+      "location": "7 lokacijų montažas ir naktinis miesto autobusas",
+      "visual": "Greita montažinė atminties kaita, po to personažai išlipa skirtingose stotelėse.",
+      "objects": "Aitvaras, bilietas, metronomas, autobuso turėklai",
+      "emotion": "išsiskyrimas"
+    },
+    {
+      "t0": "02:57",
+      "t1": "03:15",
+      "section": "Pabaiga",
+      "lyric": "Mano kaltė vienintelė... (fade out)",
+      "shot": "WS",
+      "location": "Apleista observatorija auštant",
+      "visual": "Kamera tolsta nuo Mato ir Emos po kupolu, lieka miesto panorama.",
+      "objects": "Kupolas, mėlynas aitvaras, ryto šviesa",
+      "emotion": "ramus paleidimas"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "global": {
+    "aspect": "16:9",
+    "fps": 24,
+    "variants_per_shot": 4,
+    "mode": "seed_scan"
+  },
+  "shots": [
+    {
+      "rank": 1,
+      "shot_id": "S18",
+      "section": "Chorus A",
+      "start": "01:21",
+      "end": "01:25",
+      "duration_s": 4,
+      "priority_score": 130,
+      "prompt": "CU macro with specular bloom. Location: museum close aisle. Action: red signal LED blinks in foggy miniature valley. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 2,
+      "shot_id": "S10",
+      "section": "Chorus A",
+      "start": "00:46",
+      "end": "00:50",
+      "duration_s": 4,
+      "priority_score": 120,
+      "prompt": "MCU locked with sudden push-in accent. Location: old locker room. Action: MATAS writes GUILT on fogged mirror, wipes it. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 3,
+      "shot_id": "S27",
+      "section": "Chorus B",
+      "start": "01:58",
+      "end": "02:03",
+      "duration_s": 5,
+      "priority_score": 115,
+      "prompt": "CU wind. Location: hospital rooftop entrance. Action: EMA zips coat and turns away. Visual direction: maximal emotional intensity, fast push-ins, silhouette clashes, strobe-safe but punchy lighting. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 4,
+      "shot_id": "S13",
+      "section": "Chorus A",
+      "start": "00:59",
+      "end": "01:03",
+      "duration_s": 4,
+      "priority_score": 110,
+      "prompt": "EWS high-angle surveillance feel. Location: self-service station. Action: characters appear at separate fuel islands. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 5,
+      "shot_id": "S14",
+      "section": "Chorus A",
+      "start": "01:03",
+      "end": "01:08",
+      "duration_s": 5,
+      "priority_score": 110,
+      "prompt": "CU 15-degree arc rotation around subject. Location: elevator mirrors. Action: MATAS face repeats in reflections. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 6,
+      "shot_id": "S26",
+      "section": "Chorus B",
+      "start": "01:54",
+      "end": "01:58",
+      "duration_s": 4,
+      "priority_score": 105,
+      "prompt": "MCU 120-degree orbit, uneven cadence. Location: abandoned amusement park. Action: carousel spins with MATAS centered still. Visual direction: maximal emotional intensity, fast push-ins, silhouette clashes, strobe-safe but punchy lighting. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 7,
+      "shot_id": "S11",
+      "section": "Chorus A",
+      "start": "00:50",
+      "end": "00:54",
+      "duration_s": 4,
+      "priority_score": 100,
+      "prompt": "CU asymmetrical framing with hard contrast edge light. Location: vet corridor. Action: EMA comforts injured dog, avoids eye contact. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 8,
+      "shot_id": "S12",
+      "section": "Chorus A",
+      "start": "00:54",
+      "end": "00:59",
+      "duration_s": 5,
+      "priority_score": 100,
+      "prompt": "MS side-track + foreground wipe transition. Location: overpass bridge. Action: MATAS releases blue paper kite into traffic wind. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 9,
+      "shot_id": "S15",
+      "section": "Chorus A",
+      "start": "01:08",
+      "end": "01:12",
+      "duration_s": 4,
+      "priority_score": 100,
+      "prompt": "ECU hyper-close with texture detail. Location: clock workshop. Action: CLOCKMAKER stops second hand with fingertip. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    },
+    {
+      "rank": 10,
+      "shot_id": "S16",
+      "section": "Chorus A",
+      "start": "01:12",
+      "end": "01:16",
+      "duration_s": 4,
+      "priority_score": 100,
+      "prompt": "OTS with foreground occlusion and tension sway. Location: empty call center. Action: EMA alone with headset among dark monitors. Visual direction: kinetic handheld pulses, whip transitions, stronger red-blue separation, wet specular highlights. Style: cinematic urban surrealism, realistic skin, subtle film grain, high detail, natural motion. Continuity lock: MATAS dark_blue_coat, EMA dark_red_coat, KITE blue_paper_kite, TICKET paper_ticket, CLOCK vintage_wristwatch. no subtitles, no text overlays, no logos, no watermark, no extra fingers, no deformed face, no duplicate person, avoid flat lighting, avoid centered safe composition, avoid generic stock look."
+    }
+  ]
+}

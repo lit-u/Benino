@@ -1,0 +1,8 @@
+{
+  "mode": "examples",
+  "source_file": "d:\\_PAL\\benino\\workspace\\video\\docs\\examples\\source.mp4",
+  "frames_dir": "d:\\_PAL\\benino\\workspace\\video\\output\\video_automate\\test_examples_mode\\frames_examples",
+  "frame_count": 16,
+  "examples_fps": 0.25,
+  "notes": "Sample frames for manual shot reference and labeling."
+}

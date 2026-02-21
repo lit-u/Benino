@@ -1,0 +1,68 @@
+[
+  {
+    "beat_id": "B1",
+    "beat_text": "Establish world and current status quo.",
+    "shot_type": "EWS",
+    "lens": "24mm",
+    "camera": "Static",
+    "emotion": "Context",
+    "duration_s": 8.18,
+    "purpose": "world",
+    "prompt": "EWS shot, Establish world and current status quo. Camera: Static. Lens feel: 24mm. Emotion: Context. Style: cinematic, natural skin, realistic lighting."
+  },
+  {
+    "beat_id": "B2",
+    "beat_text": "Introduce trigger that disrupts normal flow.",
+    "shot_type": "CU",
+    "lens": "85mm",
+    "camera": "Locked",
+    "emotion": "Disruption",
+    "duration_s": 9.09,
+    "purpose": "trigger",
+    "prompt": "CU shot, Introduce trigger that disrupts normal flow. Camera: Locked. Lens feel: 85mm. Emotion: Disruption. Style: cinematic, natural skin, realistic lighting."
+  },
+  {
+    "beat_id": "B3",
+    "beat_text": "Character reacts with first instinctive attempt.",
+    "shot_type": "MCU",
+    "lens": "50mm",
+    "camera": "Slow push-in",
+    "emotion": "Stress",
+    "duration_s": 10.91,
+    "purpose": "reaction",
+    "prompt": "MCU shot, Character reacts with first instinctive attempt. Camera: Slow push-in. Lens feel: 50mm. Emotion: Stress. Style: cinematic, natural skin, realistic lighting."
+  },
+  {
+    "beat_id": "B4",
+    "beat_text": "Complication raises emotional and practical stakes.",
+    "shot_type": "OTS",
+    "lens": "35mm",
+    "camera": "Handheld subtle",
+    "emotion": "Tension",
+    "duration_s": 11.82,
+    "purpose": "escalation",
+    "prompt": "OTS shot, Complication raises emotional and practical stakes. Camera: Handheld subtle. Lens feel: 35mm. Emotion: Tension. Style: cinematic, natural skin, realistic lighting."
+  },
+  {
+    "beat_id": "B5",
+    "beat_text": "Character reframes problem and chooses new approach.",
+    "shot_type": "MS",
+    "lens": "35mm",
+    "camera": "Tracking slow",
+    "emotion": "Agency",
+    "duration_s": 10.91,
+    "purpose": "turn",
+    "prompt": "MS shot, Character reframes problem and chooses new approach. Camera: Tracking slow. Lens feel: 35mm. Emotion: Agency. Style: cinematic, natural skin, realistic lighting."
+  },
+  {
+    "beat_id": "B6",
+    "beat_text": "Short resolution with visible change and takeaway.",
+    "shot_type": "WS",
+    "lens": "35mm",
+    "camera": "Static",
+    "emotion": "Release",
+    "duration_s": 9.09,
+    "purpose": "resolution",
+    "prompt": "WS shot, Short resolution with visible change and takeaway. Camera: Static. Lens feel: 35mm. Emotion: Release. Style: cinematic, natural skin, realistic lighting."
+  }
+]

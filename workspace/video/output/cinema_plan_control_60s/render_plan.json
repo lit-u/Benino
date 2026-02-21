@@ -1,0 +1,74 @@
+{
+  "theme": "kontrole ir chaosas",
+  "goal": "Parodyti kaip pereinama nuo kontrolės prie adaptacijos",
+  "style": "cinematic, natural skin, realistic lighting",
+  "target_seconds": 60.0,
+  "sequence": [
+    {
+      "beat_id": "B1",
+      "beat_text": "Perfect system is running smoothly and quietly.",
+      "shot_type": "EWS",
+      "lens": "24mm",
+      "camera": "Static",
+      "emotion": "Context",
+      "duration_s": 8.18,
+      "purpose": "world",
+      "prompt": "EWS shot, Perfect system is running smoothly and quietly. Camera: Static. Lens feel: 24mm. Emotion: Context. Style: cinematic, natural skin, realistic lighting."
+    },
+    {
+      "beat_id": "B2",
+      "beat_text": "One monitor or signal fails unexpectedly.",
+      "shot_type": "CU",
+      "lens": "85mm",
+      "camera": "Locked",
+      "emotion": "Disruption",
+      "duration_s": 9.09,
+      "purpose": "trigger",
+      "prompt": "CU shot, One monitor or signal fails unexpectedly. Camera: Locked. Lens feel: 85mm. Emotion: Disruption. Style: cinematic, natural skin, realistic lighting."
+    },
+    {
+      "beat_id": "B3",
+      "beat_text": "Character freezes and scans for cause.",
+      "shot_type": "MCU",
+      "lens": "50mm",
+      "camera": "Slow push-in",
+      "emotion": "Stress",
+      "duration_s": 10.91,
+      "purpose": "reaction",
+      "prompt": "MCU shot, Character freezes and scans for cause. Camera: Slow push-in. Lens feel: 50mm. Emotion: Stress. Style: cinematic, natural skin, realistic lighting."
+    },
+    {
+      "beat_id": "B4",
+      "beat_text": "Failure spreads; pressure rises.",
+      "shot_type": "OTS",
+      "lens": "35mm",
+      "camera": "Handheld subtle",
+      "emotion": "Tension",
+      "duration_s": 11.82,
+      "purpose": "escalation",
+      "prompt": "OTS shot, Failure spreads; pressure rises. Camera: Handheld subtle. Lens feel: 35mm. Emotion: Tension. Style: cinematic, natural skin, realistic lighting."
+    },
+    {
+      "beat_id": "B5",
+      "beat_text": "Character stops over-controlling and prioritizes core fix.",
+      "shot_type": "MS",
+      "lens": "35mm",
+      "camera": "Tracking slow",
+      "emotion": "Agency",
+      "duration_s": 10.91,
+      "purpose": "turn",
+      "prompt": "MS shot, Character stops over-controlling and prioritizes core fix. Camera: Tracking slow. Lens feel: 35mm. Emotion: Agency. Style: cinematic, natural skin, realistic lighting."
+    },
+    {
+      "beat_id": "B6",
+      "beat_text": "System stabilizes; character accepts uncertainty.",
+      "shot_type": "WS",
+      "lens": "35mm",
+      "camera": "Static",
+      "emotion": "Release",
+      "duration_s": 9.09,
+      "purpose": "resolution",
+      "prompt": "WS shot, System stabilizes; character accepts uncertainty. Camera: Static. Lens feel: 35mm. Emotion: Release. Style: cinematic, natural skin, realistic lighting."
+    }
+  ]
+}

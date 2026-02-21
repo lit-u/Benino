@@ -1,0 +1,1175 @@
+{
+  "plan": "kling_batch_order_v1",
+  "goal": "find best takes faster with parallelized high-priority-first rendering",
+  "global_pass_flow": [
+    "seed_scan (4 variants per shot)",
+    "continuity_fix (top 2 variants)",
+    "final_render (top 1 variant)"
+  ],
+  "ordered_priority": [
+    {
+      "shot_id": "S18",
+      "section": "Chorus A",
+      "start": "01:21",
+      "end": "01:25",
+      "priority_score": 130,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S10",
+      "section": "Chorus A",
+      "start": "00:46",
+      "end": "00:50",
+      "priority_score": 120,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S27",
+      "section": "Chorus B",
+      "start": "01:58",
+      "end": "02:03",
+      "priority_score": 115,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S13",
+      "section": "Chorus A",
+      "start": "00:59",
+      "end": "01:03",
+      "priority_score": 110,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S14",
+      "section": "Chorus A",
+      "start": "01:03",
+      "end": "01:08",
+      "priority_score": 110,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S26",
+      "section": "Chorus B",
+      "start": "01:54",
+      "end": "01:58",
+      "priority_score": 105,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S11",
+      "section": "Chorus A",
+      "start": "00:50",
+      "end": "00:54",
+      "priority_score": 100,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S12",
+      "section": "Chorus A",
+      "start": "00:54",
+      "end": "00:59",
+      "priority_score": 100,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S15",
+      "section": "Chorus A",
+      "start": "01:08",
+      "end": "01:12",
+      "priority_score": 100,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S16",
+      "section": "Chorus A",
+      "start": "01:12",
+      "end": "01:16",
+      "priority_score": 100,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S17",
+      "section": "Chorus A",
+      "start": "01:16",
+      "end": "01:21",
+      "priority_score": 100,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S05",
+      "section": "Verse 1",
+      "start": "00:23",
+      "end": "00:28",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S09",
+      "section": "Verse 1",
+      "start": "00:41",
+      "end": "00:46",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S28",
+      "section": "Chorus B",
+      "start": "02:03",
+      "end": "02:07",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S29",
+      "section": "Chorus B",
+      "start": "02:07",
+      "end": "02:11",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S30",
+      "section": "Chorus B",
+      "start": "02:11",
+      "end": "02:15",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S31",
+      "section": "Chorus B",
+      "start": "02:15",
+      "end": "02:19",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S32",
+      "section": "Chorus B",
+      "start": "02:19",
+      "end": "02:24",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S33",
+      "section": "Chorus B",
+      "start": "02:24",
+      "end": "02:28",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S34",
+      "section": "Chorus B",
+      "start": "02:28",
+      "end": "02:32",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S45",
+      "section": "Outro",
+      "start": "02:57",
+      "end": "03:02",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S48",
+      "section": "Outro",
+      "start": "03:10",
+      "end": "03:15",
+      "priority_score": 95,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S01",
+      "section": "Intro",
+      "start": "00:00",
+      "end": "00:06",
+      "priority_score": 90,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S02",
+      "section": "Intro",
+      "start": "00:06",
+      "end": "00:13",
+      "priority_score": 90,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S03",
+      "section": "Verse 1",
+      "start": "00:13",
+      "end": "00:18",
+      "priority_score": 85,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S04",
+      "section": "Verse 1",
+      "start": "00:18",
+      "end": "00:23",
+      "priority_score": 85,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S06",
+      "section": "Verse 1",
+      "start": "00:28",
+      "end": "00:32",
+      "priority_score": 85,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S07",
+      "section": "Verse 1",
+      "start": "00:32",
+      "end": "00:36",
+      "priority_score": 85,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S08",
+      "section": "Verse 1",
+      "start": "00:36",
+      "end": "00:41",
+      "priority_score": 85,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S19",
+      "section": "Verse 2",
+      "start": "01:25",
+      "end": "01:29",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S20",
+      "section": "Verse 2",
+      "start": "01:29",
+      "end": "01:33",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S21",
+      "section": "Verse 2",
+      "start": "01:33",
+      "end": "01:37",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S22",
+      "section": "Verse 2",
+      "start": "01:37",
+      "end": "01:41",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S23",
+      "section": "Verse 2",
+      "start": "01:41",
+      "end": "01:46",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S24",
+      "section": "Verse 2",
+      "start": "01:46",
+      "end": "01:50",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S25",
+      "section": "Verse 2",
+      "start": "01:50",
+      "end": "01:54",
+      "priority_score": 80,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S46",
+      "section": "Outro",
+      "start": "03:02",
+      "end": "03:06",
+      "priority_score": 75,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S47",
+      "section": "Outro",
+      "start": "03:06",
+      "end": "03:10",
+      "priority_score": 75,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S43",
+      "section": "Solo",
+      "start": "02:52",
+      "end": "02:55",
+      "priority_score": 70,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S35",
+      "section": "Solo",
+      "start": "02:32",
+      "end": "02:35",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S36",
+      "section": "Solo",
+      "start": "02:35",
+      "end": "02:37",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S37",
+      "section": "Solo",
+      "start": "02:37",
+      "end": "02:40",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S38",
+      "section": "Solo",
+      "start": "02:40",
+      "end": "02:42",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S39",
+      "section": "Solo",
+      "start": "02:42",
+      "end": "02:45",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S40",
+      "section": "Solo",
+      "start": "02:45",
+      "end": "02:47",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S41",
+      "section": "Solo",
+      "start": "02:47",
+      "end": "02:50",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S42",
+      "section": "Solo",
+      "start": "02:50",
+      "end": "02:52",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    },
+    {
+      "shot_id": "S44",
+      "section": "Solo",
+      "start": "02:55",
+      "end": "02:57",
+      "priority_score": 60,
+      "passes": [
+        "pass_1_seed_scan_4_variants",
+        "pass_2_continuity_fix_top2",
+        "pass_3_final_render_top1"
+      ]
+    }
+  ],
+  "parallel_batches": {
+    "Batch_1": [
+      {
+        "shot_id": "S18",
+        "section": "Chorus A",
+        "start": "01:21",
+        "end": "01:25",
+        "priority_score": 130,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S26",
+        "section": "Chorus B",
+        "start": "01:54",
+        "end": "01:58",
+        "priority_score": 105,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S17",
+        "section": "Chorus A",
+        "start": "01:16",
+        "end": "01:21",
+        "priority_score": 100,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S30",
+        "section": "Chorus B",
+        "start": "02:11",
+        "end": "02:15",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S45",
+        "section": "Outro",
+        "start": "02:57",
+        "end": "03:02",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S04",
+        "section": "Verse 1",
+        "start": "00:18",
+        "end": "00:23",
+        "priority_score": 85,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S20",
+        "section": "Verse 2",
+        "start": "01:29",
+        "end": "01:33",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S25",
+        "section": "Verse 2",
+        "start": "01:50",
+        "end": "01:54",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S36",
+        "section": "Solo",
+        "start": "02:35",
+        "end": "02:37",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S41",
+        "section": "Solo",
+        "start": "02:47",
+        "end": "02:50",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      }
+    ],
+    "Batch_2": [
+      {
+        "shot_id": "S10",
+        "section": "Chorus A",
+        "start": "00:46",
+        "end": "00:50",
+        "priority_score": 120,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S11",
+        "section": "Chorus A",
+        "start": "00:50",
+        "end": "00:54",
+        "priority_score": 100,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S05",
+        "section": "Verse 1",
+        "start": "00:23",
+        "end": "00:28",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S31",
+        "section": "Chorus B",
+        "start": "02:15",
+        "end": "02:19",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S48",
+        "section": "Outro",
+        "start": "03:10",
+        "end": "03:15",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S06",
+        "section": "Verse 1",
+        "start": "00:28",
+        "end": "00:32",
+        "priority_score": 85,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S21",
+        "section": "Verse 2",
+        "start": "01:33",
+        "end": "01:37",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S46",
+        "section": "Outro",
+        "start": "03:02",
+        "end": "03:06",
+        "priority_score": 75,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S37",
+        "section": "Solo",
+        "start": "02:37",
+        "end": "02:40",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S42",
+        "section": "Solo",
+        "start": "02:50",
+        "end": "02:52",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      }
+    ],
+    "Batch_3": [
+      {
+        "shot_id": "S27",
+        "section": "Chorus B",
+        "start": "01:58",
+        "end": "02:03",
+        "priority_score": 115,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S12",
+        "section": "Chorus A",
+        "start": "00:54",
+        "end": "00:59",
+        "priority_score": 100,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S09",
+        "section": "Verse 1",
+        "start": "00:41",
+        "end": "00:46",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S32",
+        "section": "Chorus B",
+        "start": "02:19",
+        "end": "02:24",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S01",
+        "section": "Intro",
+        "start": "00:00",
+        "end": "00:06",
+        "priority_score": 90,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S07",
+        "section": "Verse 1",
+        "start": "00:32",
+        "end": "00:36",
+        "priority_score": 85,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S22",
+        "section": "Verse 2",
+        "start": "01:37",
+        "end": "01:41",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S47",
+        "section": "Outro",
+        "start": "03:06",
+        "end": "03:10",
+        "priority_score": 75,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S38",
+        "section": "Solo",
+        "start": "02:40",
+        "end": "02:42",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S44",
+        "section": "Solo",
+        "start": "02:55",
+        "end": "02:57",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      }
+    ],
+    "Batch_4": [
+      {
+        "shot_id": "S13",
+        "section": "Chorus A",
+        "start": "00:59",
+        "end": "01:03",
+        "priority_score": 110,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S15",
+        "section": "Chorus A",
+        "start": "01:08",
+        "end": "01:12",
+        "priority_score": 100,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S28",
+        "section": "Chorus B",
+        "start": "02:03",
+        "end": "02:07",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S33",
+        "section": "Chorus B",
+        "start": "02:24",
+        "end": "02:28",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S02",
+        "section": "Intro",
+        "start": "00:06",
+        "end": "00:13",
+        "priority_score": 90,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S08",
+        "section": "Verse 1",
+        "start": "00:36",
+        "end": "00:41",
+        "priority_score": 85,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S23",
+        "section": "Verse 2",
+        "start": "01:41",
+        "end": "01:46",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S43",
+        "section": "Solo",
+        "start": "02:52",
+        "end": "02:55",
+        "priority_score": 70,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S39",
+        "section": "Solo",
+        "start": "02:42",
+        "end": "02:45",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      }
+    ],
+    "Batch_5": [
+      {
+        "shot_id": "S14",
+        "section": "Chorus A",
+        "start": "01:03",
+        "end": "01:08",
+        "priority_score": 110,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S16",
+        "section": "Chorus A",
+        "start": "01:12",
+        "end": "01:16",
+        "priority_score": 100,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S29",
+        "section": "Chorus B",
+        "start": "02:07",
+        "end": "02:11",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S34",
+        "section": "Chorus B",
+        "start": "02:28",
+        "end": "02:32",
+        "priority_score": 95,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S03",
+        "section": "Verse 1",
+        "start": "00:13",
+        "end": "00:18",
+        "priority_score": 85,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S19",
+        "section": "Verse 2",
+        "start": "01:25",
+        "end": "01:29",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S24",
+        "section": "Verse 2",
+        "start": "01:46",
+        "end": "01:50",
+        "priority_score": 80,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S35",
+        "section": "Solo",
+        "start": "02:32",
+        "end": "02:35",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      },
+      {
+        "shot_id": "S40",
+        "section": "Solo",
+        "start": "02:45",
+        "end": "02:47",
+        "priority_score": 60,
+        "passes": [
+          "pass_1_seed_scan_4_variants",
+          "pass_2_continuity_fix_top2",
+          "pass_3_final_render_top1"
+        ]
+      }
+    ]
+  }
+}

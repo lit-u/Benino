@@ -1,0 +1,41 @@
+{
+  "plan": "B-hybrid",
+  "duration": "03:15",
+  "real_capture_ratio": "65-75%",
+  "ai_vfx_ratio": "25-35%",
+  "shoot_days": [
+    {
+      "day": 1,
+      "focus": "intro + I posmelis + priedainis A",
+      "time_range": "00:00-01:25"
+    },
+    {
+      "day": 2,
+      "focus": "II posmelis + priedainis B + pabaiga",
+      "time_range": "01:25-03:15"
+    },
+    {
+      "day": 3,
+      "focus": "solo performance + AI plates",
+      "time_range": "02:32-02:57"
+    }
+  ],
+  "core_locations": [
+    "skalbykla",
+    "troleibusas/autobusas",
+    "kino teatras",
+    "baseino persirengimo kambarys",
+    "laikrodininko dirbtuve",
+    "repeticiju kambarys",
+    "terminalo tipo erdve",
+    "observatorija/stogas"
+  ],
+  "post_steps": [
+    "offline rough cut",
+    "performance integration",
+    "ai/vfx compositing",
+    "color grade",
+    "subtitle/text",
+    "final exports"
+  ]
+}

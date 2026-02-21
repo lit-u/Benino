@@ -1,0 +1,47 @@
+{
+  "plan": "kling_only",
+  "duration_s": 195,
+  "shot_target_range": [
+    32,
+    42
+  ],
+  "shot_duration_s": "4-8 (solo 2-4)",
+  "stages": [
+    "previz segmentation",
+    "character/location bible",
+    "kling prompt pass v1",
+    "continuity pass v2",
+    "final render",
+    "premiere assembly"
+  ],
+  "sections": [
+    {
+      "range": "00:00-00:13",
+      "shots": "2"
+    },
+    {
+      "range": "00:13-00:46",
+      "shots": "6-8"
+    },
+    {
+      "range": "00:46-01:25",
+      "shots": "8-10"
+    },
+    {
+      "range": "01:25-01:54",
+      "shots": "6-7"
+    },
+    {
+      "range": "01:54-02:32",
+      "shots": "8-10"
+    },
+    {
+      "range": "02:32-02:57",
+      "shots": "8-12"
+    },
+    {
+      "range": "02:57-03:15",
+      "shots": "3-4"
+    }
+  ]
+}

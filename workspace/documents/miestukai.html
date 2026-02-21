@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="lt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miestukai - Lietuvos Gyvenvietės</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-body: #ffffff;
+            --bg-card: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --accent: #1e293b;
+            --highlight: #fbbf24;
+            --border: #e2e8f0;
+            --risk-low: #16a34a;
+            --risk-med: #d97706;
+            --risk-hi: #dc2626;
+            --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            padding: 20px;
+            line-height: 1.4;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            margin-bottom: 1.5rem;
+            border-left: 4px solid var(--highlight);
+            padding-left: 15px;
+        }
+
+        .header h1 {
+            font-size: 1.25rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: -0.01em;
+            margin-bottom: 0.1rem;
+        }
+
+        .header p {
+            color: var(--text-muted);
+            font-size: 0.7rem;
+        }
+
+        .table-container {
+            border-top: 1px solid var(--border);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th {
+            background: #fafafa;
+            padding: 8px 12px;
+            text-align: left;
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+            font-weight: 700;
+            border-bottom: 1px solid var(--border);
+        }
+
+        td {
+            padding: 6px 12px;
+            vertical-align: middle;
+            border-bottom: 1px solid #f1f5f9;
+            font-size: 0.72rem;
+            transition: background 0.1s;
+        }
+
+        tr:hover td {
+            background: #fffbeb;
+        }
+
+        .photo-cell {
+            width: 50px;
+            text-align: center;
+        }
+
+        .img-wrapper {
+            width: 32px;
+            height: 32px;
+            border-radius: 4px;
+            overflow: hidden;
+            position: relative;
+            background: #f1f5f9;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            z-index: 1;
+            border: 1px solid var(--border);
+        }
+
+        .img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .img-wrapper:hover {
+            transform: scale(8);
+            transform-origin: left center;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+            z-index: 100;
+            border-radius: 2px;
+            border: 0.5px solid white;
+        }
+
+        .nr {
+            font-weight: 500;
+            color: var(--text-muted);
+            width: 30px;
+            font-size: 0.65rem;
+        }
+
+        .savivaldybe {
+            color: var(--text-muted);
+            font-size: 0.65rem;
+        }
+
+        .gyvenviete {
+            font-weight: 700;
+            color: #000;
+        }
+
+        .skaicius {
+            font-variant-numeric: tabular-nums;
+            text-align: right;
+        }
+
+        .footer {
+            margin-top: 2rem;
+            color: var(--text-muted);
+            font-size: 0.6rem;
+            text-align: right;
+            border-top: 1px solid var(--border);
+            padding-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Miestukai</h1>
+            <p>Sėkmės.lt duomenų bazė / Lietuvos gyvenvietės</p>
+        </div>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="photo-cell">FOTO</th>
+                        <th class="nr">Nr</th>
+                        <th>Gyvenvietė</th>
+                        <th>SAVIV</th>
+                        <th class="skaicius">GYVENT</th>
+                        <th class="skaicius">Jūra</th>
+                        <th class="skaicius">Mokiniai</th>
+                        <th>Mokykla</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/palanga.jpg" alt="Palanga"></div>
+                        </td>
+                        <td class="nr">1</td>
+                        <td class="gyvenviete">Palanga</td>
+                        <td class="savivaldybe">Palangos m. sav.</td>
+                        <td class="skaicius">18100</td>
+                        <td class="skaicius">0 km</td>
+                        <td class="skaicius">2500</td>
+                        <td>Gimnazijos / progimnazijos</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/sventoji.jpg" alt="Šventoji"></div>
+                        </td>
+                        <td class="nr">2</td>
+                        <td class="gyvenviete">Šventoji</td>
+                        <td class="savivaldybe">Palangos m. sav.</td>
+                        <td class="skaicius">2000</td>
+                        <td class="skaicius">0 km</td>
+                        <td class="skaicius">250</td>
+                        <td>Pagrindinė / skyrius</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/kretinga.jpg" alt="Kretinga"></div>
+                        </td>
+                        <td class="nr">3</td>
+                        <td class="gyvenviete">Kretinga</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">17200</td>
+                        <td class="skaicius">12 km</td>
+                        <td class="skaicius">2300</td>
+                        <td>Gimnazijos / progimnazijos</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/vydmantai.jpg" alt="Vydmantai"></div>
+                        </td>
+                        <td class="nr">4</td>
+                        <td class="gyvenviete">Vydmantai</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">1600</td>
+                        <td class="skaicius">6 km</td>
+                        <td class="skaicius">420</td>
+                        <td>Gimnazija</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/darbenai.jpg" alt="Darbėnai"></div>
+                        </td>
+                        <td class="nr">5</td>
+                        <td class="gyvenviete">Darbėnai</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">1200</td>
+                        <td class="skaicius">15 km</td>
+                        <td class="skaicius">280</td>
+                        <td>Pagrindinė / skyrius</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/salantai.jpg" alt="Salantai"></div>
+                        </td>
+                        <td class="nr">6</td>
+                        <td class="gyvenviete">Salantai</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">1300</td>
+                        <td class="skaicius">30 km</td>
+                        <td class="skaicius">300</td>
+                        <td>Progimnazija</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/kulupenai.jpg" alt="Kūlupėnai"></div>
+                        </td>
+                        <td class="nr">7</td>
+                        <td class="gyvenviete">Kūlupėnai</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">900</td>
+                        <td class="skaicius">18 km</td>
+                        <td class="skaicius">220</td>
+                        <td>Pagrindinė mokykla</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/jokubavas.jpg" alt="Jokūbavas"></div>
+                        </td>
+                        <td class="nr">8</td>
+                        <td class="gyvenviete">Jokūbavas</td>
+                        <td class="savivaldybe">Kretingos r. sav.</td>
+                        <td class="skaicius">900</td>
+                        <td class="skaicius">20 km</td>
+                        <td class="skaicius">230</td>
+                        <td>Progimnazija</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/klaipeda.jpg" alt="Klaipėda"></div>
+                        </td>
+                        <td class="nr">9</td>
+                        <td class="gyvenviete">Klaipėda</td>
+                        <td class="savivaldybe">Klaipėdos m. sav.</td>
+                        <td class="skaicius">160000</td>
+                        <td class="skaicius">0 km</td>
+                        <td class="skaicius">18000</td>
+                        <td>Gimnazijos / progimnazijos</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/gargzdai.jpg" alt="Gargždai"></div>
+                        </td>
+                        <td class="nr">10</td>
+                        <td class="gyvenviete">Gargždai</td>
+                        <td class="savivaldybe">Klaipėdos r. sav.</td>
+                        <td class="skaicius">15000</td>
+                        <td class="skaicius">20 km</td>
+                        <td class="skaicius">2200</td>
+                        <td>Gimnazijos / progimnazijos</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/priekule.jpg" alt="Priekulė"></div>
+                        </td>
+                        <td class="nr">11</td>
+                        <td class="gyvenviete">Priekulė</td>
+                        <td class="savivaldybe">Klaipėdos r. sav.</td>
+                        <td class="skaicius">1900</td>
+                        <td class="skaicius">15 km</td>
+                        <td class="skaicius">450</td>
+                        <td>Gimnazija / progimnazija</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/dovilai.jpg" alt="Dovilai"></div>
+                        </td>
+                        <td class="nr">12</td>
+                        <td class="gyvenviete">Dovilai</td>
+                        <td class="savivaldybe">Klaipėdos r. sav.</td>
+                        <td class="skaicius">1250</td>
+                        <td class="skaicius">12 km</td>
+                        <td class="skaicius">260</td>
+                        <td>Pagrindinė mokykla</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/nida.jpg" alt="Nida"></div>
+                        </td>
+                        <td class="nr">13</td>
+                        <td class="gyvenviete">Nida</td>
+                        <td class="savivaldybe">Neringos sav.</td>
+                        <td class="skaicius">1500</td>
+                        <td class="skaicius">0 km</td>
+                        <td class="skaicius">180</td>
+                        <td>Gimnazija (1–12 kl.)</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/silute.jpg" alt="Šilutė"></div>
+                        </td>
+                        <td class="nr">14</td>
+                        <td class="gyvenviete">Šilutė</td>
+                        <td class="savivaldybe">Šilutės r. sav.</td>
+                        <td class="skaicius">16000</td>
+                        <td class="skaicius">35 km</td>
+                        <td class="skaicius">2100</td>
+                        <td>Gimnazijos / progimnazijos</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/sveksna.jpg" alt="Švėkšna"></div>
+                        </td>
+                        <td class="nr">15</td>
+                        <td class="gyvenviete">Švėkšna</td>
+                        <td class="savivaldybe">Šilutės r. sav.</td>
+                        <td class="skaicius">1300</td>
+                        <td class="skaicius">45 km</td>
+                        <td class="skaicius">320</td>
+                        <td>Gimnazija</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/rusne.jpg" alt="Rusnė"></div>
+                        </td>
+                        <td class="nr">16</td>
+                        <td class="gyvenviete">Rusnė</td>
+                        <td class="savivaldybe">Šilutės r. sav.</td>
+                        <td class="skaicius">1100</td>
+                        <td class="skaicius">10 km</td>
+                        <td class="skaicius">200</td>
+                        <td>Pagrindinė mokykla</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/naumiestis.jpg" alt="Žemaičių Naumiestis">
+                            </div>
+                        </td>
+                        <td class="nr">17</td>
+                        <td class="gyvenviete">Žemaičių Naumiestis</td>
+                        <td class="savivaldybe">Šilutės r. sav.</td>
+                        <td class="skaicius">1080</td>
+                        <td class="skaicius">50 km</td>
+                        <td class="skaicius">210</td>
+                        <td>Pagrindinė mokykla</td>
+                    </tr>
+                    <tr>
+                        <td class="photo-cell">
+                            <div class="img-wrapper"><img src="file:///d:/_PAL/benino/agent-network/public/img/miestukai/kintai.jpg" alt="Kintai"></div>
+                        </td>
+                        <td class="nr">18</td>
+                        <td class="gyvenviete">Kintai</td>
+                        <td class="savivaldybe">Šilutės r. sav.</td>
+                        <td class="skaicius">600</td>
+                        <td class="skaicius">5 km</td>
+                        <td class="skaicius">120</td>
+                        <td>Pagrindinė mokykla</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="footer">
+            &copy; 2026 Pajūrio Portalas - Sekmės.lt stiliaus refinement
+        </div>
+    </div>
+</body>
+
+</html>

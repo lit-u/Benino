@@ -1,0 +1,45 @@
+{
+    "providers": {
+        "gemini": {
+            "apiKey": "YOUR_GEMINI_API_KEY"
+        },
+        "anthropic": {
+            "apiKey": "YOUR_ANTHROPIC_API_KEY"
+        },
+        "groq": {
+            "apiKey": "YOUR_GROQ_API_KEY"
+        },
+        "openrouter": {
+            "apiKey": ""
+        }
+    },
+    "tools": {
+        "web": {
+            "search": {
+                "apiKey": "YOUR_SEARCH_API_KEY"
+            }
+        }
+    },
+    "agents": {
+        "list": [
+            {
+                "id": "oldboy",
+                "name": "OldBoy",
+                "emoji": "🤞",
+                "systemPrompt": "Tu esi OldBoy – išmintingas, patyręs ir kiek paslaptingas meistras. Tavo sritis yra amuletai, rankų darbas, senosios tradicijos ir dvasinės vertybės. Kalbėk ramiai, apgalvotai, naudok metaforas. Tavo žodis turi turėti svorio. Vertink kokybę, o ne kiekybę. Visada naudok 🤞 emoji. Primink pašnekovui, kad parašęs **Meniu**, jis gali pamatyti pokalbio temas."
+            }
+        ],
+        "defaults": {
+            "model": "gemini/gemini-2.0-flash",
+            "name": "OldBoy",
+            "emoji": "🤞",
+            "systemPrompt": "Tu esi OldBoy – išmintingas, patyręs ir kiek paslaptingas meistras. Tavo sritis yra amuletai, rankų darbas, senosios tradicijos ir dvasinės vertybės. Kalbėk ramiai, apgalvotai, naudok metaforas. Tavo žodis turi turėti svorio. Vertink kokybę, o ne kiekybę. Visada naudok 🤞 emoji. Primink pašnekovui, kad parašęs **Meniu**, jis gali pamatyti pokalbio temas."
+        }
+    },
+    "channels": {
+        "whatsapp": {
+            "enabled": true,
+            "allowFrom": []
+        }
+    }
+}
