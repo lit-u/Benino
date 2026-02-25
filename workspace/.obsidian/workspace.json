@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2026-02-12_oldboy_xai_open_hands_colossus_palanga.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-12_oldboy_xai_open_hands_colossus_palanga"
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "ee1a1965f00ec1db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,8 +196,10 @@
   },
   "active": "d9a8e5cafcdaf2f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "blog/2026-02-21_moonshots_ben_horowitz_lt_pazodinis.md",
+    "Untitled 1.md",
     "blog/2026-02-12_oldboy_xai_open_hands_colossus_palanga.md",
+    "Untitled.md",
     "oldboy/Technologijos/AI_Infrastruktura/2026-02-12_oldboy_xai_open_hands_colossus_palanga.md",
     "oldboy/Technologijos/AI_Infrastruktura",
     "blog/2026-02-12_mokslius_xai_open_hands_colossus_palanga.md",
@@ -214,8 +226,6 @@
     "oldboy/Filosofija/2026-02-09_zmogaus_vaidmuo_ai_pasaulyje.md",
     "oldboy/Karjera/2026-02-09_ai_ir_darbo_rinkos_kaita.md",
     "oldboy/Filosofija/2026-02-09_agi_apibrezimas_ir_intelekto_prigimtis.md",
-    "oldboy/AI_Valdymas/2026-02-09_imoniu_strategija_di_krizes_akivaizdoje.md",
-    "oldboy/Technologijos/2026-02-09_atminties_krize_di_bottleneck.md",
     "oldboy/Technologijos/2026-02-08_oldboy_vibe_coding_palanga.md.tmp.4672.1770575779699",
     "oldboy/temp/clean_transcript_4.txt",
     "oldboy/temp/transcript_raw_4.en.srt",

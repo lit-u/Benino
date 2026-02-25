@@ -1,4 +1,4 @@
-﻿# xAI Exodus, Apple AI Crisis & Economic Reform | Ben Horowitz (a16z)
+# xAI Exodus, Apple AI Crisis & Economic Reform | Ben Horowitz (a16z)
 
 **Šaltinis (YouTube):** https://www.youtube.com/watch?v=C1GLT9_tag0  
 **Tipas:** Pažodinis vertimas (LT)  

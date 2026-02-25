@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - Palanga_Edition
   - OldBoy_Extracts
