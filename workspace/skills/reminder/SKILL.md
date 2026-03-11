@@ -1,7 +1,6 @@
 ---
 name: reminder
 description: Set WhatsApp reminders and recurring notifications using cron tool.
-always: true
 ---
 
 # Reminder Skill

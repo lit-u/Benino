@@ -1,7 +1,6 @@
 ---
 name: tts
 description: Generate Lithuanian text-to-speech audio using edge-tts.
-always: false
 ---
 
 # TTS (Text-to-Speech) Skill

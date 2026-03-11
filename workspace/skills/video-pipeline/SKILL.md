@@ -1,7 +1,6 @@
 ---
 name: video-pipeline
 description: Analyze video URLs, extract content, generate informative clips with Lithuanian voiceover.
-always: false
 ---
 
 # Video Pipeline Skill

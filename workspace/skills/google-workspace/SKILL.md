@@ -1,7 +1,6 @@
 ---
 name: google-workspace
 description: Naudoti Gmail, Google Drive, Calendar, Sheets ir Contacts per gogcli CLI. Veiksmams: tikrinti el. paštą, siųsti žinutes, skaityti/įkelti failus į Drive, peržiūrėti/kurti kalendoriaus įvykius, skaityti/atnaujinti Sheets lentas.
-always: false
 ---
 
 # Google Workspace Skill

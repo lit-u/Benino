@@ -1,7 +1,6 @@
 ---
 name: summarize
 description: Summarize URLs/files/YouTube with built-in tools (no external summarize binary required).
-always: false
 ---
 
 # Summarize Skill (Workspace Override)

@@ -1,7 +1,6 @@
 ---
 name: content-digest
 description: Generate daily/weekly content digest from workspace blog and themes.
-always: false
 ---
 
 # Content Digest Skill
