@@ -1,0 +1,3095 @@
+{
+  "Palanga": [
+    {
+      "name": "1925",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9168283,21.0644379"
+    },
+    {
+      "name": "4palanga",
+      "type": "Restoranas",
+      "opening_hours": "10:00-24:00",
+      "phone": "+370 609 72706",
+      "website": "http://www.4palanga.lt/",
+      "maps": "https://www.google.com/maps?q=55.9190896,21.0673576"
+    },
+    {
+      "name": "A-petit",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.916188,21.0707114"
+    },
+    {
+      "name": "Amsterdam Plaza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 673 33175",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9215681,21.0681066"
+    },
+    {
+      "name": "Armėniški šašlykai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.918062,21.0595974"
+    },
+    {
+      "name": "Avenue Brasserie",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+370 677 30804",
+      "website": "https://www.facebook.com/AvenueBrasserie/",
+      "maps": "https://www.google.com/maps?q=55.9125549,21.0639075"
+    },
+    {
+      "name": "Balzac",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9068252,21.0561753"
+    },
+    {
+      "name": "Bandukė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9178624,21.0615773"
+    },
+    {
+      "name": "Barbarosa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9150116,21.0614154"
+    },
+    {
+      "name": "Barcode",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 09:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9150576,21.0652676"
+    },
+    {
+      "name": "Best Baltic",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9212763,21.0701156"
+    },
+    {
+      "name": "Blynas",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9173189,21.0610732"
+    },
+    {
+      "name": "Blyninė Ema",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9205757,21.0654061"
+    },
+    {
+      "name": "Blyninė „Medutis“",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9221989,21.0621679"
+    },
+    {
+      "name": "Brew",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9114973,21.0632918"
+    },
+    {
+      "name": "Cafe Volunge",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9182916,21.0729794"
+    },
+    {
+      "name": "Cafe banduke",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9183794,21.0699964"
+    },
+    {
+      "name": "Caffeine",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "phone": "+37069977541",
+      "website": "https://caffeine.lt/",
+      "maps": "https://www.google.com/maps?q=55.9170993,21.0657354"
+    },
+    {
+      "name": "Can Can Pizza",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 10:00-21:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.913535,21.0777579"
+    },
+    {
+      "name": "Chateau Amber",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37061439919",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9389703,21.0615373"
+    },
+    {
+      "name": "Checkpoint",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9167383,21.0659623"
+    },
+    {
+      "name": "Chicksy Cafe",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9293727,21.0608655"
+    },
+    {
+      "name": "Cosiness",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9206521,21.0646638"
+    },
+    {
+      "name": "D-Max",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9175742,21.0808268"
+    },
+    {
+      "name": "Du broliai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9284194,21.0732677"
+    },
+    {
+      "name": "Eat Joda Pizza",
+      "type": "Restoranas",
+      "opening_hours": "Tu, We, Su 11:00-21:00; Fr, Sa 11:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9155822,21.0695688"
+    },
+    {
+      "name": "Floros simfonija",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37062688855",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.919362,21.0569738"
+    },
+    {
+      "name": "Fotokava",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9201121,21.0675247"
+    },
+    {
+      "name": "Fumosumo",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 12:00-00:00",
+      "phone": "+370 623 65 355",
+      "website": "http://fumosumo.com",
+      "maps": "https://www.google.com/maps?q=55.917706,21.05319"
+    },
+    {
+      "name": "Gabija",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9100159,21.0628746"
+    },
+    {
+      "name": "Genys Garden Palanga",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9153825,21.0667994"
+    },
+    {
+      "name": "Gruzinų Namai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9184544,21.0577078"
+    },
+    {
+      "name": "I. Nenartenienes",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9181499,21.0707663"
+    },
+    {
+      "name": "Kablys",
+      "type": "Pub",
+      "opening_hours": "Su-Th 10:00-23:45, Fr,Sa 10:00-03:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9121904,21.0579381"
+    },
+    {
+      "name": "Kavinė-baras „Pušynas“",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9271096,21.0639739"
+    },
+    {
+      "name": "Kefyro ūsai",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9181802,21.0688225"
+    },
+    {
+      "name": "Kepurė",
+      "type": "Kavinė",
+      "opening_hours": "\"Darbo laikas pagal žmonių srautą\"",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9148477,21.0661078"
+    },
+    {
+      "name": "Kino kiemelis",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9155472,21.0657837"
+    },
+    {
+      "name": "Kinza",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 12:00-00:00",
+      "phone": "+370 623 65 355",
+      "website": "https://www.kinza.lt/",
+      "maps": "https://www.google.com/maps?q=55.9178044,21.0531784"
+    },
+    {
+      "name": "Klaipedos duona bakery",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9183061,21.0706998"
+    },
+    {
+      "name": "Klubas Ramybė",
+      "type": "Baras",
+      "opening_hours": "\"Priklauso nuo renginių\"",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9128231,21.0634181"
+    },
+    {
+      "name": "Knygų namelis",
+      "type": "public_bookcase",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9078837,21.0558889"
+    },
+    {
+      "name": "Kopa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9249522,21.0710674"
+    },
+    {
+      "name": "La Familia",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9210761,21.0630027"
+    },
+    {
+      "name": "Liepa",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9163841,21.0864624"
+    },
+    {
+      "name": "Lietuvos Rytas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9174268,21.0621208"
+    },
+    {
+      "name": "Luizė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9183255,21.0728284"
+    },
+    {
+      "name": "Max Coffee",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 10:00-22:00; Su 10:00-21:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9183436,21.0669527"
+    },
+    {
+      "name": "Meat lovers",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9214808,21.0705925"
+    },
+    {
+      "name": "Medūza",
+      "type": "Kavinė",
+      "opening_hours": "sunrise-sunset",
+      "phone": null,
+      "website": "https://www.pkmeduza.lt/restoranas/",
+      "maps": "https://www.google.com/maps?q=55.949005,21.0645835"
+    },
+    {
+      "name": "Meška Kopose",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-21:00",
+      "phone": "(0-666) 44169",
+      "website": "https://sites.google.com/view/meskakopose",
+      "maps": "https://www.google.com/maps?q=55.9277515,21.0579918"
+    },
+    {
+      "name": "Monika",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9174294,21.0630636"
+    },
+    {
+      "name": "Močiučių restoranas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9152881,21.0615131"
+    },
+    {
+      "name": "Mūza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9179934,21.0735513"
+    },
+    {
+      "name": "Onore",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9173117,21.0645309"
+    },
+    {
+      "name": "PJazz",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9191476,21.0539702"
+    },
+    {
+      "name": "Pajūrio kepyklėlė",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Su 08:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9189029,21.0725979"
+    },
+    {
+      "name": "Pas Neringą",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9255366,21.069965"
+    },
+    {
+      "name": "Pelikanas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9118021,21.0588395"
+    },
+    {
+      "name": "Pizza Express",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+37062014444",
+      "website": "https://www.noriupicos.lt/",
+      "maps": "https://www.google.com/maps?q=55.9203965,21.0809172"
+    },
+    {
+      "name": "Pušų paunksnėje",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9112193,21.0607934"
+    },
+    {
+      "name": "Relax terasa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.926201,21.0670768"
+    },
+    {
+      "name": "Resort pub",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.resortpub.lt/",
+      "maps": "https://www.google.com/maps?q=55.9175746,21.0625624"
+    },
+    {
+      "name": "Restobaras Auksinis Kranas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.915212,21.0766429"
+    },
+    {
+      "name": "Rąžė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9160074,21.0659163"
+    },
+    {
+      "name": "Rūta",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9180925,21.0668543"
+    },
+    {
+      "name": "Senoji Hansa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9180832,21.0591835"
+    },
+    {
+      "name": "Ship pub",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9215185,21.0689088"
+    },
+    {
+      "name": "Sun Meri",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9219707,21.0596876"
+    },
+    {
+      "name": "Sushi Express",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.916949,21.0655926"
+    },
+    {
+      "name": "Sushi Masters",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-01:00; Su 12:00-23:00",
+      "phone": null,
+      "website": "https://sushimasters.lt/palanga/",
+      "maps": "https://www.google.com/maps?q=55.9149504,21.0664107"
+    },
+    {
+      "name": "Takava",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": "+37063011191",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9179528,21.0748746"
+    },
+    {
+      "name": "Terasa Vasara",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9195743,21.0566519"
+    },
+    {
+      "name": "Trendas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9158558,21.0602331"
+    },
+    {
+      "name": "Ukrainietiška Virtuvė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9169869,21.0616725"
+    },
+    {
+      "name": "Vanagupė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 460 41199",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9402772,21.0762925"
+    },
+    {
+      "name": "Vandenis Muzikos Klubas",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9142178,21.0567781"
+    },
+    {
+      "name": "VietThai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9179246,21.0599862"
+    },
+    {
+      "name": "Vika",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9144393,21.06719"
+    },
+    {
+      "name": "Vila Ramybė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9120124,21.063665"
+    },
+    {
+      "name": "Volungė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": "846032369",
+      "website": "https://volunge.business.site/",
+      "maps": "https://www.google.com/maps?q=55.9183005,21.072991"
+    },
+    {
+      "name": "de Cuba",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 460 51011",
+      "website": "https://www.decuba.lt/",
+      "maps": "https://www.google.com/maps?q=55.9182452,21.0601971"
+    },
+    {
+      "name": "grás",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.restoranasgras.lt/",
+      "maps": "https://www.google.com/maps?q=55.9156656,21.0553287"
+    },
+    {
+      "name": "Čiki Puki",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9166178,21.061957"
+    },
+    {
+      "name": "Čili pica",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://cili.lt/",
+      "maps": "https://www.google.com/maps?q=55.9191387,21.0529095"
+    },
+    {
+      "name": "Šilelis Gastro-pub",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 11:00-24:00; Fr 00:00-01:00,11:00-24:00; Sa 00:00-02:00,12:00-24:00; Su 12:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9208499,21.0684559"
+    },
+    {
+      "name": "Žuvinė",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.918917,21.0554776"
+    },
+    {
+      "name": "Žuvėdra",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9144629,21.053273"
+    }
+  ],
+  "Šventoji": [
+    {
+      "name": "Astra Kavinė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0300321,21.0871533"
+    },
+    {
+      "name": "Auksinės kopos",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0197126,21.0759828"
+    },
+    {
+      "name": "Burger Box",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.facebook.com/gangstergrillterasa/",
+      "maps": "https://www.google.com/maps?q=56.0293611,21.0849946"
+    },
+    {
+      "name": "Du Malūnai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.029589,21.0836422"
+    },
+    {
+      "name": "Edeno sodas",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0296625,21.0824795"
+    },
+    {
+      "name": "Floros Simfonija",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0327165,21.0798334"
+    },
+    {
+      "name": "Galera",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 08:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0334562,21.0775414"
+    },
+    {
+      "name": "Galeros Valgykla",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su,PH 09:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0336402,21.0773522"
+    },
+    {
+      "name": "Gyvo alaus namai",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0322391,21.0790456"
+    },
+    {
+      "name": "Kavinė",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th 10:00-22:00; Fr 10:00-23:00; Sa 10:00-24:00; Su 10:00-20:00",
+      "phone": null,
+      "website": "https://energetikas.lt/kitos-paslaugos/kavine/",
+      "maps": "https://www.google.com/maps?q=56.0383884,21.0766507"
+    },
+    {
+      "name": "Kavinė Aušra",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0219864,21.0789023"
+    },
+    {
+      "name": "Kavinė MŪZA",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0204194,21.0753134"
+    },
+    {
+      "name": "Kavinė Žirnis",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0240767,21.0791793"
+    },
+    {
+      "name": "Kebabai",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0298936,21.0807322"
+    },
+    {
+      "name": "Ledų parduotuvė",
+      "type": "Ledai",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0259616,21.0760145"
+    },
+    {
+      "name": "Močiutės blyninė",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0206617,21.0752022"
+    },
+    {
+      "name": "Nendrinė Pastogė",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-24:00",
+      "phone": "+370 616 71216",
+      "website": "http://nendrinepastoge.lt",
+      "maps": "https://www.google.com/maps?q=56.0239394,21.1080936"
+    },
+    {
+      "name": "Paršelio Rojus",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su,PH 10:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.030116,21.0805509"
+    },
+    {
+      "name": "Po Liepa",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su,PH 10:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0296542,21.0814488"
+    },
+    {
+      "name": "Rapi Beach Bar",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0265162,21.0703873"
+    },
+    {
+      "name": "Relax Park",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0376527,21.0750236"
+    },
+    {
+      "name": "Samogitian Irish Pub",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0303461,21.080395"
+    },
+    {
+      "name": "Titanikas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su,PH 00:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0305211,21.0801114"
+    },
+    {
+      "name": "Valgykla",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 09:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.031183,21.0803893"
+    },
+    {
+      "name": "Valgykla „Aušra“",
+      "type": "Kavinė",
+      "opening_hours": "Jun-Aug Mo-Su 08:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0217439,21.0771001"
+    },
+    {
+      "name": "Vikingas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su,PH 09:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0306612,21.0805614"
+    },
+    {
+      "name": "Volungė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0269833,21.0801111"
+    },
+    {
+      "name": "Čili pica",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0313164,21.0799818"
+    },
+    {
+      "name": "Żvejo dukros",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0326632,21.078257"
+    },
+    {
+      "name": "Žara",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0191706,21.0773081"
+    }
+  ],
+  "Kretinga": [
+    {
+      "name": "Alynas",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.895024,21.2344542"
+    },
+    {
+      "name": "Britanija Rock Pub",
+      "type": "Baras",
+      "opening_hours": "Mo-Th 10:00-00:00; Fr-Sa 10:00-02:00; Su 12:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8887997,21.247065"
+    },
+    {
+      "name": "Burger Pizza House",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.896922,21.2441312"
+    },
+    {
+      "name": "Crisperia",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8931049,21.2660734"
+    },
+    {
+      "name": "Draugų picerija",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8917425,21.2611775"
+    },
+    {
+      "name": "Kavinė Grifas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Sa 08:00-19:00",
+      "phone": "+37064866877",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8892402,21.2408218"
+    },
+    {
+      "name": "Kebabai",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8880656,21.2410622"
+    },
+    {
+      "name": "M. Valančiaus svetainė",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 10:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.890467,21.2443716"
+    },
+    {
+      "name": "Nida",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 09:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8904045,21.2412923"
+    },
+    {
+      "name": "Pas grafą",
+      "type": "Kavinė",
+      "opening_hours": "Tu-Su 12:00-23:00",
+      "phone": "+370 445 51 366",
+      "website": "http://www.pasgrafa.lt",
+      "maps": "https://www.google.com/maps?q=55.8999561,21.2487885"
+    },
+    {
+      "name": "Pizza Express",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8930908,21.2661601"
+    },
+    {
+      "name": "Retro",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+370 445 54 820",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8908726,21.259358"
+    },
+    {
+      "name": "Smagratis",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-23:55",
+      "phone": "+37065799157",
+      "website": "https://www.smagratis.lt/",
+      "maps": "https://www.google.com/maps?q=55.8934736,21.265296"
+    },
+    {
+      "name": "Sushi Masters",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8930169,21.2667418"
+    },
+    {
+      "name": "Užkandinė Alyva",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 01:00-22:00",
+      "phone": "+37067295454",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8842433,21.2302048"
+    },
+    {
+      "name": "Vienaragio Malūnas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8869525,21.2372562"
+    },
+    {
+      "name": "Vienkiemis",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.9108255,21.2483226"
+    },
+    {
+      "name": "Špunka",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.8893532,21.2438578"
+    }
+  ],
+  "Vydmantai": [],
+  "Darbėnai": [
+    {
+      "name": "Spilgutė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0224363,21.2580896"
+    }
+  ],
+  "Salantai": [
+    {
+      "name": "Pakalnutė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0596496,21.5709603"
+    },
+    {
+      "name": "Verona",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=56.0600262,21.5718786"
+    }
+  ],
+  "Kūlupėnai": [],
+  "Jokūbavas": [],
+  "Klaipėda": [
+    {
+      "name": "10 Tiltų krantas",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-23:00; Su 10:00-20:00",
+      "phone": "+370 648 03330",
+      "website": "https://www.facebook.com/p/10-TILT%C5%B2-Krantas-61554231871922/",
+      "maps": "https://www.google.com/maps?q=55.7066004,21.1229963"
+    },
+    {
+      "name": "10 tiltų",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7090333,21.1348848"
+    },
+    {
+      "name": "Agluona",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00",
+      "phone": "+370 604 41822",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6919318,21.1467311"
+    },
+    {
+      "name": "Aismarės",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 10:00-18:00",
+      "phone": null,
+      "website": "https://aismares.lt/kavine",
+      "maps": "https://www.google.com/maps?q=55.7065819,21.1443291"
+    },
+    {
+      "name": "Akademikai",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 21:00-06:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6982106,21.1492567"
+    },
+    {
+      "name": "Alaus uostas",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.672297,21.1913227"
+    },
+    {
+      "name": "Alynas",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7273694,21.1413894"
+    },
+    {
+      "name": "Ateik Ateik",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 09:00-22:30",
+      "phone": "+370 601 43115",
+      "website": "https://belaiko.lt/upe/",
+      "maps": "https://www.google.com/maps?q=55.7114594,21.1377666"
+    },
+    {
+      "name": "Auksinis liūtas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7071315,21.136882"
+    },
+    {
+      "name": "Aurora",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6890751,21.1414156"
+    },
+    {
+      "name": "Baltasis žirgas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.711616,21.1305501"
+    },
+    {
+      "name": "Baltoji Varnelė",
+      "type": "Ledai",
+      "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-14:00; Su off",
+      "phone": null,
+      "website": "https://baltojivarnele.lt/",
+      "maps": "https://www.google.com/maps?q=55.6938305,21.1777171"
+    },
+    {
+      "name": "Bandelių kepyklėlė",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7002665,21.1611342"
+    },
+    {
+      "name": "Baras Pinta",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6779077,21.1524302"
+    },
+    {
+      "name": "Bardakas",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7092305,21.1315779"
+    },
+    {
+      "name": "Biržų duona",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.birzuduona.lt/",
+      "maps": "https://www.google.com/maps?q=55.7167643,21.1288395"
+    },
+    {
+      "name": "Biskvitas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7186329,21.1458181"
+    },
+    {
+      "name": "Boogie Woogie",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6660596,21.1756224"
+    },
+    {
+      "name": "Boso pica",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.bosopica.lt/",
+      "maps": "https://www.google.com/maps?q=55.6810331,21.1514416"
+    },
+    {
+      "name": "CaCa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 675 77074",
+      "website": "https://cacarestoranas.lt/",
+      "maps": "https://www.google.com/maps?q=55.6973963,21.1194736"
+    },
+    {
+      "name": "Cafe Klaipėda",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7198641,21.1376272"
+    },
+    {
+      "name": "Caffeine",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+      "phone": "+37069977541",
+      "website": "https://caffeine.lt/",
+      "maps": "https://www.google.com/maps?q=55.7097408,21.1336879"
+    },
+    {
+      "name": "Caif Cafe",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 08:00-21:00",
+      "phone": "+370 659 02127",
+      "website": "https://caifcafe.lt",
+      "maps": "https://www.google.com/maps?q=55.6930978,21.154378"
+    },
+    {
+      "name": "CanCan pizza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6916798,21.1565281"
+    },
+    {
+      "name": "Casa De Locos",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7096033,21.1348552"
+    },
+    {
+      "name": "Centras",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7177083,21.1286445"
+    },
+    {
+      "name": "Charlie Pizza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.72838,21.1241077"
+    },
+    {
+      "name": "Charlie pizza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6632427,21.1773046"
+    },
+    {
+      "name": "Coffee King",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa, Su 10:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7152021,21.1283704"
+    },
+    {
+      "name": "Corner Gastropub",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7119494,21.130423"
+    },
+    {
+      "name": "Craft Pizza",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-21:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6641981,21.1777905"
+    },
+    {
+      "name": "Cremia",
+      "type": "Ledai",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7072609,21.1323239"
+    },
+    {
+      "name": "Crisperia",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6891566,21.1549324"
+    },
+    {
+      "name": "Dartinė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37068248000",
+      "website": "https://www.facebook.com/profile.php?id=61563491541245",
+      "maps": "https://www.google.com/maps?q=55.7085895,21.1360538"
+    },
+    {
+      "name": "Debreceno kepykla",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6792151,21.1677523"
+    },
+    {
+      "name": "Delano",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "phone": null,
+      "website": "http://delano.lt",
+      "maps": "https://www.google.com/maps?q=55.6920812,21.1561374"
+    },
+    {
+      "name": "Dock",
+      "type": "Baras",
+      "opening_hours": "Mo-Th 12:00-24:00; Fr-Sa 12:00-02:00; Su 12:00-24:00",
+      "phone": "+370 613 02310",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7091972,21.1320328"
+    },
+    {
+      "name": "Dodo Pizza",
+      "type": "Restoranas",
+      "opening_hours": "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00",
+      "phone": "+37046311333",
+      "website": "https://dodopizza.lt/Klaipeda",
+      "maps": "https://www.google.com/maps?q=55.7172822,21.1283346"
+    },
+    {
+      "name": "Eldorado",
+      "type": "Restoranas",
+      "opening_hours": "Mo-We 11:00-23:00; Th 11:00-24:00; Fr 11:00-24:00; Sa 00:00-02:00,12:00-24:00; Su 00:00-02:00,12:00-22:00",
+      "phone": "+370 603 83 083",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.718125,21.1282062"
+    },
+    {
+      "name": "Etno dvaras",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-23:00; Su 11:00-22:00",
+      "phone": "+370 640 37 654",
+      "website": "http://fortodvaras.lt",
+      "maps": "https://www.google.com/maps?q=55.7072333,21.1320361"
+    },
+    {
+      "name": "Express Pizza",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7322185,21.1274868"
+    },
+    {
+      "name": "Express pizza",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7385657,21.1343395"
+    },
+    {
+      "name": "Faksas",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 17:00-03:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.709475,21.1324853"
+    },
+    {
+      "name": "Foodo kebabai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7334266,21.1898993"
+    },
+    {
+      "name": "Formosa Bubble Tea",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7166641,21.1289011"
+    },
+    {
+      "name": "Foxy Pizza",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+370 670 69 090",
+      "website": "https://foxypizza.lt/",
+      "maps": "https://www.google.com/maps?q=55.7002511,21.1606953"
+    },
+    {
+      "name": "Friedricho smuklė",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 12:00-24:00",
+      "phone": null,
+      "website": "http://www.pasazas.lt",
+      "maps": "https://www.google.com/maps?q=55.7070323,21.1376733"
+    },
+    {
+      "name": "Gaisrinė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7093444,21.1318179"
+    },
+    {
+      "name": "Gastrobaras Miražai",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": "+370 631 77044",
+      "website": "https://mirazai.lt/",
+      "maps": "https://www.google.com/maps?q=55.7081042,21.1321701"
+    },
+    {
+      "name": "Gero alaus parduotuvė",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7070528,21.1409849"
+    },
+    {
+      "name": "Grasso",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.facebook.com/grassobar",
+      "maps": "https://www.google.com/maps?q=55.7125392,21.1300346"
+    },
+    {
+      "name": "Grill",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6643101,21.1928208"
+    },
+    {
+      "name": "Grill London",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": null,
+      "website": "https://grilllondon.lt/",
+      "maps": "https://www.google.com/maps?q=55.6921718,21.1556899"
+    },
+    {
+      "name": "Gruzijos skonis",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Sa 11:00-23:00",
+      "phone": null,
+      "website": "https://www.gruzijos-skonis.com/",
+      "maps": "https://www.google.com/maps?q=55.7094056,21.1329253"
+    },
+    {
+      "name": "Grūziniška kepyklėlė",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 09:00-18:00",
+      "phone": "+37064337177",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6723752,21.1721657"
+    },
+    {
+      "name": "Hesburger",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7184666,21.1451587"
+    },
+    {
+      "name": "Hezer",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.facebook.com/people/Hezer/100048795617209/",
+      "maps": "https://www.google.com/maps?q=55.7078773,21.1365992"
+    },
+    {
+      "name": "Huang Gong",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6640788,21.1778639"
+    },
+    {
+      "name": "Hurry Curry",
+      "type": "Restoranas",
+      "opening_hours": "Tu-Th, Su 12:00-21:30; Fr, Sa 12:00-22:00",
+      "phone": "+37065272526",
+      "website": "https://hurrycurry.lt/",
+      "maps": "https://www.google.com/maps?q=55.706294,21.144658"
+    },
+    {
+      "name": "IQ baras",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7081444,21.1359971"
+    },
+    {
+      "name": "Ilunch",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 11:00-15:00",
+      "phone": null,
+      "website": "https://www.ilunch.lt",
+      "maps": "https://www.google.com/maps?q=55.7250354,21.1584154"
+    },
+    {
+      "name": "Indija House",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37061973572",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7142704,21.1280024"
+    },
+    {
+      "name": "Irish Nese Pub",
+      "type": "Pub",
+      "opening_hours": "Mo-Th 14:00-02:00; Fr-Sa 14:00-07:00; Su 14:00-00:00",
+      "phone": "+370 700 55 555",
+      "website": "https://nesepb.lt/",
+      "maps": "https://www.google.com/maps?q=55.7079264,21.132452"
+    },
+    {
+      "name": "Jammi",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7064289,21.1467675"
+    },
+    {
+      "name": "Jing Bin Lou",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7093881,21.1354904"
+    },
+    {
+      "name": "Jola",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7146621,21.1324881"
+    },
+    {
+      "name": "Juodasis varnas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+37061236075",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6986797,21.1459382"
+    },
+    {
+      "name": "Kanpai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7088634,21.1313836"
+    },
+    {
+      "name": "Katpėdėlė Mėmelis",
+      "type": "Restoranas",
+      "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-02:00",
+      "phone": "+37061828343",
+      "website": "https://www.katpedele.lt/",
+      "maps": "https://www.google.com/maps?q=55.7090081,21.1307431"
+    },
+    {
+      "name": "Kavinė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7242337,21.1267504"
+    },
+    {
+      "name": "Kavos architektai",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7139261,21.1299274"
+    },
+    {
+      "name": "Kebabomania",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.720592,21.1360754"
+    },
+    {
+      "name": "Kepuva",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 07:00-19:30; Sa-Su 09:00-15:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7071639,21.1387327"
+    },
+    {
+      "name": "Kinų bambukas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-22:00",
+      "phone": null,
+      "website": "http://kinubambukas.lt/kontaktai/h.-manto-43.html",
+      "maps": "https://www.google.com/maps?q=55.6844427,21.1597665"
+    },
+    {
+      "name": "Kiss",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 21:00-06:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7106668,21.1308559"
+    },
+    {
+      "name": "Klaipėdos duona",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6956507,21.1749406"
+    },
+    {
+      "name": "Klaipėdos senamiestis",
+      "type": "Kavinė",
+      "opening_hours": "11:00-23:00",
+      "phone": "+370 644 14461",
+      "website": "https://klaipedos-senamiestis.lt/lt/klaipedos-senamiestis",
+      "maps": "https://www.google.com/maps?q=55.7092645,21.1339538"
+    },
+    {
+      "name": "Kurpiai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7085142,21.1320524"
+    },
+    {
+      "name": "Kurėnas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7188959,21.1201822"
+    },
+    {
+      "name": "Kuršių aludė",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6845457,21.1598315"
+    },
+    {
+      "name": "Lalene desertų namai",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7069922,21.1378616"
+    },
+    {
+      "name": "Lapė",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7140535,21.1302984"
+    },
+    {
+      "name": "Laukinė vyšnia",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7288589,21.1249127"
+    },
+    {
+      "name": "Leika",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7079636,21.1341109"
+    },
+    {
+      "name": "Liepžiedis",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7139077,21.1392481"
+    },
+    {
+      "name": "Lietuviška virtuvė / išsinešimui",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7334521,21.1898372"
+    },
+    {
+      "name": "Little Havana",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.709359,21.1321553"
+    },
+    {
+      "name": "Mabela Bistro",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Th 09:00-03:00; Fr-Sa 09:00-05:00; Su 11:00-03:00",
+      "phone": "+37065900300",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6867905,21.1570297"
+    },
+    {
+      "name": "Manami",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6920087,21.1569881"
+    },
+    {
+      "name": "Martyno Mažvydo mokyklos valgykla",
+      "type": "Restoranas",
+      "opening_hours": "12:10-13:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6869468,21.1704885"
+    },
+    {
+      "name": "Max Coffee",
+      "type": "Kavinė",
+      "opening_hours": "Mo-We 08:00-21:00; Fr-Su 08:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7086246,21.1341387"
+    },
+    {
+      "name": "Mažioji Turkija",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6717742,21.1719526"
+    },
+    {
+      "name": "McDonald's",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7242256,21.1570939"
+    },
+    {
+      "name": "Meal Box",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7089392,21.1286011"
+    },
+    {
+      "name": "Mealbox",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 11:00-19:00; Fr 11:00-21:00; Sa 12:00-21:00; Su 12:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7089197,21.134721"
+    },
+    {
+      "name": "Medinavos Grill",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": "+370 647 28991",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6792341,21.1663466"
+    },
+    {
+      "name": "Meet & Eat",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Sa 10:45-20:45; Su 11:00-20:00",
+      "phone": "+370 606 77485",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6999413,21.1611516"
+    },
+    {
+      "name": "Memelio alinė",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7159792,21.1298608"
+    },
+    {
+      "name": "Memelio kepyklėlė",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 06:30-20:00; Sa 09:00-16:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7159532,21.1297695"
+    },
+    {
+      "name": "Meridianas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.710355,21.1350044"
+    },
+    {
+      "name": "Monai",
+      "type": "Restoranas",
+      "opening_hours": "Tu-Fr 11:30-22:00; Sa 11:00-22:00; Su 11:00-16:00",
+      "phone": "+370 626 63362",
+      "website": "https://www.restoranasmonai.lt/",
+      "maps": "https://www.google.com/maps?q=55.711692,21.1326795"
+    },
+    {
+      "name": "Mosso",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7068943,21.1271437"
+    },
+    {
+      "name": "Mudu",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7093433,21.1349247"
+    },
+    {
+      "name": "Musangas",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://musangas.lt/",
+      "maps": "https://www.google.com/maps?q=55.7141842,21.1297874"
+    },
+    {
+      "name": "Muzikinis klubas „Bluez“",
+      "type": "Restoranas",
+      "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 14:00-04:00",
+      "phone": "+37064334344",
+      "website": "http://www.bluez.lt",
+      "maps": "https://www.google.com/maps?q=55.7091544,21.1313171"
+    },
+    {
+      "name": "Nairi",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6679093,21.1632262"
+    },
+    {
+      "name": "Namai be gliuteno",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.namaibegliuteno.lt/",
+      "maps": "https://www.google.com/maps?q=55.7140196,21.1306198"
+    },
+    {
+      "name": "Natural Market",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 10:00-18:00",
+      "phone": "+37068408084",
+      "website": "https://www.naturalmarket.lt",
+      "maps": "https://www.google.com/maps?q=55.7140816,21.130789"
+    },
+    {
+      "name": "Nerija",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7041649,21.1139758"
+    },
+    {
+      "name": "Nisha Craft Beer Bar",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://nishacraft.lt/",
+      "maps": "https://www.google.com/maps?q=55.7098189,21.134796"
+    },
+    {
+      "name": "Otard'o baras",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su 12:00-21:00",
+      "phone": "+37061637747",
+      "website": "https://otardo.webs.com/",
+      "maps": "https://www.google.com/maps?q=55.7384054,21.1334582"
+    },
+    {
+      "name": "Pakrantė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6990437,21.1031791"
+    },
+    {
+      "name": "Palva",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7010514,21.1169245"
+    },
+    {
+      "name": "Pas Betą",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7142295,21.1324611"
+    },
+    {
+      "name": "Pas Francesco",
+      "type": "Restoranas",
+      "opening_hours": "We,Th,Su 12:00-21:00; Fr,Sa 12:00-22:00",
+      "phone": null,
+      "website": "https://www.facebook.com/PasFrancesco",
+      "maps": "https://www.google.com/maps?q=55.7091138,21.1356501"
+    },
+    {
+      "name": "Pas Jolantą",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Fr 10:00-14:00",
+      "phone": "+370 600 06168",
+      "website": "https://www.facebook.com/profile.php?id=100063066528902",
+      "maps": "https://www.google.com/maps?q=55.6939353,21.1780723"
+    },
+    {
+      "name": "Pepper Grey",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6688186,21.1954265"
+    },
+    {
+      "name": "Piccolini",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37061353333",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7073611,21.1317866"
+    },
+    {
+      "name": "Pilies uostas",
+      "type": "Restoranas",
+      "opening_hours": "Su-Th 11:00-00:00; Fr-Sa 11:00-02:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7061914,21.125819"
+    },
+    {
+      "name": "Pipita",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-21:00",
+      "phone": "+370 633 85585",
+      "website": "https://www.pipita.lt/",
+      "maps": "https://www.google.com/maps?q=55.7138607,21.1310975"
+    },
+    {
+      "name": "Pitliaus skanėstai",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7083972,21.1366827"
+    },
+    {
+      "name": "Pizza Express",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6786664,21.1675934"
+    },
+    {
+      "name": "Plius-minus",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6773934,21.1657083"
+    },
+    {
+      "name": "Porto Grill",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00",
+      "phone": "+37068494949",
+      "website": "https://portogrill.lt/",
+      "maps": "https://www.google.com/maps?q=55.6784317,21.1557583"
+    },
+    {
+      "name": "Prezo kepyklėlė",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.678517,21.1554286"
+    },
+    {
+      "name": "R Coffee",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7084372,21.1315753"
+    },
+    {
+      "name": "Ridikai",
+      "type": "Restoranas",
+      "opening_hours": "Tu-Th 11:00-20:00; Fr 11:00-21:00; Sa 11:00-20:00; Su 11:00-18:00",
+      "phone": "+37060913320",
+      "website": "http://www.ridikai.lt/",
+      "maps": "https://www.google.com/maps?q=55.6894914,21.1436691"
+    },
+    {
+      "name": "Rory pub Klaipėda",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7098641,21.1350192"
+    },
+    {
+      "name": "Rozmarinas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7066755,21.1265603"
+    },
+    {
+      "name": "Rucola",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "phone": "+370 690 32 777",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6640932,21.1916227"
+    },
+    {
+      "name": "SKAnaus",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": "+370 638 56160",
+      "website": "https://www.facebook.com/SKAnauss",
+      "maps": "https://www.google.com/maps?q=55.7365211,21.1368698"
+    },
+    {
+      "name": "Salsa Duo",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7078278,21.1287861"
+    },
+    {
+      "name": "Samurai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7119748,21.1313614"
+    },
+    {
+      "name": "Seven Pub",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7093019,21.1327884"
+    },
+    {
+      "name": "Skandalas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 12:00-00:00; Fr-Sa 12:00-01:00; Su 12:00-23:00",
+      "phone": null,
+      "website": "http://restoranasskandalas.lt/",
+      "maps": "https://www.google.com/maps?q=55.7184542,21.1217657"
+    },
+    {
+      "name": "Skanus Kebabas",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6833073,21.1632604"
+    },
+    {
+      "name": "Skoniai",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.skoniai.com/",
+      "maps": "https://www.google.com/maps?q=55.7070024,21.1383375"
+    },
+    {
+      "name": "Sky21",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7107982,21.1296531"
+    },
+    {
+      "name": "Sotus Vilkas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 666 77 786",
+      "website": "https://www.sotusvilkas.lt/klaipeda",
+      "maps": "https://www.google.com/maps?q=55.7538185,21.1519417"
+    },
+    {
+      "name": "Soya",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6917941,21.1566716"
+    },
+    {
+      "name": "Spatz",
+      "type": "Greitas maistas",
+      "opening_hours": "Tu-Th,Su 11:00-21:00; Fr-Sa 11:00-24:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7018562,21.1379543"
+    },
+    {
+      "name": "Sporto baras",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7208861,21.1220675"
+    },
+    {
+      "name": "Stora antis",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.storaantis.lt/",
+      "maps": "https://www.google.com/maps?q=55.709357,21.1338993"
+    },
+    {
+      "name": "Storas katinas",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": "+370 46 416173",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7085522,21.1313663"
+    },
+    {
+      "name": "Supa miltai",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7128622,21.1290991"
+    },
+    {
+      "name": "Sushi Express",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+370 630 45444",
+      "website": "https://www.sushiexpress.lt/",
+      "maps": "https://www.google.com/maps?q=55.7112753,21.1311924"
+    },
+    {
+      "name": "Sushi Room",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6791848,21.1663758"
+    },
+    {
+      "name": "Suši express",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7126367,21.1402242"
+    },
+    {
+      "name": "Tabu",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7172983,21.1301815"
+    },
+    {
+      "name": "Tako baras",
+      "type": "Baras",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": null,
+      "website": "https://takobaras.lt/",
+      "maps": "https://www.google.com/maps?q=55.737364,21.0909358"
+    },
+    {
+      "name": "Tonas",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+370 46 385 577",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7124696,21.1252846"
+    },
+    {
+      "name": "Tradicija",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-17:00",
+      "phone": null,
+      "website": "https://www.facebook.com/NaturalausMaistoTradicija/",
+      "maps": "https://www.google.com/maps?q=55.7170878,21.1290616"
+    },
+    {
+      "name": "Trapiche Steakhouse",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7066718,21.137334"
+    },
+    {
+      "name": "Troba",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6793099,21.167953"
+    },
+    {
+      "name": "UAB „Javinė“",
+      "type": "Kepykla",
+      "opening_hours": null,
+      "phone": "+370 46 340 370",
+      "website": "https://javine.lt/",
+      "maps": "https://www.google.com/maps?q=55.6954267,21.1399265"
+    },
+    {
+      "name": "Vero Cafe",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7098071,21.133952"
+    },
+    {
+      "name": "Viskas lietuviška",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-18:00",
+      "phone": "+370 46 216402",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7117025,21.1287981"
+    },
+    {
+      "name": "Vivalavita",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 12:00-01:00; Fr-Sa 12:00-03:00; Su 12:00-01:00",
+      "phone": null,
+      "website": "https://ambertonhotels.com/lt/klaipeda/restoranai/restoranas-vivalavita/",
+      "maps": "https://www.google.com/maps?q=55.7109062,21.1296685"
+    },
+    {
+      "name": "Vyšnia 4",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6639584,21.1779379"
+    },
+    {
+      "name": "XII",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 12:00-01:00; Fr-Sa 12:00-03:00; Su 12:00-01:00",
+      "phone": "+370 46 404375",
+      "website": "https://ambertonhotels.com/lt/klaipeda/restoranai/restoranas-xii/",
+      "maps": "https://www.google.com/maps?q=55.7110663,21.1305483"
+    },
+    {
+      "name": "Úrzaa",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.facebook.com/UrzaaKlaipeda/",
+      "maps": "https://www.google.com/maps?q=55.7090963,21.130995"
+    },
+    {
+      "name": "Čili Pizza",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7115668,21.1324061"
+    },
+    {
+      "name": "Čili pica",
+      "type": "Restoranas",
+      "opening_hours": "24/7",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6977854,21.1475929"
+    },
+    {
+      "name": "Šefo kebabai",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.6645275,21.1911598"
+    },
+    {
+      "name": "Šefo pietūs",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Fr 11:00-15:00",
+      "phone": "+37062585855",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7207698,21.1545622"
+    },
+    {
+      "name": "Špunka",
+      "type": "Pub",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7323064,21.1276554"
+    },
+    {
+      "name": "Švyturys BHouse",
+      "type": "Baras",
+      "opening_hours": "Mo-We 16:00-00:00; Th 16:00-01:00; Fr 16:00-03:00; Sa 11:00-03:00; Su 11:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7069224,21.1411694"
+    },
+    {
+      "name": "Žemaitējē",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7082267,21.1361271"
+    },
+    {
+      "name": "Žvejų baras",
+      "type": "Pub",
+      "opening_hours": "Mo-We 17:00-24:00; Th 17:00-02:00; Fr-Sa 17:00-04:00; Su 17:00-24:00",
+      "phone": "+370 699 98762",
+      "website": "https://www.zvejubaras.lt/",
+      "maps": "https://www.google.com/maps?q=55.7089096,21.1337166"
+    },
+    {
+      "name": "“Žemaitija Jack”",
+      "type": "Restoranas",
+      "opening_hours": "Mo-We 11:00-24:00; Th-Sa 11:00-04:00; Su 12:00-24:00",
+      "phone": "+370 46 410 555",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7175791,21.1276562"
+    }
+  ],
+  "Gargždai": [
+    {
+      "name": "Baras Bastilija",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7120269,21.4010475"
+    },
+    {
+      "name": "Crisperia",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7167103,21.3859331"
+    },
+    {
+      "name": "Ievos skanėstai",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th 9:00-22:00; Fr-Sa 9:00-23:00; Su 10:00-22:00",
+      "phone": "+370 656 89626",
+      "website": "https://www.ievosskanestai.lt/",
+      "maps": "https://www.google.com/maps?q=55.7127197,21.3882221"
+    },
+    {
+      "name": "Lijo",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://www.lijo.lt",
+      "maps": "https://www.google.com/maps?q=55.7128952,21.4022417"
+    },
+    {
+      "name": "Pas IBO",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": "+370 674 34 845",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7093312,21.39718"
+    },
+    {
+      "name": "Pizza Express",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-22:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7167081,21.3859729"
+    },
+    {
+      "name": "Pizza ant Bangos",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Th, Su 11:00-20:00; Fr, Sa 11:00-21:00",
+      "phone": "+37067072722",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.7123157,21.3866413"
+    },
+    {
+      "name": "Valgykla „Bulvė“",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.711498,21.4001477"
+    },
+    {
+      "name": "„Rūta“ saldainiai ir kava",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 12:00-20:00",
+      "phone": "+370 696 56 279",
+      "website": "https://www.facebook.com/saldainiaiirkava/?ref=nf",
+      "maps": "https://www.google.com/maps?q=55.7106655,21.3979361"
+    }
+  ],
+  "Priekulė": [
+    {
+      "name": "Mingė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.5549084,21.3194952"
+    }
+  ],
+  "Dovilai": [],
+  "Nida": [
+    {
+      "name": "Bizzare",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3105518,20.9849813"
+    },
+    {
+      "name": "Caffeine",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "phone": "+37069977541",
+      "website": "https://caffeine.lt/",
+      "maps": "https://www.google.com/maps?q=55.3048714,21.0066807"
+    },
+    {
+      "name": "Fisheria",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 10:00-24:00",
+      "phone": "+37064197729",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3033597,21.0053623"
+    },
+    {
+      "name": "Gardumėlis",
+      "type": "Kepykla",
+      "opening_hours": "Sep-May 08:00-18:00; Jun-Aug 08:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3062017,21.0051174"
+    },
+    {
+      "name": "Grill house'as",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3029942,21.0069457"
+    },
+    {
+      "name": "Griuvėsiai",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3109196,20.9853347"
+    },
+    {
+      "name": "Jūratė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3060951,21.0058295"
+    },
+    {
+      "name": "Kavinė Po Vyšniom",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3023247,21.0064523"
+    },
+    {
+      "name": "Knygų namelis",
+      "type": "public_bookcase",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3143315,21.0152703"
+    },
+    {
+      "name": "Kuršis",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:30; Su 10:00-22:00",
+      "phone": "+37046952804",
+      "website": "https://www.kursis-nida.lt",
+      "maps": "https://www.google.com/maps?q=55.3044707,21.0064255"
+    },
+    {
+      "name": "Laumė",
+      "type": "Kavinė",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.308746,21.0080891"
+    },
+    {
+      "name": "Malkinė",
+      "type": "Restoranas",
+      "opening_hours": "Su-Th 12:00-22:00; Fr-Sa 12:00-23:00",
+      "phone": "+37060977069",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3041003,21.0082805"
+    },
+    {
+      "name": "Mama sakė paeis",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3105676,20.9848288"
+    },
+    {
+      "name": "Marių stebėtojų baras",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3079262,21.008209"
+    },
+    {
+      "name": "M•EAT",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su closed \"until summer\"",
+      "phone": "+37061017143",
+      "website": "http://www.meat.lt",
+      "maps": "https://www.google.com/maps?q=55.308011,21.0045805"
+    },
+    {
+      "name": "Nerija",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3074195,21.0042183"
+    },
+    {
+      "name": "Nidos prieplauka",
+      "type": "Restoranas",
+      "opening_hours": "Th 11:00-20:00; Fr-Sa 11:00-23:00; Su 11:00-20:00",
+      "phone": "+370 614 91181",
+      "website": "https://nidosprieplauka.lt",
+      "maps": "https://www.google.com/maps?q=55.3026757,21.0095659"
+    },
+    {
+      "name": "Pipirini Pizza Express",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37069833261",
+      "website": "https://www.pipirini.lt",
+      "maps": "https://www.google.com/maps?q=55.2987571,20.9821214"
+    },
+    {
+      "name": "Pušynė Food on Fire",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": "+37060644966",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3029715,20.9772343"
+    },
+    {
+      "name": "Sakutis",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.302882,21.0069182"
+    },
+    {
+      "name": "Sangrita Nida",
+      "type": "Baras",
+      "opening_hours": null,
+      "phone": "+37065984444",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3025192,20.9980093"
+    },
+    {
+      "name": "Saulės baras",
+      "type": "Baras",
+      "opening_hours": "Mo-Su closed \"until summer\"",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3115564,20.9822692"
+    },
+    {
+      "name": "Sena sodyba",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3017542,21.0064394"
+    },
+    {
+      "name": "Sofa de Pancho",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.sofadepancho.lt",
+      "maps": "https://www.google.com/maps?q=55.308333,21.0087161"
+    },
+    {
+      "name": "Terasa Nidos Banga",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3106717,21.0108139"
+    },
+    {
+      "name": "Toda Nida",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.facebook.com/todarestoranas/",
+      "maps": "https://www.google.com/maps?q=55.3027219,20.9998596"
+    },
+    {
+      "name": "Varna Terasa",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3052727,21.0064927"
+    },
+    {
+      "name": "Wok to Walk",
+      "type": "Greitas maistas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.2997536,20.9866913"
+    }
+  ],
+  "Šilutė": [
+    {
+      "name": "Alynas",
+      "type": "Pub",
+      "opening_hours": "Mo-Su 11:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3432754,21.4745298"
+    },
+    {
+      "name": "Baldinukė",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Fr 10:00-15:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3436698,21.4618233"
+    },
+    {
+      "name": "Balta Puta",
+      "type": "Baras",
+      "opening_hours": "Tu, We 16:00-20:00; Th, Fr 14:00-20:00; Sa 12:00-20:00; Su 12:00-15:00",
+      "phone": "+37065321148",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3496866,21.4660383"
+    },
+    {
+      "name": "COCO Coffee",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Th, Su 09:00-19:00; Fr, Sa 09:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3446287,21.4797122"
+    },
+    {
+      "name": "Caffeine",
+      "type": "Kavinė",
+      "opening_hours": "09:00-20:00",
+      "phone": null,
+      "website": "https://caffeine.lt",
+      "maps": "https://www.google.com/maps?q=55.3409176,21.4614386"
+    },
+    {
+      "name": "Chick'n GO",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Th, Su 11:00-22:00; Fr-Sa 11:00-23:00",
+      "phone": "+37067979759",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3446527,21.4800719"
+    },
+    {
+      "name": "Crisperia",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-22:00",
+      "phone": null,
+      "website": "https://www.noriupicos.lt",
+      "maps": "https://www.google.com/maps?q=55.3456861,21.4840806"
+    },
+    {
+      "name": "Draugų buveinė",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 11:00-15:00; 2026 Feb 23-28 off; 2026 Mar 1-2 off",
+      "phone": "+37065762626",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3520636,21.4722505"
+    },
+    {
+      "name": "Express Pizza",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-22:00",
+      "phone": null,
+      "website": "https://www.noriupicos.lt",
+      "maps": "https://www.google.com/maps?q=55.3457214,21.4840454"
+    },
+    {
+      "name": "Fasta Pasta",
+      "type": "Greitas maistas",
+      "opening_hours": "11:00-22:00",
+      "phone": null,
+      "website": "https://www.noriupicos.lt",
+      "maps": "https://www.google.com/maps?q=55.3456477,21.4841259"
+    },
+    {
+      "name": "Food Lovers",
+      "type": "Greitas maistas",
+      "opening_hours": "Tu-Th 11:00-20:00; Fr 11:00-22:00; Sa 12:00-22:00",
+      "phone": "+37064345986",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3415207,21.46389"
+    },
+    {
+      "name": "Gilija",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 08:00-23:00; Fr, Sa 08:00-24:00; Su 08:00-22:00",
+      "phone": "+37044152572",
+      "website": "http://www.silutesgilija.lt",
+      "maps": "https://www.google.com/maps?q=55.3420643,21.4739652"
+    },
+    {
+      "name": "Juodasis briedis",
+      "type": "Baras",
+      "opening_hours": "We 16:00-20:00; Th 16:00-22:00; Fr, Sa 16:00-23:00",
+      "phone": "+37068254244",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3417668,21.4680058"
+    },
+    {
+      "name": "Kitchen Inn",
+      "type": "Restoranas",
+      "opening_hours": "We, Th 11:00-21:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-21:00",
+      "phone": "+37069450000",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3444336,21.4707794"
+    },
+    {
+      "name": "Klumpė",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3496191,21.4656658"
+    },
+    {
+      "name": "Lemūras",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 11:00-20:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3374492,21.4580175"
+    },
+    {
+      "name": "Magnolija",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th, Su 10:00-22:00; Fr, Sa 10:00-24:00",
+      "phone": "+37063122333",
+      "website": "https://silutesmagnolija.lt",
+      "maps": "https://www.google.com/maps?q=55.3430332,21.4698677"
+    },
+    {
+      "name": "Man Kebabai",
+      "type": "Greitas maistas",
+      "opening_hours": "10:00-22:00",
+      "phone": "+37063673369",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3470459,21.4688874"
+    },
+    {
+      "name": "Metro",
+      "type": "Greitas maistas",
+      "opening_hours": "Tu-Sa 10:00-20:00",
+      "phone": "+37069924949",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3472308,21.4832601"
+    },
+    {
+      "name": "Paragauk",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Fr 09:00-21:00; Sa, Su 10:00-21:00",
+      "phone": "+37060000111",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3436037,21.4703162"
+    },
+    {
+      "name": "Pikta višta",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Sa 11:00-21:00; Su 12:00-21:00",
+      "phone": "+37066331312",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3511252,21.4651025"
+    },
+    {
+      "name": "Qlinarai",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-23:00",
+      "phone": "+37067336283",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3443507,21.4786074"
+    },
+    {
+      "name": "Rambynas",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th 10:00-21:00; Fr, Sa 10:00-22:00; Su 11:00-21:00",
+      "phone": "+37044177055",
+      "website": "https://rambynas.net/",
+      "maps": "https://www.google.com/maps?q=55.3433394,21.4753552"
+    },
+    {
+      "name": "Rambyno kepyklėlė",
+      "type": "Kepykla",
+      "opening_hours": "08:00-19:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3433901,21.4752691"
+    },
+    {
+      "name": "Skanus kebabas",
+      "type": "Greitas maistas",
+      "opening_hours": "09:00-22:00",
+      "phone": "+37060114304",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3438811,21.4706703"
+    },
+    {
+      "name": "Smaližiaus kertelė",
+      "type": "Kepykla",
+      "opening_hours": "Mo-Fr 07:30-19:00; Sa 09:00-18:00; Su, PH 09:00-16:00",
+      "phone": "+37069873717",
+      "website": "https://www.smaliziauskertele.lt/",
+      "maps": "https://www.google.com/maps?q=55.3392213,21.4740149"
+    },
+    {
+      "name": "Star Pizza",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-We 17:00-22:00; Th, Su 11:00-22:00; Fr, Sa 11:00-23:00",
+      "phone": "+37069518181",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3498101,21.4736721"
+    },
+    {
+      "name": "Toto Pizza",
+      "type": "Greitas maistas",
+      "opening_hours": "We, Th, Su 11:00-22:00; Fr, Sa 11:00-23:00; PH off",
+      "phone": "+370863999399",
+      "website": "https://www.totopizza.lt",
+      "maps": "https://www.google.com/maps?q=55.3446195,21.4789512"
+    },
+    {
+      "name": "Trukio stotelė",
+      "type": "Restoranas",
+      "opening_hours": "Mo, Su 10:00-18:00; Tu-Th 10:00-22:00; Fr, Sa 10:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3419033,21.4639117"
+    },
+    {
+      "name": "Vaigitė",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3497319,21.4732009"
+    },
+    {
+      "name": "Zefir & more",
+      "type": "Kavinė",
+      "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-16:00",
+      "phone": "+37067039923",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3449549,21.4728466"
+    },
+    {
+      "name": "Špoko Bar & Grill",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-23:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3441147,21.4784758"
+    },
+    {
+      "name": "Šyša",
+      "type": "Greitas maistas",
+      "opening_hours": "Mo-Fr 09:00-16:00",
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.3424417,21.4596565"
+    }
+  ],
+  "Švėkšna": [],
+  "Rusnė": [
+    {
+      "name": "Drogerija Rusnelė",
+      "type": "Kepykla",
+      "opening_hours": "Tu-Fr 10:00-18:00; Su 10:00-14:00",
+      "phone": "+370 630 07999",
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.2968181,21.3759161"
+    },
+    {
+      "name": "Prie Peterso tilto",
+      "type": "Restoranas",
+      "opening_hours": "Mo-Su 11:00-23:55",
+      "phone": null,
+      "website": "https://www.rusnepetersas.lt/",
+      "maps": "https://www.google.com/maps?q=55.2981027,21.3792752"
+    },
+    {
+      "name": "Žuvies Baras",
+      "type": "Restoranas",
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "maps": "https://www.google.com/maps?q=55.2963198,21.3624693"
+    }
+  ],
+  "Žemaičių Naumiestis": [],
+  "Kintai": []
+}
