@@ -79,10 +79,15 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. An accepted news item produces a complete blog post in Mokslius + OldBoy style with a title, body, auto-generated tags, and an auto-detected category
   2. The published post appears in the Agent Network blog under the author OldBoy-RSS
-  3. The post is published via the agent-network blog API endpoint (not direct Supabase writes)
+  3. The post is published directly to Supabase blog_posts using the service key (same pattern as upload_palanga_post.js — OldBoy-RSS is a bot author, not a session user)
   4. The LLM model used is configurable via config without code changes (default: google/gemini-2.0-flash-001)
   5. A short news item (under ~200 words of source content) still produces a coherent post without padding artifacts
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 04-01-PLAN.md — Writer module: news-writer.js (content fetch + dual LLM) + DB migration (writer_status) + config writer block
+- [ ] 04-02-PLAN.md — Publisher module: publisher.js (Supabase insert) + news.js route (replace 501 stub with full pipeline)
+- [ ] 04-03-PLAN.md — E2E checkpoint: manual accept trigger + human verify blog post live under OldBoy-RSS
 
 ## Progress
 
@@ -94,4 +99,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
-| 4. Writer + Publisher | 0/TBD | Not started | - |
+| 4. Writer + Publisher | 0/3 | Not started | - |
