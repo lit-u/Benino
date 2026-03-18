@@ -27,7 +27,7 @@
 - [x] **TG-02**: Kiekviena kortelė turi mygtukus: ✅ Priimti / ❌ Atmesti
 - [x] **TG-03**: Paspaudus "Atmesti" — naujiena žymima kaip atmesta, nebesiunčiama
 - [x] **TG-04**: Paspaudus "Priimti" — paleidžiamas LLM generavimas ir publikavimas
-- [ ] **TG-05**: Adminas gauna patvirtinimą kai blog post sėkmingai publikuotas (su nuoroda)
+- [x] **TG-05**: Adminas gauna patvirtinimą kai blog post sėkmingai publikuotas (su nuoroda)
 
 ### Writer (Blog post generavimas)
 
@@ -88,7 +88,7 @@
 | TG-02 | Phase 3 | Complete |
 | TG-03 | Phase 3 | Complete |
 | TG-04 | Phase 3 | Complete |
-| TG-05 | Phase 3 | Pending |
+| TG-05 | Phase 3 | Complete |
 | WRIT-01 | Phase 4 | Pending |
 | WRIT-02 | Phase 4 | Pending |
 | WRIT-03 | Phase 4 | Pending |

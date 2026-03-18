@@ -14,7 +14,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Collector** - Automated news fetching from 10 sources with deduplication storage
 - [x] **Phase 2: Scorer** - Importance scoring engine with type classification and multi-source boost (completed 2026-03-18)
-- [ ] **Phase 3: Telegram Bot** - Admin moderation interface with Accept/Reject actions
+- [x] **Phase 3: Telegram Bot** - Admin moderation interface with Accept/Reject actions (completed 2026-03-18)
 - [ ] **Phase 4: Writer + Publisher** - LLM blog post generation and Agent Network publish pipeline
 
 ## Phase Details
@@ -93,5 +93,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
-| 3. Telegram Bot | 2/3 | In Progress|  |
+| 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
 | 4. Writer + Publisher | 0/TBD | Not started | - |
