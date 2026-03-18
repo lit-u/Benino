@@ -23,8 +23,8 @@
 
 ### Telegram Bot (Moderavimas)
 
-- [ ] **TG-01**: Adminas TG bote gauna naujienų korteles su pavadinimu, šaltiniu, balu ir kategorija
-- [ ] **TG-02**: Kiekviena kortelė turi mygtukus: ✅ Priimti / ❌ Atmesti
+- [x] **TG-01**: Adminas TG bote gauna naujienų korteles su pavadinimu, šaltiniu, balu ir kategorija
+- [x] **TG-02**: Kiekviena kortelė turi mygtukus: ✅ Priimti / ❌ Atmesti
 - [x] **TG-03**: Paspaudus "Atmesti" — naujiena žymima kaip atmesta, nebesiunčiama
 - [x] **TG-04**: Paspaudus "Priimti" — paleidžiamas LLM generavimas ir publikavimas
 - [ ] **TG-05**: Adminas gauna patvirtinimą kai blog post sėkmingai publikuotas (su nuoroda)
@@ -84,8 +84,8 @@
 | SCOR-03 | Phase 2 | Complete |
 | SCOR-04 | Phase 2 | Complete |
 | SCOR-05 | Phase 2 | Complete |
-| TG-01 | Phase 3 | Pending |
-| TG-02 | Phase 3 | Pending |
+| TG-01 | Phase 3 | Complete |
+| TG-02 | Phase 3 | Complete |
 | TG-03 | Phase 3 | Complete |
 | TG-04 | Phase 3 | Complete |
 | TG-05 | Phase 3 | Pending |

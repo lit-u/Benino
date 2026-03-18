@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 03-01-PLAN.md — Phase 3 Plan 1 (Schema + Config) complete
-last_updated: "2026-03-18T12:00:25.866Z"
+stopped_at: Completed 03-02-PLAN.md — Phase 3 Plan 2 (Telegram Core Logic) complete
+last_updated: "2026-03-18T12:05:18.873Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 4
   completed_phases: 2
   total_plans: 12
-  completed_plans: 10
+  completed_plans: 11
   percent: 50
 ---
 
@@ -55,6 +55,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 02-scorer P03 | 2 | 2 tasks | 2 files |
 | Phase 02-scorer P04 | 15 | 2 tasks | 1 file |
 | Phase 03-telegram-bot P01 | 4 | 2 tasks | 3 files |
+| Phase 03-telegram-bot P02 | 8 | 2 tasks | 6 files |
 
 ## Accumulated Context
 
@@ -89,6 +90,9 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 02-scorer P04]: try/finally wraps scorerDb.close() — guaranteed cleanup even if runScorer() throws
 - [Phase 03-telegram-bot]: WAL pragma added immediately after Database() constructor to prevent SQLITE_BUSY when bot and collector share DB file
 - [Phase 03-telegram-bot]: telegram.batchDelayMs=1000ms for safe Telegram rate limiting; dispatchCutoffMs=86400000 prevents sending stale items on first run
+- [Phase 03-telegram-bot]: handleReject and handleAccept exported as pure functions — testable without real Telegraf instance
+- [Phase 03-telegram-bot]: handleAccept uses injectable fetchFn parameter — mock in tests, global fetch in production
+- [Phase 03-telegram-bot]: dispatcher sets tg_status='pending' after send — distinct from accepted/rejected, means card is live in Telegram
 
 ### Pending Todos
 
@@ -102,6 +106,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T12:00:25.859Z
-Stopped at: Completed 03-01-PLAN.md — Phase 3 Plan 1 (Schema + Config) complete
+Last session: 2026-03-18T12:05:18.865Z
+Stopped at: Completed 03-02-PLAN.md — Phase 3 Plan 2 (Telegram Core Logic) complete
 Resume file: None

@@ -93,5 +93,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
-| 3. Telegram Bot | 1/3 | In Progress|  |
+| 3. Telegram Bot | 2/3 | In Progress|  |
 | 4. Writer + Publisher | 0/TBD | Not started | - |
