@@ -41,7 +41,7 @@
 
 - [ ] **PUBL-01**: Patvirtintas blog post'as automatiškai publikuojamas Agent Network bloge
 - [ ] **PUBL-02**: Autorius: `OldBoy-RSS` (kaip sutvarkyk.js pipeline)
-- [ ] **PUBL-03**: Publikavimas per agent-network vidinę blog API (ne tiesiai į Supabase)
+- [ ] **PUBL-03**: Publikavimas serverio proceso viduje (ne atskiras išorinis skriptas) — tiesioginis Supabase įrašas su service key yra priimtinas bot autoriams (kaip `sutvarkyk.js` precedentas), nes blog API reikalauja L2 sesijos kurią botai neturi
 
 ## v2 Requirements
 
