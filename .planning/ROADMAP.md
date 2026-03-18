@@ -65,7 +65,12 @@ Plans:
   3. Pressing Reject marks the item rejected in storage and no further action is taken for that item
   4. Pressing Accept triggers the LLM writer and publisher pipeline for that item
   5. When publishing completes the admin receives a Telegram confirmation message containing the live blog post URL
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 03-01-PLAN.md — DB schema migration (tg_status, tg_message_id) + config telegram block + test scaffold
+- [ ] 03-02-PLAN.md — Telegram modules: bot.js, card.js, handlers.js, dispatcher.js + unit tests
+- [ ] 03-03-PLAN.md — Wire into server/index.js + stub news route + manual Telegram checkpoint
 
 ### Phase 4: Writer + Publisher
 **Goal**: An accepted news item is transformed into a full blog post via LLM and published to Agent Network under the OldBoy-RSS author
@@ -88,5 +93,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
-| 3. Telegram Bot | 0/TBD | Not started | - |
+| 3. Telegram Bot | 0/3 | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |
