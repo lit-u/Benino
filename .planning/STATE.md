@@ -3,9 +3,9 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-stopped_at: "Completed 01-04-PLAN.md (Collector orchestrator: sources/index.js + index.js)"
-last_updated: "2026-03-18T07:17:16.311Z"
-last_activity: "2026-03-18 — Plan 01-03 complete (Source fetchers: GitHub Search, HuggingFace, TAAFT)"
+stopped_at: "Paused at checkpoint 01-05 Task 2 — Phase 1 end-to-end human verification"
+last_updated: "2026-03-18T07:23:00Z"
+last_activity: "2026-03-18 — Plan 01-05 Task 1 complete (server/index.js cron wiring + .env.example)"
 progress:
   total_phases: 4
   completed_phases: 0
@@ -26,9 +26,9 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 ## Current Position
 
 Phase: 1 of 4 (Collector)
-Plan: 4 of 6 in current phase
-Status: In progress
-Last activity: 2026-03-18 — Plan 01-04 complete (Collector orchestrator: sources/index.js + index.js)
+Plan: 5 of 6 in current phase
+Status: Awaiting human checkpoint (Task 2 verification)
+Last activity: 2026-03-18 — Plan 01-05 Task 1 complete (server/index.js news-collector cron wiring)
 
 Progress: [████████░░] 80%
 
@@ -69,6 +69,7 @@ Progress: [████████░░] 80%
 - HuggingFace Models: sort=createdAt (camelCase) — created_at causes HTTP 400
 - [Phase 01-collector]: createRequire used for JSON config import (reliable across all Node.js ESM versions)
 - [Phase 01-collector]: db.close() called at end of each runCollector() to avoid SQLite connection leaks
+- [Phase 01-collector]: registerNewsCollector() placed inside app.listen callback — server must be up before cron starts; Vercel guard inherited from enclosing if(!isVercelRuntime) block
 
 ### Pending Todos
 
@@ -82,6 +83,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T07:17:16.305Z
-Stopped at: Completed 01-04-PLAN.md (Collector orchestrator: sources/index.js + index.js)
+Last session: 2026-03-18T07:23:00Z
+Stopped at: Paused at checkpoint 01-05 Task 2 — Phase 1 end-to-end human verification
 Resume file: None
