@@ -31,11 +31,11 @@
 
 ### Writer (Blog post generavimas)
 
-- [ ] **WRIT-01**: LLM (OpenRouter) generuoja pilną blog post'ą iš naujienos (Mokslius + OldBoy stilius)
-- [ ] **WRIT-02**: Generuojami auto-tags pagal temą (AI, modeliai, įrankiai ir pan.)
-- [ ] **WRIT-03**: Kategorija parenkama automatiškai (kaip sutvarkyk.js)
-- [ ] **WRIT-04**: Naudojamas modelis konfigūruojamas per config (default: `google/gemini-2.0-flash-001`)
-- [ ] **WRIT-05**: Generavimas sutrumpėja jei naujiena trumpa (adaptyvi promto logika)
+- [x] **WRIT-01**: LLM (OpenRouter) generuoja pilną blog post'ą iš naujienos (Mokslius + OldBoy stilius)
+- [x] **WRIT-02**: Generuojami auto-tags pagal temą (AI, modeliai, įrankiai ir pan.)
+- [x] **WRIT-03**: Kategorija parenkama automatiškai (kaip sutvarkyk.js)
+- [x] **WRIT-04**: Naudojamas modelis konfigūruojamas per config (default: `google/gemini-2.0-flash-001`)
+- [x] **WRIT-05**: Generavimas sutrumpėja jei naujiena trumpa (adaptyvi promto logika)
 
 ### Publisher (Publikavimas)
 
@@ -89,11 +89,11 @@
 | TG-03 | Phase 3 | Complete |
 | TG-04 | Phase 3 | Complete |
 | TG-05 | Phase 3 | Complete |
-| WRIT-01 | Phase 4 | Pending |
-| WRIT-02 | Phase 4 | Pending |
-| WRIT-03 | Phase 4 | Pending |
-| WRIT-04 | Phase 4 | Pending |
-| WRIT-05 | Phase 4 | Pending |
+| WRIT-01 | Phase 4 | Complete |
+| WRIT-02 | Phase 4 | Complete |
+| WRIT-03 | Phase 4 | Complete |
+| WRIT-04 | Phase 4 | Complete |
+| WRIT-05 | Phase 4 | Complete |
 | PUBL-01 | Phase 4 | Pending |
 | PUBL-02 | Phase 4 | Pending |
 | PUBL-03 | Phase 4 | Pending |

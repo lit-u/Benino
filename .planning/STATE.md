@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 03-03-PLAN.md — Phase 3 Plan 3 (Integration & Server Wiring) — awaiting human-verify checkpoint
-last_updated: "2026-03-18T12:09:03.811Z"
+stopped_at: Completed 04-01-PLAN.md — Phase 4 Plan 1 (Writer Module)
+last_updated: "2026-03-18T17:23:24.569Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 4
   completed_phases: 3
-  total_plans: 12
-  completed_plans: 12
+  total_plans: 15
+  completed_plans: 13
   percent: 50
 ---
 
@@ -57,6 +57,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 03-telegram-bot P01 | 4 | 2 tasks | 3 files |
 | Phase 03-telegram-bot P02 | 8 | 2 tasks | 6 files |
 | Phase 03-telegram-bot P03 | 7 | 2 tasks | 3 files |
+| Phase 04-writer-publisher P01 | 28 | 3 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -96,6 +97,9 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 03-telegram-bot]: dispatcher sets tg_status='pending' after send — distinct from accepted/rejected, means card is live in Telegram
 - [Phase 03-telegram-bot]: runTelegramDispatch(tgDb) uses fresh db3 connection — same fresh-connection pattern as scorer, prevents SQLite busy conflict
 - [Phase 03-telegram-bot]: startBotPolling() inside app.listen (Vercel-guarded by parent block); TELEGRAM_BOT_TOKEN never logged
+- [Phase 04-writer-publisher]: OPENROUTER_API_KEY absent throws immediately in writer — no silent fallback unlike scorer
+- [Phase 04-writer-publisher]: Three LLM calls (mokslius, oldboy, tags) run in parallel via Promise.all — minimizes latency
+- [Phase 04-writer-publisher]: item_type override (breakthrough→AI Valdymas, research→Mokslas) takes precedence over source_id in detectCategory
 
 ### Pending Todos
 
@@ -109,6 +113,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T12:09:03.806Z
-Stopped at: Completed 03-03-PLAN.md — Phase 3 Plan 3 (Integration & Server Wiring) — awaiting human-verify checkpoint
+Last session: 2026-03-18T17:23:24.560Z
+Stopped at: Completed 04-01-PLAN.md — Phase 4 Plan 1 (Writer Module)
 Resume file: None
