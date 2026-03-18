@@ -52,8 +52,8 @@ Plans:
 Plans:
 - [x] 02-01-PLAN.md — Schema migration (4 new DB columns) + config.json scoring block + test scaffold
 - [x] 02-02-PLAN.md — Heuristic scorer (keyword + source baselines) + multi-source Jaccard boost
-- [ ] 02-03-PLAN.md — LLM scorer (OpenRouter batch) + runScorer() pipeline orchestrator
-- [ ] 02-04-PLAN.md — Wire runScorer() into runCollector() + end-to-end checkpoint
+- [x] 02-03-PLAN.md — LLM scorer (OpenRouter batch) + runScorer() pipeline orchestrator
+- [x] 02-04-PLAN.md — Wire runScorer() into runCollector() + end-to-end checkpoint
 
 ### Phase 3: Telegram Bot
 **Goal**: The admin receives scored news items as interactive Telegram cards and can approve or reject each one with a single button press
@@ -87,6 +87,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
-| 2. Scorer | 3/4 | In Progress|  |
+| 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 0/TBD | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |

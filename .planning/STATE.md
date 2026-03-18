@@ -3,15 +3,15 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 02-03-PLAN.md — Phase 2 Plan 3 complete
-last_updated: "2026-03-18T11:21:40.461Z"
-last_activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
+stopped_at: Completed 02-04-PLAN.md — Phase 2 (Scorer) fully complete
+last_updated: "2026-03-18T12:00:00.000Z"
+last_activity: 2026-03-18 — Plan 02-04 complete — full scorer pipeline wired and E2E verified (1001/1001 scored)
 progress:
   total_phases: 4
-  completed_phases: 1
+  completed_phases: 2
   total_plans: 9
-  completed_plans: 8
-  percent: 25
+  completed_plans: 9
+  percent: 50
 ---
 
 # Project State
@@ -25,12 +25,12 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 
 ## Current Position
 
-Phase: 2 of 4 (Scorer) — IN PROGRESS
-Plan: 1 of N in Phase 2 — 1 complete
-Status: Phase 2 started, Plan 02-01 complete (schema + config + test scaffold)
-Last activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
+Phase: 2 of 4 (Scorer) — COMPLETE
+Plan: 4 of 4 in Phase 2 — all complete
+Status: Phase 2 fully complete. All 5 SCOR requirements verified with 1001/1001 items scored in live DB.
+Last activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 
-Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
+Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases done)
 
 ## Performance Metrics
 
@@ -52,8 +52,8 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 
 *Updated after each plan completion*
 | Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
-| Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
 | Phase 02-scorer P03 | 2 | 2 tasks | 2 files |
+| Phase 02-scorer P04 | 15 | 2 tasks | 1 file |
 
 ## Accumulated Context
 
@@ -84,6 +84,8 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 - [Phase 02-scorer]: scoreBatchWithLLM returns [] when OPENROUTER_API_KEY absent — heuristics used as-is (graceful fallback)
 - [Phase 02-scorer]: runScorer uses db.transaction() for batch UPDATE — atomic write, no partial state on crash
 - [Phase 02-scorer]: LLM only called for ambiguous range (30-70) — clear items skip LLM entirely, saving API calls
+- [Phase 02-scorer P04]: runScorer gets fresh db2 connection after runCollector closes db — prevents SQLite busy/locked conflict
+- [Phase 02-scorer P04]: try/finally wraps scorerDb.close() — guaranteed cleanup even if runScorer() throws
 
 ### Pending Todos
 
@@ -97,6 +99,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T11:21:40.456Z
-Stopped at: Completed 02-03-PLAN.md — Phase 2 Plan 3 complete
+Last session: 2026-03-18T12:00:00.000Z
+Stopped at: Completed 02-04-PLAN.md — Phase 2 (Scorer) fully complete
 Resume file: None
