@@ -13,7 +13,7 @@ The News Analyzer module is built in four delivery phases that follow the data p
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Collector** - Automated news fetching from 10 sources with deduplication storage
-- [ ] **Phase 2: Scorer** - Importance scoring engine with type classification and multi-source boost
+- [x] **Phase 2: Scorer** - Importance scoring engine with type classification and multi-source boost (completed 2026-03-18)
 - [ ] **Phase 3: Telegram Bot** - Admin moderation interface with Accept/Reject actions
 - [ ] **Phase 4: Writer + Publisher** - LLM blog post generation and Agent Network publish pipeline
 
