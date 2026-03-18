@@ -28,7 +28,14 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Running the collector twice on the same data produces no duplicate entries in storage
   3. The 6-hour cron job fires automatically and logs each run
   4. Changing the sources list in config (adding or removing a source) takes effect on the next run without touching code
-**Plans**: TBD
+**Plans**: 5 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Bootstrap: install deps, config.json (10 sources), SQLite deduplication layer
+- [ ] 01-02-PLAN.md — Source fetchers: RSS (4 sources), HackerNews, GitHub Trending
+- [ ] 01-03-PLAN.md — Source fetchers: GitHub Search, HuggingFace (papers + models), TAAFT scraper
+- [ ] 01-04-PLAN.md — Collector orchestrator: source dispatcher + runCollector() + registerCron()
+- [ ] 01-05-PLAN.md — Cron wiring into server/index.js + phase gate verification checkpoint
 
 ### Phase 2: Scorer
 **Goal**: Every collected news item receives a 0-100 importance score, a type classification, and a pass/fail decision against a configurable threshold
