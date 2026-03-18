@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 04-01-PLAN.md — Phase 4 Plan 1 (Writer Module)
-last_updated: "2026-03-18T17:23:24.569Z"
+stopped_at: Completed 04-02-PLAN.md — Phase 4 Plan 2 (Publisher + Accept Route)
+last_updated: "2026-03-18T17:28:52.710Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 4
   completed_phases: 3
   total_plans: 15
-  completed_plans: 13
+  completed_plans: 14
   percent: 50
 ---
 
@@ -58,6 +58,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 03-telegram-bot P02 | 8 | 2 tasks | 6 files |
 | Phase 03-telegram-bot P03 | 7 | 2 tasks | 3 files |
 | Phase 04-writer-publisher P01 | 28 | 3 tasks | 3 files |
+| Phase 04-writer-publisher P02 | 3 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -100,6 +101,9 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 04-writer-publisher]: OPENROUTER_API_KEY absent throws immediately in writer — no silent fallback unlike scorer
 - [Phase 04-writer-publisher]: Three LLM calls (mokslius, oldboy, tags) run in parallel via Promise.all — minimizes latency
 - [Phase 04-writer-publisher]: item_type override (breakthrough→AI Valdymas, research→Mokslas) takes precedence over source_id in detectCategory
+- [Phase 04-writer-publisher]: USER OVERRIDE: Draft-to-disk instead of Supabase publish — user reviews drafts/<hash>.json manually before publishing
+- [Phase 04-writer-publisher]: writer_status='draft' (not 'published') — clean semantic distinction between written and live
+- [Phase 04-writer-publisher]: drafts/ dir gitignored — generated content should not be committed
 
 ### Pending Todos
 
@@ -113,6 +117,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T17:23:24.560Z
-Stopped at: Completed 04-01-PLAN.md — Phase 4 Plan 1 (Writer Module)
+Last session: 2026-03-18T17:28:52.703Z
+Stopped at: Completed 04-02-PLAN.md — Phase 4 Plan 2 (Publisher + Accept Route)
 Resume file: None
