@@ -47,7 +47,13 @@ Plans:
   3. An item that appears in three different sources scores higher than the same item from one source
   4. Items below the configured threshold are marked as filtered and do not proceed to Telegram
   5. Changing the threshold value in config immediately affects which items pass on the next scoring run
-**Plans**: TBD
+**Plans**: 4 plans
+
+Plans:
+- [ ] 02-01-PLAN.md — Schema migration (4 new DB columns) + config.json scoring block + test scaffold
+- [ ] 02-02-PLAN.md — Heuristic scorer (keyword + source baselines) + multi-source Jaccard boost
+- [ ] 02-03-PLAN.md — LLM scorer (OpenRouter batch) + runScorer() pipeline orchestrator
+- [ ] 02-04-PLAN.md — Wire runScorer() into runCollector() + end-to-end checkpoint
 
 ### Phase 3: Telegram Bot
 **Goal**: The admin receives scored news items as interactive Telegram cards and can approve or reject each one with a single button press
@@ -81,6 +87,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
-| 2. Scorer | 0/TBD | Not started | - |
+| 2. Scorer | 0/4 | Not started | - |
 | 3. Telegram Bot | 0/TBD | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |
