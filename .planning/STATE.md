@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 02-04-PLAN.md — Phase 2 (Scorer) fully complete
-last_updated: "2026-03-18T11:34:47.608Z"
+stopped_at: Completed 03-01-PLAN.md — Phase 3 Plan 1 (Schema + Config) complete
+last_updated: "2026-03-18T12:00:25.866Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 4
   completed_phases: 2
-  total_plans: 9
-  completed_plans: 9
+  total_plans: 12
+  completed_plans: 10
   percent: 50
 ---
 
@@ -54,6 +54,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
 | Phase 02-scorer P03 | 2 | 2 tasks | 2 files |
 | Phase 02-scorer P04 | 15 | 2 tasks | 1 file |
+| Phase 03-telegram-bot P01 | 4 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -86,6 +87,8 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 02-scorer]: LLM only called for ambiguous range (30-70) — clear items skip LLM entirely, saving API calls
 - [Phase 02-scorer P04]: runScorer gets fresh db2 connection after runCollector closes db — prevents SQLite busy/locked conflict
 - [Phase 02-scorer P04]: try/finally wraps scorerDb.close() — guaranteed cleanup even if runScorer() throws
+- [Phase 03-telegram-bot]: WAL pragma added immediately after Database() constructor to prevent SQLITE_BUSY when bot and collector share DB file
+- [Phase 03-telegram-bot]: telegram.batchDelayMs=1000ms for safe Telegram rate limiting; dispatchCutoffMs=86400000 prevents sending stale items on first run
 
 ### Pending Todos
 
@@ -99,6 +102,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T12:00:00.000Z
-Stopped at: Completed 02-04-PLAN.md — Phase 2 (Scorer) fully complete
+Last session: 2026-03-18T12:00:25.859Z
+Stopped at: Completed 03-01-PLAN.md — Phase 3 Plan 1 (Schema + Config) complete
 Resume file: None

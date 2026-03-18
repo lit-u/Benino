@@ -25,8 +25,8 @@
 
 - [ ] **TG-01**: Adminas TG bote gauna naujienų korteles su pavadinimu, šaltiniu, balu ir kategorija
 - [ ] **TG-02**: Kiekviena kortelė turi mygtukus: ✅ Priimti / ❌ Atmesti
-- [ ] **TG-03**: Paspaudus "Atmesti" — naujiena žymima kaip atmesta, nebesiunčiama
-- [ ] **TG-04**: Paspaudus "Priimti" — paleidžiamas LLM generavimas ir publikavimas
+- [x] **TG-03**: Paspaudus "Atmesti" — naujiena žymima kaip atmesta, nebesiunčiama
+- [x] **TG-04**: Paspaudus "Priimti" — paleidžiamas LLM generavimas ir publikavimas
 - [ ] **TG-05**: Adminas gauna patvirtinimą kai blog post sėkmingai publikuotas (su nuoroda)
 
 ### Writer (Blog post generavimas)
@@ -86,8 +86,8 @@
 | SCOR-05 | Phase 2 | Complete |
 | TG-01 | Phase 3 | Pending |
 | TG-02 | Phase 3 | Pending |
-| TG-03 | Phase 3 | Pending |
-| TG-04 | Phase 3 | Pending |
+| TG-03 | Phase 3 | Complete |
+| TG-04 | Phase 3 | Complete |
 | TG-05 | Phase 3 | Pending |
 | WRIT-01 | Phase 4 | Pending |
 | WRIT-02 | Phase 4 | Pending |
