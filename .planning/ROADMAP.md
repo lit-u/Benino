@@ -12,7 +12,7 @@ The News Analyzer module is built in four delivery phases that follow the data p
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Collector** - Automated news fetching from 10 sources with deduplication storage
+- [x] **Phase 1: Collector** - Automated news fetching from 10 sources with deduplication storage
 - [ ] **Phase 2: Scorer** - Importance scoring engine with type classification and multi-source boost
 - [ ] **Phase 3: Telegram Bot** - Admin moderation interface with Accept/Reject actions
 - [ ] **Phase 4: Writer + Publisher** - LLM blog post generation and Agent Network publish pipeline
@@ -32,10 +32,10 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 Plans:
 - [x] 01-01-PLAN.md — Bootstrap: install deps, config.json (10 sources), SQLite deduplication layer
-- [ ] 01-02-PLAN.md — Source fetchers: RSS (4 sources), HackerNews, GitHub Trending
-- [ ] 01-03-PLAN.md — Source fetchers: GitHub Search, HuggingFace (papers + models), TAAFT scraper
-- [ ] 01-04-PLAN.md — Collector orchestrator: source dispatcher + runCollector() + registerCron()
-- [ ] 01-05-PLAN.md — Cron wiring into server/index.js + phase gate verification checkpoint
+- [x] 01-02-PLAN.md — Source fetchers: RSS (4 sources), HackerNews, GitHub Trending
+- [x] 01-03-PLAN.md — Source fetchers: GitHub Search, HuggingFace (papers + models), TAAFT scraper
+- [x] 01-04-PLAN.md — Collector orchestrator: source dispatcher + runCollector() + registerCron()
+- [x] 01-05-PLAN.md — Cron wiring into server/index.js + phase gate verification checkpoint
 
 ### Phase 2: Scorer
 **Goal**: Every collected news item receives a 0-100 importance score, a type classification, and a pass/fail decision against a configurable threshold
@@ -80,7 +80,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Collector | 4/5 | In Progress|  |
+| 1. Collector | 5/5 | Complete | 2026-03-18 |
 | 2. Scorer | 0/TBD | Not started | - |
 | 3. Telegram Bot | 0/TBD | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |

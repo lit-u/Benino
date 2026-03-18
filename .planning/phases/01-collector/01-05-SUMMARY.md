@@ -42,28 +42,30 @@ completed: 2026-03-18
 
 # Phase 1 Plan 05: Server Integration & Phase Gate Summary
 
-**News collector cron wired into server/index.js via registerNewsCollector() inside app.listen callback, completing Phase 1 integration**
+**News collector cron wired into server/index.js; all 5 COLL requirements human-verified — 994-995 items fetched from 10 sources, 0 errors, 0 duplicates on second run, cron schedule log confirmed**
 
 ## Performance
 
-- **Duration:** 5 min
+- **Duration:** 5 min (automation) + human checkpoint verification
 - **Started:** 2026-03-18T07:18:48Z
-- **Completed:** 2026-03-18T07:23:00Z
-- **Tasks:** 1 of 2 (Task 2 is human checkpoint — verification pending)
+- **Completed:** 2026-03-18 (human approved)
+- **Tasks:** 2 of 2 (Task 1 auto, Task 2 checkpoint:human-verify — APPROVED)
 - **Files modified:** 2
 
 ## Accomplishments
 - Added `import { registerCron as registerNewsCollector }` from news-collector service to server/index.js
 - Registered `registerNewsCollector()` inside `app.listen()` callback (guarded by enclosing `!isVercelRuntime` block)
 - Created `.env.example` documenting `GITHUB_TOKEN` as optional env var (raises GitHub Search rate limit)
+- Human verified all 5 COLL requirements: fetched=994-995, errors=0, new=0 on second run (dedup confirmed), cron log `[news-collector] Cron scheduled: 0 */6 * * *` confirmed
 
 ## Task Commits
 
 Each task was committed atomically:
 
 1. **Task 1: Register news collector cron in server/index.js and update .env.example** - `3049e62` (feat)
+2. **Task 2: Phase 1 end-to-end verification checkpoint** - Human approved (no code changes)
 
-**Plan metadata:** (pending final state commit)
+**Plan metadata:** (docs commit — see final commit)
 
 ## Files Created/Modified
 - `agent-network/server/index.js` - Added news-collector import (line 95) and registerNewsCollector() call (line 919) inside app.listen callback
@@ -84,9 +86,10 @@ None.
 None - no external service configuration required. GITHUB_TOKEN is optional and improves GitHub Search rate limits only.
 
 ## Next Phase Readiness
-- Phase 1 complete pending human verification at checkpoint (Task 2)
-- Human must confirm: fetched > 0 on first runCollector(), new === 0 on second run, cron log appears on npm start
-- Once checkpoint approved: Phase 2 (Telegram bot) can begin
+- Phase 1 complete — all 5 COLL requirements verified and approved
+- news.db populated with 994-995 real items from all 10 sources (Anthropic, OpenAI, Google AI, GitHub Blog, HackerNews, GitHub Trending, GitHub Search, HuggingFace Papers, HuggingFace Models, TAAFT)
+- Phase 2 (Scorer) can begin immediately — runCollector() and seen_urls table are operational
+- Blocker: TG bot token needed before Phase 3 (not needed for Phase 2)
 
 ---
 *Phase: 01-collector*
