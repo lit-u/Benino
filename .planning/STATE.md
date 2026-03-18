@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 02-02-PLAN.md — Phase 2 Plan 2 complete
-last_updated: "2026-03-18T11:14:56.610Z"
+stopped_at: Completed 02-03-PLAN.md — Phase 2 Plan 3 complete
+last_updated: "2026-03-18T11:21:40.461Z"
 last_activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
 progress:
   total_phases: 4
   completed_phases: 1
   total_plans: 9
-  completed_plans: 7
+  completed_plans: 8
   percent: 25
 ---
 
@@ -53,6 +53,7 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 *Updated after each plan completion*
 | Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
 | Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
+| Phase 02-scorer P03 | 2 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -80,6 +81,9 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 - [Phase 02-scorer]: SOURCE_BASELINES base scores higher than research doc (openai: 60 not 55) — ensures top-tier sources clear threshold without keyword match
 - [Phase 02-scorer]: scoreByHeuristics: all KEYWORD_RULES boosts additive, highest-magnitude rule wins type — avoids confusion on multi-signal titles
 - [Phase 02-scorer]: applyMultiSourceBoost uses greedy O(n^2) Jaccard grouping (not transitive closure) — simpler, correct for batch sizes <= 50
+- [Phase 02-scorer]: scoreBatchWithLLM returns [] when OPENROUTER_API_KEY absent — heuristics used as-is (graceful fallback)
+- [Phase 02-scorer]: runScorer uses db.transaction() for batch UPDATE — atomic write, no partial state on crash
+- [Phase 02-scorer]: LLM only called for ambiguous range (30-70) — clear items skip LLM entirely, saving API calls
 
 ### Pending Todos
 
@@ -93,6 +97,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T11:14:56.605Z
-Stopped at: Completed 02-02-PLAN.md — Phase 2 Plan 2 complete
+Last session: 2026-03-18T11:21:40.456Z
+Stopped at: Completed 02-03-PLAN.md — Phase 2 Plan 3 complete
 Resume file: None
