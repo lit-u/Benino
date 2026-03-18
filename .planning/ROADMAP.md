@@ -80,7 +80,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Collector | 1/5 | In progress | - |
+| 1. Collector | 3/5 | In Progress|  |
 | 2. Scorer | 0/TBD | Not started | - |
 | 3. Telegram Bot | 0/TBD | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |

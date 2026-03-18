@@ -7,11 +7,11 @@
 
 ### Collector (Naujienų rinkimas)
 
-- [ ] **COLL-01**: Sistema renka naujienas iš 10 iš anksto nustatytų šaltinių (RSS + API)
+- [x] **COLL-01**: Sistema renka naujienas iš 10 iš anksto nustatytų šaltinių (RSS + API)
 - [ ] **COLL-02**: Rinkimas vyksta automatiškai kas 6 valandas (cron job)
 - [x] **COLL-03**: Sistema nesikartoja — jau matytos naujienos (URL hash) praleidžiamos
 - [x] **COLL-04**: Šaltinių sąrašas konfigūruojamas per config failą (ne hardcoded)
-- [ ] **COLL-05**: Sistema veikia su šiais šaltiniais: Anthropic Blog, OpenAI Blog, Google AI Blog, GitHub Blog Changelog, HackerNews, GitHub Trending, GitHub Search, HuggingFace Papers, HuggingFace Models, TAAFT
+- [x] **COLL-05**: Sistema veikia su šiais šaltiniais: Anthropic Blog, OpenAI Blog, Google AI Blog, GitHub Blog Changelog, HackerNews, GitHub Trending, GitHub Search, HuggingFace Papers, HuggingFace Models, TAAFT
 
 ### Scorer (Naujienų vertinimas)
 
@@ -74,11 +74,11 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| COLL-01 | Phase 1 | Pending |
+| COLL-01 | Phase 1 | Complete |
 | COLL-02 | Phase 1 | Pending |
 | COLL-03 | Phase 1 | Complete (01-01) |
 | COLL-04 | Phase 1 | Complete (01-01) |
-| COLL-05 | Phase 1 | Pending |
+| COLL-05 | Phase 1 | Complete |
 | SCOR-01 | Phase 2 | Pending |
 | SCOR-02 | Phase 2 | Pending |
 | SCOR-03 | Phase 2 | Pending |

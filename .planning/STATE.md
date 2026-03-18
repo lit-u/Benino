@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 ## Current Position
 
 Phase: 1 of 4 (Collector)
-Plan: 1 of 6 in current phase
+Plan: 3 of 6 in current phase
 Status: In progress
-Last activity: 2026-03-18 — Plan 01-01 complete (Bootstrap: deps, config, storage)
+Last activity: 2026-03-18 — Plan 01-03 complete (Source fetchers: GitHub Search, HuggingFace, TAAFT)
 
-Progress: [█░░░░░░░░░] 4%
+Progress: [███░░░░░░░] 12%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 15min
-- Total execution time: 15min
+- Total plans completed: 3
+- Average duration: 13min
+- Total execution time: 38min
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01-collector | 1 | 15min | 15min |
+| 01-collector | 3 | 38min | 13min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (15min)
-- Trend: —
+- Last 5 plans: 01-01 (15min), 01-02 (20min), 01-03 (3min)
+- Trend: improving
 
 *Updated after each plan completion*
 
@@ -46,6 +46,11 @@ Progress: [█░░░░░░░░░] 4%
 - TAAFT source uses taaft-scrape type (RSS URL broken per research)
 - HuggingFace Papers uses hf-papers-api type (official API more reliable than blog RSS)
 - URL hash is SHA-256 first 32 chars — sufficient collision resistance for news dedup
+- rss-fetcher reuses DEFAULT_PARSER; creates new Parser instance only when source.headers is set
+- GitHub Trending uses article.Box-row + h2.h3.lh-condensed a selectors (confirmed 2026-03-18)
+- HN fetcher uses search_by_date endpoint (not search) for recency-sorted 6h window
+- TAAFT selector: li.li (page is static HTML, 14 tools, no puppeteer needed)
+- HuggingFace Models: sort=createdAt (camelCase) — created_at causes HTTP 400
 
 ### Pending Todos
 
@@ -60,5 +65,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-18
-Stopped at: Completed 01-01-PLAN.md (Bootstrap: deps installed, config.json, storage/db.js)
+Stopped at: Completed 01-02-PLAN.md (Source fetchers: rss-fetcher, hn-fetcher, github-trending-fetcher)
 Resume file: None
