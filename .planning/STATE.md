@@ -2,15 +2,15 @@
 gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
-status: in_progress
-stopped_at: Completed 02-01-PLAN.md — Phase 2 Plan 1 complete
-last_updated: "2026-03-18T08:22:06Z"
+status: completed
+stopped_at: Completed 02-02-PLAN.md — Phase 2 Plan 2 complete
+last_updated: "2026-03-18T11:14:56.610Z"
 last_activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
 progress:
   total_phases: 4
   completed_phases: 1
-  total_plans: 5
-  completed_plans: 6
+  total_plans: 9
+  completed_plans: 7
   percent: 25
 ---
 
@@ -51,6 +51,8 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 - Trend: stable
 
 *Updated after each plan completion*
+| Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
+| Phase 02-scorer P02 | 5 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -73,6 +75,11 @@ Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 - [Phase 01-collector]: registerNewsCollector() placed inside app.listen callback — server must be up before cron starts; Vercel guard inherited from enclosing if(!isVercelRuntime) block
 - [Phase 02-scorer]: addIfMissing() uses try/catch on ALTER TABLE — SQLite has no IF NOT EXISTS for column additions
 - [Phase 02-scorer]: scorer/test-scorer.js import paths use relative-to-file paths (../config.json, ./heuristics.js) not root-relative
+- [Phase 02-scorer]: scoreByHeuristics: all KEYWORD_RULES boosts additive, highest-magnitude rule wins type — avoids confusion on multi-signal titles
+- [Phase 02-scorer]: applyMultiSourceBoost uses greedy O(n^2) Jaccard grouping (not transitive closure) — simpler, correct for batch sizes <= 50
+- [Phase 02-scorer]: SOURCE_BASELINES base scores higher than research doc (openai: 60 not 55) — ensures top-tier sources clear threshold without keyword match
+- [Phase 02-scorer]: scoreByHeuristics: all KEYWORD_RULES boosts additive, highest-magnitude rule wins type — avoids confusion on multi-signal titles
+- [Phase 02-scorer]: applyMultiSourceBoost uses greedy O(n^2) Jaccard grouping (not transitive closure) — simpler, correct for batch sizes <= 50
 
 ### Pending Todos
 
@@ -86,6 +93,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T08:22:06Z
-Stopped at: Completed 02-01-PLAN.md — Phase 2 Plan 1 complete
+Last session: 2026-03-18T11:14:56.605Z
+Stopped at: Completed 02-02-PLAN.md — Phase 2 Plan 2 complete
 Resume file: None

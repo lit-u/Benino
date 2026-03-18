@@ -50,8 +50,8 @@ Plans:
 **Plans**: 4 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — Schema migration (4 new DB columns) + config.json scoring block + test scaffold
-- [ ] 02-02-PLAN.md — Heuristic scorer (keyword + source baselines) + multi-source Jaccard boost
+- [x] 02-01-PLAN.md — Schema migration (4 new DB columns) + config.json scoring block + test scaffold
+- [x] 02-02-PLAN.md — Heuristic scorer (keyword + source baselines) + multi-source Jaccard boost
 - [ ] 02-03-PLAN.md — LLM scorer (OpenRouter batch) + runScorer() pipeline orchestrator
 - [ ] 02-04-PLAN.md — Wire runScorer() into runCollector() + end-to-end checkpoint
 
