@@ -15,11 +15,11 @@
 
 ### Scorer (Naujienų vertinimas)
 
-- [ ] **SCOR-01**: Kiekviena naujiena gauna svarbumo balą (0–100)
+- [x] **SCOR-01**: Kiekviena naujiena gauna svarbumo balą (0–100)
 - [ ] **SCOR-02**: Naujienų tipas automatiškai klasifikuojamas: `breakthrough` / `release` / `update` / `research`
 - [ ] **SCOR-03**: "Breakthrough" tipo naujienos (nauji modeliai, major release) gauna aukštą bazinį balą (≥70)
 - [ ] **SCOR-04**: Balo kėlimas jei ta pati tema aptinkama keliuose šaltiniuose (multi-source boost)
-- [ ] **SCOR-05**: Scoring threshold konfigūruojamas — viršijus balą, naujiena siunčiama į TG botą
+- [x] **SCOR-05**: Scoring threshold konfigūruojamas — viršijus balą, naujiena siunčiama į TG botą
 
 ### Telegram Bot (Moderavimas)
 
@@ -79,11 +79,11 @@
 | COLL-03 | Phase 1 | Complete (01-01) |
 | COLL-04 | Phase 1 | Complete (01-01) |
 | COLL-05 | Phase 1 | Complete |
-| SCOR-01 | Phase 2 | Pending |
+| SCOR-01 | Phase 2 | Complete |
 | SCOR-02 | Phase 2 | Pending |
 | SCOR-03 | Phase 2 | Pending |
 | SCOR-04 | Phase 2 | Pending |
-| SCOR-05 | Phase 2 | Pending |
+| SCOR-05 | Phase 2 | Complete |
 | TG-01 | Phase 3 | Pending |
 | TG-02 | Phase 3 | Pending |
 | TG-03 | Phase 3 | Pending |

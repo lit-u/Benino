@@ -2,16 +2,16 @@
 gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
-status: completed
-stopped_at: Completed 01-05-PLAN.md — Phase 1 fully complete
-last_updated: "2026-03-18T07:49:33.663Z"
-last_activity: 2026-03-18 — Plan 01-05 complete — Phase 1 gate checkpoint approved (994+ items, 0 errors, 0 dups)
+status: in_progress
+stopped_at: Completed 02-01-PLAN.md — Phase 2 Plan 1 complete
+last_updated: "2026-03-18T08:22:06Z"
+last_activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
 progress:
   total_phases: 4
   completed_phases: 1
   total_plans: 5
-  completed_plans: 5
-  percent: 100
+  completed_plans: 6
+  percent: 25
 ---
 
 # Project State
@@ -25,12 +25,12 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 
 ## Current Position
 
-Phase: 1 of 4 (Collector) — COMPLETE
-Plan: 5 of 5 in Phase 1 — all complete
-Status: Phase 1 complete, ready for Phase 2 (Scorer)
-Last activity: 2026-03-18 — Plan 01-05 complete — Phase 1 gate checkpoint approved (994+ items, 0 errors, 0 dups)
+Phase: 2 of 4 (Scorer) — IN PROGRESS
+Plan: 1 of N in Phase 2 — 1 complete
+Status: Phase 2 started, Plan 02-01 complete (schema + config + test scaffold)
+Last activity: 2026-03-18 — Plan 02-01 complete — scorer schema + config + test scaffold ready
 
-Progress: [██████████] 100% (Phase 1)
+Progress: [██████░░░░] 25% (Phase 2 Plan 1/N complete)
 
 ## Performance Metrics
 
@@ -44,10 +44,11 @@ Progress: [██████████] 100% (Phase 1)
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 01-collector | 4 | 46min | 12min |
+| 02-scorer | 1 | 8min | 8min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (15min), 01-02 (20min), 01-03 (3min), 01-04 (8min)
-- Trend: improving
+- Last 5 plans: 01-01 (15min), 01-02 (20min), 01-03 (3min), 01-04 (8min), 02-01 (8min)
+- Trend: stable
 
 *Updated after each plan completion*
 
@@ -70,6 +71,8 @@ Progress: [██████████] 100% (Phase 1)
 - [Phase 01-collector]: createRequire used for JSON config import (reliable across all Node.js ESM versions)
 - [Phase 01-collector]: db.close() called at end of each runCollector() to avoid SQLite connection leaks
 - [Phase 01-collector]: registerNewsCollector() placed inside app.listen callback — server must be up before cron starts; Vercel guard inherited from enclosing if(!isVercelRuntime) block
+- [Phase 02-scorer]: addIfMissing() uses try/catch on ALTER TABLE — SQLite has no IF NOT EXISTS for column additions
+- [Phase 02-scorer]: scorer/test-scorer.js import paths use relative-to-file paths (../config.json, ./heuristics.js) not root-relative
 
 ### Pending Todos
 
@@ -83,6 +86,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T08:00:00Z
-Stopped at: Completed 01-05-PLAN.md — Phase 1 fully complete
+Last session: 2026-03-18T08:22:06Z
+Stopped at: Completed 02-01-PLAN.md — Phase 2 Plan 1 complete
 Resume file: None
