@@ -31,7 +31,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 5 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Bootstrap: install deps, config.json (10 sources), SQLite deduplication layer
+- [x] 01-01-PLAN.md — Bootstrap: install deps, config.json (10 sources), SQLite deduplication layer
 - [ ] 01-02-PLAN.md — Source fetchers: RSS (4 sources), HackerNews, GitHub Trending
 - [ ] 01-03-PLAN.md — Source fetchers: GitHub Search, HuggingFace (papers + models), TAAFT scraper
 - [ ] 01-04-PLAN.md — Collector orchestrator: source dispatcher + runCollector() + registerCron()
@@ -80,7 +80,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Collector | 0/TBD | Not started | - |
+| 1. Collector | 1/5 | In progress | - |
 | 2. Scorer | 0/TBD | Not started | - |
 | 3. Telegram Bot | 0/TBD | Not started | - |
 | 4. Writer + Publisher | 0/TBD | Not started | - |

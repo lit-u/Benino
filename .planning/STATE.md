@@ -10,27 +10,27 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 ## Current Position
 
 Phase: 1 of 4 (Collector)
-Plan: 0 of TBD in current phase
-Status: Ready to plan
-Last activity: 2026-03-18 — Roadmap created, v1.0 phases 1-4 defined
+Plan: 1 of 6 in current phase
+Status: In progress
+Last activity: 2026-03-18 — Plan 01-01 complete (Bootstrap: deps, config, storage)
 
-Progress: [░░░░░░░░░░] 0%
+Progress: [█░░░░░░░░░] 4%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 0
-- Average duration: —
-- Total execution time: —
+- Total plans completed: 1
+- Average duration: 15min
+- Total execution time: 15min
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| - | - | - | - |
+| 01-collector | 1 | 15min | 15min |
 
 **Recent Trend:**
-- Last 5 plans: —
+- Last 5 plans: 01-01 (15min)
 - Trend: —
 
 *Updated after each plan completion*
@@ -43,6 +43,9 @@ Progress: [░░░░░░░░░░] 0%
 - OpenRouter LLM — easy model switching, billing control (default: google/gemini-2.0-flash-001)
 - 6h cron interval — balance between freshness and API load
 - Publish via agent-network blog API — not direct Supabase writes
+- TAAFT source uses taaft-scrape type (RSS URL broken per research)
+- HuggingFace Papers uses hf-papers-api type (official API more reliable than blog RSS)
+- URL hash is SHA-256 first 32 chars — sufficient collision resistance for news dedup
 
 ### Pending Todos
 
@@ -57,5 +60,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-18
-Stopped at: Roadmap created — Phase 1 ready for /gsd:plan-phase 1
+Stopped at: Completed 01-01-PLAN.md (Bootstrap: deps installed, config.json, storage/db.js)
 Resume file: None
