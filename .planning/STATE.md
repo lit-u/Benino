@@ -1,3 +1,19 @@
+---
+gsd_state_version: 1.0
+milestone: v1.0
+milestone_name: milestone
+status: executing
+stopped_at: "Completed 01-04-PLAN.md (Collector orchestrator: sources/index.js + index.js)"
+last_updated: "2026-03-18T07:17:16.311Z"
+last_activity: "2026-03-18 — Plan 01-03 complete (Source fetchers: GitHub Search, HuggingFace, TAAFT)"
+progress:
+  total_phases: 4
+  completed_phases: 0
+  total_plans: 5
+  completed_plans: 4
+  percent: 80
+---
+
 # Project State
 
 ## Project Reference
@@ -10,27 +26,27 @@ See: .planning/PROJECT.md (updated 2026-03-18)
 ## Current Position
 
 Phase: 1 of 4 (Collector)
-Plan: 3 of 6 in current phase
+Plan: 4 of 6 in current phase
 Status: In progress
-Last activity: 2026-03-18 — Plan 01-03 complete (Source fetchers: GitHub Search, HuggingFace, TAAFT)
+Last activity: 2026-03-18 — Plan 01-04 complete (Collector orchestrator: sources/index.js + index.js)
 
-Progress: [███░░░░░░░] 12%
+Progress: [████████░░] 80%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
-- Average duration: 13min
-- Total execution time: 38min
+- Total plans completed: 4
+- Average duration: 12min
+- Total execution time: 46min
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01-collector | 3 | 38min | 13min |
+| 01-collector | 4 | 46min | 12min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (15min), 01-02 (20min), 01-03 (3min)
+- Last 5 plans: 01-01 (15min), 01-02 (20min), 01-03 (3min), 01-04 (8min)
 - Trend: improving
 
 *Updated after each plan completion*
@@ -51,6 +67,8 @@ Progress: [███░░░░░░░] 12%
 - HN fetcher uses search_by_date endpoint (not search) for recency-sorted 6h window
 - TAAFT selector: li.li (page is static HTML, 14 tools, no puppeteer needed)
 - HuggingFace Models: sort=createdAt (camelCase) — created_at causes HTTP 400
+- [Phase 01-collector]: createRequire used for JSON config import (reliable across all Node.js ESM versions)
+- [Phase 01-collector]: db.close() called at end of each runCollector() to avoid SQLite connection leaks
 
 ### Pending Todos
 
@@ -64,6 +82,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18
-Stopped at: Completed 01-03-PLAN.md (Source fetchers: github-search-fetcher, huggingface-fetcher, taaft-fetcher)
+Last session: 2026-03-18T07:17:16.305Z
+Stopped at: Completed 01-04-PLAN.md (Collector orchestrator: sources/index.js + index.js)
 Resume file: None
