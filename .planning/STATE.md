@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 04-03-PLAN.md — Phase 4 Writer+Publisher pipeline verified end-to-end, human approved draft-to-disk approach
-last_updated: "2026-03-19T20:06:17.327Z"
+stopped_at: Completed 04-04-PLAN.md — config.json wired into accept route, Telegram confirmation implemented
+last_updated: "2026-03-19T20:21:52.911Z"
 last_activity: 2026-03-19 — Plan 05-03 complete — hotel admin panel (room CRUD, drag-drop photos, QR) built and verified
 progress:
   total_phases: 5
   completed_phases: 5
-  total_plans: 19
-  completed_plans: 19
+  total_plans: 20
+  completed_plans: 20
   percent: 100
 ---
 
@@ -63,6 +63,7 @@ Progress: [██████████] 100% (All 5 phases complete)
 | Phase 05-hotel-mini-website P01 | 68 | 3 tasks | 5 files |
 | Phase 05-hotel-mini-website P02 | 11 | 2 tasks | 3 files |
 | Phase 05-hotel-mini-website P03 | 15 | 1 task (+ checkpoint) | 2 files |
+| Phase 04-writer-publisher P04 | 3 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -116,6 +117,8 @@ Progress: [██████████] 100% (All 5 phases complete)
 - [Phase 05-hotel-mini-website]: requireUser imported at module top-level — ES module import must be static, not inline
 - [Phase 05-hotel-mini-website P03]: Window-view type toggle tries /type endpoint first, falls back to sort-order reorder (sort_order=0 = window_view)
 - [Phase 05-hotel-mini-website P03]: Session key is agent_session_id (not sessionId) — matches soc-module.js pattern
+- [Phase 04-writer-publisher]: cfg loaded via createRequire in news.js — synchronous, consistent with existing require declaration
+- [Phase 04-writer-publisher]: handleAccept returns { ok, data } instead of void — unit tests can assert pipeline outcome
 
 ### Roadmap Evolution
 
@@ -133,6 +136,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-19T20:06:17.314Z
-Stopped at: Completed 04-03-PLAN.md — Phase 4 Writer+Publisher pipeline verified end-to-end, human approved draft-to-disk approach
+Last session: 2026-03-19T20:21:52.905Z
+Stopped at: Completed 04-04-PLAN.md — config.json wired into accept route, Telegram confirmation implemented
 Resume file: None

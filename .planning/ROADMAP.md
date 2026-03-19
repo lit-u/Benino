@@ -15,7 +15,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 1: Collector** - Automated news fetching from 10 sources with deduplication storage
 - [x] **Phase 2: Scorer** - Importance scoring engine with type classification and multi-source boost (completed 2026-03-18)
 - [x] **Phase 3: Telegram Bot** - Admin moderation interface with Accept/Reject actions (completed 2026-03-18)
-- [ ] **Phase 4: Writer + Publisher** - LLM blog post generation and Agent Network publish pipeline
+- [x] **Phase 4: Writer + Publisher** - LLM blog post generation and Agent Network publish pipeline (completed 2026-03-19)
 
 ## Phase Details
 
@@ -100,7 +100,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
-| 4. Writer + Publisher | 3/4 | In Progress|  |
+| 4. Writer + Publisher | 4/4 | Complete   | 2026-03-19 |
 | 5. Hotel Mini-Website | 3/4 | In Progress|  |
 
 ### Phase 5: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
@@ -116,7 +116,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
   6. QR code endpoint generates downloadable PNG for each room
   7. Reservation form generates WhatsApp deep link (wa.me format) and mailto link
 **Depends on:** Phase 4
-**Plans:** 4/4 plans executed
+**Plans:** 4/4 plans complete
 
 Plans:
 - [x] 05-00-PLAN.md — Wave 0: Playwright test stubs (hotel.spec.js) for HOTEL-01 through HOTEL-06
