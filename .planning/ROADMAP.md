@@ -100,7 +100,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
 | 4. Writer + Publisher | 2/3 | In Progress|  |
-| 5. Hotel Mini-Website | 1/4 | In Progress|  |
+| 5. Hotel Mini-Website | 2/4 | In Progress|  |
 
 ### Phase 5: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
 
@@ -115,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
   6. QR code endpoint generates downloadable PNG for each room
   7. Reservation form generates WhatsApp deep link (wa.me format) and mailto link
 **Depends on:** Phase 4
-**Plans:** 1/4 plans executed
+**Plans:** 2/4 plans executed
 
 Plans:
 - [ ] 05-00-PLAN.md — Wave 0: Playwright test stubs (hotel.spec.js) for HOTEL-01 through HOTEL-06
