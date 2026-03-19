@@ -115,9 +115,10 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
   6. QR code endpoint generates downloadable PNG for each room
   7. Reservation form generates WhatsApp deep link (wa.me format) and mailto link
 **Depends on:** Phase 4
-**Plans:** 3 plans
+**Plans:** 4 plans
 
 Plans:
+- [ ] 05-00-PLAN.md — Wave 0: Playwright test stubs (hotel.spec.js) for HOTEL-01 through HOTEL-06
 - [ ] 05-01-PLAN.md — Foundation: DB schema (3 tables) + hotels.js CRUD API + hotel-image-service.js + qrcode install
 - [ ] 05-02-PLAN.md — Public page: SSR/injectMeta extension + hotel.html + hotel-module.js (gallery, sea proximity, reservation)
 - [ ] 05-03-PLAN.md — Admin panel: hotel-admin.html + hotel-admin-module.js (room CRUD, drag-drop photos, QR) + checkpoint
