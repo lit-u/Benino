@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 05-01-PLAN.md
-last_updated: "2026-03-19T14:29:27.153Z"
+stopped_at: Completed 05-02-PLAN.md
+last_updated: "2026-03-19T14:56:38.537Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 5
   completed_phases: 3
   total_plans: 19
-  completed_plans: 16
+  completed_plans: 17
   percent: 50
 ---
 
@@ -61,6 +61,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 04-writer-publisher P02 | 3 | 2 tasks | 3 files |
 | Phase 05-hotel-mini-website P00 | 3 | 1 tasks | 1 files |
 | Phase 05-hotel-mini-website P01 | 68 | 3 tasks | 5 files |
+| Phase 05-hotel-mini-website P02 | 11 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -109,6 +110,9 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 05-hotel-mini-website]: Wave-0 pattern: test.skip() stubs created before backend, so spec compiles without server dependency
 - [Phase 05-hotel-mini-website]: owner_id is TEXT (not UUID FK) in hotels table — avoids FK constraint failures during dual-auth system transition
 - [Phase 05-hotel-mini-website]: HotelImageService extends ImageUploadService — thin subclass overrides bucketName and watermarkPath, reuses all compression logic
+- [Phase 05-hotel-mini-website]: injectMeta extended with optional ogImage parameter (backward-compatible — existing callers unaffected)
+- [Phase 05-hotel-mini-website]: hotel.phone used as mailto recipient — no separate email column in hotels table
+- [Phase 05-hotel-mini-website]: requireUser imported at module top-level — ES module import must be static, not inline
 
 ### Roadmap Evolution
 
@@ -126,6 +130,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-19T14:29:27.147Z
-Stopped at: Completed 05-01-PLAN.md
+Last session: 2026-03-19T14:56:38.532Z
+Stopped at: Completed 05-02-PLAN.md
 Resume file: None
