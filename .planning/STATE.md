@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 04-02-PLAN.md — Phase 4 Plan 2 (Publisher + Accept Route)
-last_updated: "2026-03-18T17:28:52.710Z"
+stopped_at: Completed 05-00-PLAN.md
+last_updated: "2026-03-19T14:26:48.816Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
-  total_phases: 4
+  total_phases: 5
   completed_phases: 3
-  total_plans: 15
-  completed_plans: 14
+  total_plans: 19
+  completed_plans: 15
   percent: 50
 ---
 
@@ -59,6 +59,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 03-telegram-bot P03 | 7 | 2 tasks | 3 files |
 | Phase 04-writer-publisher P01 | 28 | 3 tasks | 3 files |
 | Phase 04-writer-publisher P02 | 3 | 2 tasks | 3 files |
+| Phase 05-hotel-mini-website P00 | 3 | 1 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -104,6 +105,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 04-writer-publisher]: USER OVERRIDE: Draft-to-disk instead of Supabase publish — user reviews drafts/<hash>.json manually before publishing
 - [Phase 04-writer-publisher]: writer_status='draft' (not 'published') — clean semantic distinction between written and live
 - [Phase 04-writer-publisher]: drafts/ dir gitignored — generated content should not be committed
+- [Phase 05-hotel-mini-website]: Wave-0 pattern: test.skip() stubs created before backend, so spec compiles without server dependency
 
 ### Roadmap Evolution
 
@@ -121,6 +123,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18T17:28:52.703Z
-Stopped at: Completed 04-02-PLAN.md — Phase 4 Plan 2 (Publisher + Accept Route)
+Last session: 2026-03-19T14:26:48.809Z
+Stopped at: Completed 05-00-PLAN.md
 Resume file: None
