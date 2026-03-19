@@ -82,12 +82,13 @@ Plans:
   3. The post is published directly to Supabase blog_posts using the service key (same pattern as upload_palanga_post.js — OldBoy-RSS is a bot author, not a session user)
   4. The LLM model used is configurable via config without code changes (default: google/gemini-2.0-flash-001)
   5. A short news item (under ~200 words of source content) still produces a coherent post without padding artifacts
-**Plans**: 3 plans
+**Plans**: 4 plans
 
 Plans:
 - [ ] 04-01-PLAN.md — Writer module: news-writer.js (content fetch + dual LLM) + DB migration (writer_status) + config writer block
 - [ ] 04-02-PLAN.md — Publisher module: publisher.js (Supabase insert) + news.js route (replace 501 stub with full pipeline)
 - [ ] 04-03-PLAN.md — E2E checkpoint: manual accept trigger + human verify blog post live under OldBoy-RSS
+- [ ] 04-04-PLAN.md — Gap closure: wire config.json to accept route + Telegram admin confirmation after accept
 
 ## Progress
 
@@ -99,7 +100,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 1. Collector | 5/5 | Complete    | 2026-03-18 |
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
-| 4. Writer + Publisher | 2/3 | In Progress|  |
+| 4. Writer + Publisher | 3/4 | In Progress|  |
 | 5. Hotel Mini-Website | 3/4 | In Progress|  |
 
 ### Phase 5: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
