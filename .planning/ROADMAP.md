@@ -92,7 +92,7 @@ Plans:
 ## Progress
 
 **Execution Order:**
-Phases execute in numeric order: 1 → 2 → 3 → 4
+Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
@@ -100,19 +100,24 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
 | 4. Writer + Publisher | 2/3 | In Progress|  |
+| 5. Hotel Mini-Website | 0/3 | Planned |  |
 
 ### Phase 5: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
 
-**Goal:** [To be planned]
-**Requirements**:
-- Kiekvienas apgyvendinimo objektas gauna savo URL: `sekmes.lt/hotel/[slug]`
-- Savininkas (L2+ useris) valdo: kambarių foto, lango vaizdai, jūros atstumas, kambario orientacija (saulėtekis/saulėlydis), triukšmo lygis
-- MVP rezervacija: WhatsApp redirect arba email forma (be DB booking logikos)
-- Be platformų komisijų — tiesioginė savininko-kliento komunikacija
-- **AI/Agents friendly**: visi puslapiai turi struktūrizuotus duomenis (JSON-LD, semantic HTML, meta tags), kad AI agentai galėtų lengvai nuskaityti ir pateikti informaciją — kambario tipas, kaina, atstumas iki jūros, kontaktai, prieinamumas
-- Puslapiai turi būti SSR arba statiškai renderinti (ne SPA) — kad AI crawleriai matytų turinį
+**Goal:** Each small accommodation property gets its own mini-website at sekmes.lt/hotel/[slug] with room photos, sea proximity info, availability traffic light, and WhatsApp/email reservation — fully SSR with JSON-LD for AI agents
+**Requirements**: HOTEL-01, HOTEL-02, HOTEL-03, HOTEL-04, HOTEL-05, HOTEL-06, HOTEL-07, HOTEL-08
+**Success Criteria** (what must be TRUE):
+  1. /hotel/:slug returns SSR HTML with hotel name in title and LodgingBusiness JSON-LD schema
+  2. Hotel API creates/reads/updates/deletes hotels, rooms, and photos with owner isolation
+  3. Room photos upload to Supabase Storage hotel-photos bucket with auto-resize
+  4. Admin page at /hotel/:slug/admin is protected (401 without auth) and provides full room management
+  5. Availability traffic light shows green/yellow/red based on status and available_from date
+  6. QR code endpoint generates downloadable PNG for each room
+  7. Reservation form generates WhatsApp deep link (wa.me format) and mailto link
 **Depends on:** Phase 4
-**Plans:** 0 plans
+**Plans:** 3 plans
 
 Plans:
-- [ ] TBD (run /gsd:plan-phase 5 to break down)
+- [ ] 05-01-PLAN.md — Foundation: DB schema (3 tables) + hotels.js CRUD API + hotel-image-service.js + qrcode install
+- [ ] 05-02-PLAN.md — Public page: SSR/injectMeta extension + hotel.html + hotel-module.js (gallery, sea proximity, reservation)
+- [ ] 05-03-PLAN.md — Admin panel: hotel-admin.html + hotel-admin-module.js (room CRUD, drag-drop photos, QR) + checkpoint
