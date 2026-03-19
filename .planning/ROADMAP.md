@@ -100,3 +100,19 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 2. Scorer | 4/4 | Complete    | 2026-03-18 |
 | 3. Telegram Bot | 3/3 | Complete   | 2026-03-18 |
 | 4. Writer + Publisher | 2/3 | In Progress|  |
+
+### Phase 5: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
+
+**Goal:** [To be planned]
+**Requirements**:
+- Kiekvienas apgyvendinimo objektas gauna savo URL: `sekmes.lt/hotel/[slug]`
+- Savininkas (L2+ useris) valdo: kambarių foto, lango vaizdai, jūros atstumas, kambario orientacija (saulėtekis/saulėlydis), triukšmo lygis
+- MVP rezervacija: WhatsApp redirect arba email forma (be DB booking logikos)
+- Be platformų komisijų — tiesioginė savininko-kliento komunikacija
+- **AI/Agents friendly**: visi puslapiai turi struktūrizuotus duomenis (JSON-LD, semantic HTML, meta tags), kad AI agentai galėtų lengvai nuskaityti ir pateikti informaciją — kambario tipas, kaina, atstumas iki jūros, kontaktai, prieinamumas
+- Puslapiai turi būti SSR arba statiškai renderinti (ne SPA) — kad AI crawleriai matytų turinį
+**Depends on:** Phase 4
+**Plans:** 0 plans
+
+Plans:
+- [ ] TBD (run /gsd:plan-phase 5 to break down)

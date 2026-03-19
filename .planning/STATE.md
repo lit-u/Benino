@@ -105,6 +105,10 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 04-writer-publisher]: writer_status='draft' (not 'published') — clean semantic distinction between written and live
 - [Phase 04-writer-publisher]: drafts/ dir gitignored — generated content should not be committed
 
+### Roadmap Evolution
+
+- Phase 5 added: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
+
 ### Pending Todos
 
 None yet.
