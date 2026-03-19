@@ -3,8 +3,8 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 05-02-PLAN.md
-last_updated: "2026-03-19T14:56:38.537Z"
+stopped_at: Completed 05-03-PLAN.md (checkpoint — awaiting human verification)
+last_updated: "2026-03-19T15:47:00.000Z"
 last_activity: 2026-03-18 — Plan 02-04 complete — runScorer() wired into runCollector(), E2E verified
 progress:
   total_phases: 5
@@ -62,6 +62,7 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 | Phase 05-hotel-mini-website P00 | 3 | 1 tasks | 1 files |
 | Phase 05-hotel-mini-website P01 | 68 | 3 tasks | 5 files |
 | Phase 05-hotel-mini-website P02 | 11 | 2 tasks | 3 files |
+| Phase 05-hotel-mini-website P03 | 15 | 1 task (+ checkpoint) | 2 files |
 
 ## Accumulated Context
 
@@ -113,6 +114,8 @@ Progress: [████████░░] 50% (Phase 2 complete — 2/4 phases 
 - [Phase 05-hotel-mini-website]: injectMeta extended with optional ogImage parameter (backward-compatible — existing callers unaffected)
 - [Phase 05-hotel-mini-website]: hotel.phone used as mailto recipient — no separate email column in hotels table
 - [Phase 05-hotel-mini-website]: requireUser imported at module top-level — ES module import must be static, not inline
+- [Phase 05-hotel-mini-website P03]: Window-view type toggle tries /type endpoint first, falls back to sort-order reorder (sort_order=0 = window_view)
+- [Phase 05-hotel-mini-website P03]: Session key is agent_session_id (not sessionId) — matches soc-module.js pattern
 
 ### Roadmap Evolution
 
@@ -130,6 +133,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-19T14:56:38.532Z
-Stopped at: Completed 05-02-PLAN.md
+Last session: 2026-03-19T15:47:00.000Z
+Stopped at: Completed 05-03-PLAN.md Task 1 — awaiting human verification (checkpoint:human-verify)
 Resume file: None
