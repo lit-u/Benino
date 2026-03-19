@@ -39,11 +39,11 @@ Declared values (multiples of 4 only):
 | md | 16px | Card inner padding, form field vertical rhythm, section header margin-bottom |
 | lg | 24px | Between room cards on public page, between form fields groups |
 | xl | 32px | Hotel section padding (top/bottom), between hotel header and room grid |
-| 2xl | 48px | Page top margin below platform header (30px header + 18px breathing room) |
+| 2xl | 48px | Page top margin below platform header |
 | 3xl | 64px | Not used in this phase |
 
 Exceptions:
-- Platform header is fixed at 30px height — page content starts at `padding-top: 30px` (matches existing `body` rule in `public/style.css:17`)
+- Platform header is fixed at 30px height — `padding-top: 30px` on page content matches existing `body` rule in `public/style.css:17`. This is an inherited platform constraint — not a design token; do not add to the spacing scale.
 - Touch-target minimum: 44px height for all interactive buttons (WhatsApp CTA, reservation submit, availability toggle)
 - Photo drag handle grab area: 44×44px minimum
 
@@ -58,12 +58,12 @@ Source: `public/style.css:8`, sizes verified against `modules-styles.css` and `l
 | Body | 14px | 400 | 1.5 |
 | Label / Meta | 12px | 400 | 1.4 |
 | Card title / Room name | 16px | 600 | 1.3 |
-| Section heading / Hotel name | 20px | 700 | 1.2 |
+| Section heading / Hotel name | 20px | 600 | 1.2 |
 
 Notes:
 - 4 sizes declared — no additions permitted without checker re-approval.
-- Weight 700 is used only for the hotel name `<h1>` on the public page and admin panel page title.
-- Weight 600 is used for room names, CTA button labels, availability badge text.
+- 2 weights declared — no additions permitted without checker re-approval.
+- Weight 600 covers room names, hotel name `<h1>`, admin panel page title, CTA button labels, availability badge text. The 20px size provides sufficient hierarchy without requiring a third weight.
 - Weight 400 covers all body text, meta labels, form field values, description paragraphs.
 - Sea-proximity info block uses 12px labels (role: Label/Meta) + 14px values (role: Body).
 
@@ -100,9 +100,11 @@ Destructive `#ef4444` is NOT used for the availability "occupied" state in the a
 
 ### Public Page `/hotel/:slug`
 
+Primary visual anchor: the window_view photo of the first room card — full 3/2 aspect ratio, full card width, first thing visible on page load.
+
 **Hotel Header**
 - Full-width section, `background: #252525`, `border-radius: 12px`, padding: `xl` (32px) top/bottom, `lg` (24px) left/right
-- Hotel name: `<h1>`, 20px, weight 700, color `#f5f5f5`
+- Hotel name: `<h1>`, 20px, weight 600, color `#f5f5f5`
 - Address: `<address>`, 14px, weight 400, color `#9ca3af`
 - Description: `<p>`, 14px, weight 400, color `#d1d5db`, max 3 lines with text-overflow ellipsis initially, "Daugiau" expand link in `#FFC700`
 
@@ -146,14 +148,14 @@ Destructive `#ef4444` is NOT used for the availability "occupied" state in the a
 
 **Page Layout**
 - Same dark background `#1a1a1a`
-- Top section: hotel name (20px, 700) + "Valdymo Panelė" sub-label (12px, `#9ca3af`)
+- Top section: hotel name (20px, weight 600) + "Valdymo Panelė" sub-label (12px, `#9ca3af`)
 - Two-column layout at 768px+ breakpoint: room list (left, 300px fixed) + room editor (right, flex-1)
 - Below 768px: stacked single column
 
 **Room List (Admin Sidebar)**
 - Each room row: `background: #252525`, `border-radius: 8px`, `border: 1px solid #333`, padding `sm 8px md 16px`
 - Active room: `border-color: #FFC700`
-- Room row content: room number badge (12px, `background: #333`, `border-radius: 4px`, padding `2px 6px`) + room name (14px) + availability dot (8×8px circle in semantic color)
+- Room row content: room number badge (12px, `background: #333`, `border-radius: 4px`, padding `4px 8px`) + room name (14px) + availability dot (8×8px circle in semantic color)
 - "Pridėti kambarį" button at list bottom: `background: transparent`, `border: 1px dashed #555`, color `#9ca3af`, 14px, full-width, `border-radius: 8px`, padding `md 16px`, min-height 44px
 - Disabled when rooms === 10 (MVP limit): color `#555`, cursor `not-allowed`
 
@@ -168,7 +170,7 @@ Destructive `#ef4444` is NOT used for the availability "occupied" state in the a
   - Pill 3: `background: #ef4444`, text "UŽIMTAS" — color `#fff`
   - Active pill: full background color; inactive: `background: #333`, color `#9ca3af`
   - "Laisvas nuo" date input appears below toggle only when NETRUKUS or UŽIMTAS is active
-- Save button: `background: #FFC700`, color `#000`, weight 600, `border-radius: 8px`, full-width, min-height 44px, text "Išsaugoti"
+- Save button: `background: #FFC700`, color `#000`, weight 600, `border-radius: 8px`, full-width, min-height 44px, text "Išsaugoti kambarį"
 
 **Photo Manager (Drag-Drop)**
 - Photo grid: `display: grid`, `grid-template-columns: repeat(3, 1fr)`, `gap: sm (8px)`
@@ -176,7 +178,9 @@ Destructive `#ef4444` is NOT used for the availability "occupied" state in the a
 - Window view photo item: `border-color: #FFC700`
 - Dragging state: `opacity: 0.5`, `cursor: grabbing`
 - Drop target: `border: 2px dashed #FFC700`
-- Photo overlay on hover: semi-transparent `rgba(0,0,0,0.6)` with icon row: trash icon (`#ef4444`) + window-view toggle icon (`#FFC700`)
+- Photo overlay on hover: semi-transparent `rgba(0,0,0,0.6)` with icon row:
+  - Trash icon: color `#ef4444`, `aria-label="Ištrinti nuotrauką"`
+  - Window-view toggle icon: color `#FFC700`, `aria-label="Pažymėti kaip lango vaizdą"`
 - "Lango vaizdas" toggle: checkbox-style, label "Lango vaizdas", 12px — only one photo can have this designation; toggling on another auto-removes from previous
 - Upload zone: dashed border `#555`, `border-radius: 8px`, padding `xl 32px`, text "Vilkite nuotraukas arba spustelėkite" (14px, `#9ca3af`), `background: #252525`
 
@@ -216,7 +220,7 @@ All copy is Lithuanian (platform language).
 | Empty state — no rooms yet (public page) | "Kambariai dar nebuvo prideti. Grizkit veliau." |
 | Empty state — no rooms yet (admin) | "Pridekit pirma kambari, kad pradetumet valdyti savo viestbuti." |
 | Empty state CTA (admin) | "Prideti pirmaji kambari" |
-| Admin save button | "Issaugoti" |
+| Admin save button | "Issaugoti kambari" |
 | Admin delete room button | "Istrinti kambari" |
 | Admin delete hotel button | "Istrinti viestbuti" |
 | Error — reservation form incomplete | "Uzpildykite visus privalomus laukus." |
@@ -272,7 +276,7 @@ No external component registries used. All UI is custom CSS + Vanilla JS. The on
 | Dark theme palette (`#1a1a1a`, `#FFC700`) | `public/style.css:4-12`, `modules-styles.css:13` |
 | Traffic light colors (`#22c55e`, `#eab308`, `#ef4444`) | `05-RESEARCH.md` — `getAvailabilityDisplay()` code example |
 | System font stack | `public/style.css:8` |
-| Spacing base (30px header offset) | `public/style.css:17` |
+| Spacing base (30px header offset) | `public/style.css:17` — inherited platform constraint, not a design token |
 | Input/button border-radius 8px | `modules-styles.css:58-66` (auth buttons), `modules-styles.css:215` (modal) |
 | Photo gallery horizontal scroll pattern | `listings-detail.css:65-90` (sz-gallery) |
 | Card hover gold border pattern | `modules-styles.css:134-136` |
