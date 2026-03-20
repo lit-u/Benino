@@ -36,7 +36,7 @@ No new backend tables needed — `hotel_reservations` already has `check_in` / `
 - `min` attribute on check-in = today's date (set dynamically via JS)
 - `min` on check-out = check-in value + 1 day (updated when check-in changes)
 - Both fields required for form submission
-- Values sent as `check_in` and `check_out` in JSON body to POST /api/hotels/:slug/reservations
+- Values sent as `arrival_date` and `departure_date` in JSON body to POST /api/hotels/:slug/reservations (matches Phase 6 DB columns)
 - UI placement: above the existing name/phone/message fields in the reservation form
 
 ### Backend (minimal changes)
