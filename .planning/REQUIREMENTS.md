@@ -54,12 +54,12 @@
 
 ### Multi-Hotel (Savitarnos panelė)
 
-- [ ] **MH-01**: `GET /api/hotels/mine` grąžina tik autentifikuoto vartotojo viešbučius
-- [ ] **MH-02**: `POST /api/hotels` be sesijos grąžina 401
-- [ ] **MH-03**: `POST /api/hotels` L2 vartotojui sukuria viešbutį ir grąžina slug
-- [ ] **MH-04**: `/my-hotels` puslapis rodo auth gate neautentifikuotam vartotojui
-- [ ] **MH-05**: Po viešbučio sukūrimo naršyklė nukreipia į `/hotel/:slug/admin`
-- [ ] **MH-06**: Soft limitas: 4-o viešbučio kūrimas grąžina 400
+- [x] **MH-01**: `GET /api/hotels/mine` grąžina tik autentifikuoto vartotojo viešbučius
+- [x] **MH-02**: `POST /api/hotels` be sesijos grąžina 401
+- [x] **MH-03**: `POST /api/hotels` L2 vartotojui sukuria viešbutį ir grąžina slug
+- [x] **MH-04**: `/my-hotels` puslapis rodo auth gate neautentifikuotam vartotojui
+- [x] **MH-05**: Po viešbučio sukūrimo naršyklė nukreipia į `/hotel/:slug/admin`
+- [x] **MH-06**: Soft limitas: 4-o viešbučio kūrimas grąžina 400
 
 ## v2 Requirements
 

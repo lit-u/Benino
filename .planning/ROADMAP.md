@@ -156,7 +156,7 @@ Plans:
   5. After creating a hotel, browser redirects to /hotel/:slug/admin
   6. Soft limit: 4th hotel creation returns 400
 **Depends on:** Phase 6
-**Plans:** 3 plans
+**Plans:** 1/3 plans executed
 
 Plans:
 - [ ] 07-00-PLAN.md — Wave 0: Playwright test stubs (hotel-multi.spec.js) for MH-01 through MH-06
