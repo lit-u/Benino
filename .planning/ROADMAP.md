@@ -162,3 +162,19 @@ Plans:
 - [ ] 07-00-PLAN.md — Wave 0: Playwright test stubs (hotel-multi.spec.js) for MH-01 through MH-06
 - [ ] 07-01-PLAN.md — Backend: GET /api/hotels/mine endpoint + soft 3-hotel limit in POST /api/hotels
 - [ ] 07-02-PLAN.md — Frontend: my-hotels.html + my-hotels-module.js (auth gate, hotel list, create form, redirect) + checkpoint
+
+### Phase 8: Rezervacijų Kalendorius — vizualus kalendorius admin panelėje ir datų parinkiklis viešajame puslapyje
+
+**Goal:** Hotel owners see a monthly reservation calendar in the admin panel (who arrives when, color-coded by status), and guests can pick check-in/check-out dates on the public hotel page before submitting a reservation.
+**Requirements**: CAL-01, CAL-02, CAL-03, CAL-04, CAL-05, CAL-06
+**Success Criteria** (what must be TRUE):
+  1. Admin panel shows a monthly calendar grid with reservation entries per day
+  2. Calendar entries are color-coded: confirmed=green, pending=yellow, cancelled=grey
+  3. Clicking a calendar entry opens the reservation detail (same as list view)
+  4. Public hotel page has check-in/check-out date pickers in the reservation form
+  5. Date pickers block past dates and enforce check-out > check-in
+  6. Selected dates are submitted as part of the reservation POST body
+**Depends on:** Phase 7
+**Plans:** 0/0 plans complete
+
+Plans:
