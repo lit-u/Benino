@@ -3,11 +3,11 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 04-04-PLAN.md — config.json wired into accept route, Telegram confirmation implemented
-last_updated: "2026-03-19T20:25:34.116Z"
+stopped_at: Phase 6 context gathered
+last_updated: "2026-03-20T07:46:24.670Z"
 last_activity: 2026-03-19 — Plan 05-03 complete — hotel admin panel (room CRUD, drag-drop photos, QR) built and verified
 progress:
-  total_phases: 5
+  total_phases: 7
   completed_phases: 5
   total_plans: 20
   completed_plans: 20
@@ -123,6 +123,8 @@ Progress: [██████████] 100% (All 5 phases complete)
 ### Roadmap Evolution
 
 - Phase 5 added: Hotel Mini-Website — Pajūrio Namelis tipo mini svetainė mažiems apgyvendinimo objektams
+- Phase 6 added: Rezervacijų Sistema — tikros rezervacijos į DB, savininkas gauna el. laišką ir WhatsApp pranešimą apie kiekvieną rezervaciją
+- Phase 7 added: Multi-Hotel — L2 vartotojai gali kurti savo viešbučius per savitarnos panelę
 
 ### Pending Todos
 
@@ -136,6 +138,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-19T20:21:52.905Z
-Stopped at: Completed 04-04-PLAN.md — config.json wired into accept route, Telegram confirmation implemented
-Resume file: None
+Last session: 2026-03-20T07:46:24.662Z
+Stopped at: Phase 6 context gathered
+Resume file: .planning/phases/06-rezervacij-sistema-tikros-rezervacijos-db-savininkas-gauna-el-lai-k-ir-whatsapp-prane-im-apie-kiekvien-rezervacij/06-CONTEXT.md
