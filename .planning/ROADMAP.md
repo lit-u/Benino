@@ -175,6 +175,9 @@ Plans:
   5. Date pickers block past dates and enforce check-out > check-in
   6. Selected dates are submitted as part of the reservation POST body
 **Depends on:** Phase 7
-**Plans:** 0/0 plans complete
+**Plans:** 3 plans
 
 Plans:
+- [ ] 08-00-PLAN.md — Wave 0: Playwright test stubs (hotel-calendar.spec.js) for CAL-01 through CAL-06
+- [ ] 08-01-PLAN.md — Admin calendar: monthly grid tab with color-coded reservation chips, month navigation, click-to-detail
+- [ ] 08-02-PLAN.md — Public date picker: min attribute enforcement (past dates blocked, check-out > check-in) + human verify checkpoint
