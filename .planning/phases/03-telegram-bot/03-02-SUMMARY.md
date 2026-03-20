@@ -101,6 +101,16 @@ Without these, the bot gracefully skips with warning messages (no crash).
 - handlers.js ready to be registered on bot startup (Phase 3 Plan 03)
 - Phase 4 stub trigger in place at `POST /api/news/accept/:hash` — Phase 4 Writer can implement this endpoint
 
+## Self-Check: PASSED
+
+- agent-network/server/services/news-collector/telegram/bot.js — FOUND
+- agent-network/server/services/news-collector/telegram/card.js — FOUND
+- agent-network/server/services/news-collector/telegram/handlers.js — FOUND
+- agent-network/server/services/news-collector/telegram/dispatcher.js — FOUND
+- .planning/phases/03-telegram-bot/03-02-SUMMARY.md — FOUND
+- Commit 3d4e441 — FOUND
+- Commit 303c7d6 — FOUND
+
 ---
 *Phase: 03-telegram-bot*
 *Completed: 2026-03-18*

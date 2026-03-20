@@ -104,6 +104,14 @@ None - no external service configuration required. GITHUB_TOKEN is optional (imp
 - Plan 04 (sources/index.js) can now import and re-export all fetchers
 - Plan 05 (collector orchestrator) can consume sources/index.js
 
+## Self-Check: PASSED
+
+- FOUND: agent-network/server/services/news-collector/sources/github-search-fetcher.js
+- FOUND: agent-network/server/services/news-collector/sources/huggingface-fetcher.js
+- FOUND: agent-network/server/services/news-collector/sources/taaft-fetcher.js
+- FOUND: .planning/phases/01-collector/01-03-SUMMARY.md
+- Commits verified: 9585443 (github-search), db369e5 (huggingface), d551d51 (taaft)
+
 ---
 *Phase: 01-collector*
 *Completed: 2026-03-18*

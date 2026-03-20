@@ -47,8 +47,8 @@ created: 2026-03-20
 | 06-02-04 | 02 | 2 | Status PATCH transitions correctly | API smoke | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
 | 06-03-01 | 03 | 3 | Form POST replaces WhatsApp redirect | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
 | 06-03-02 | 03 | 3 | Success message shown after submit | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
-| 06-04-01 | 04 | 4 | Admin panel shows Rezervacijos section | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
-| 06-04-02 | 04 | 4 | Confirm/Cancel buttons update status | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
+| 06-03-01 | 03 | 3 | Admin panel shows Rezervacijos section | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
+| 06-03-02 | 03 | 3 | Confirm/Cancel buttons update status | E2E | `npx playwright test hotel-reservations.spec.js --project=chromium` | ⬜ pending |
 
 *Status: ⬜ pending · ✅ green · ❌ red · ⚠️ flaky*
 

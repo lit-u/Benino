@@ -73,7 +73,7 @@ Each task was committed atomically:
 2. **Task 2: HackerNews Algolia API fetcher** - `a684e35` (feat)
 3. **Task 3: GitHub Trending HTML scraper** - `7eb623a` (feat)
 
-**Plan metadata:** (docs commit — see final commit)
+**Plan metadata:** `d29c74e` (docs: complete source fetchers plan)
 
 ## Files Created/Modified
 - `agent-network/server/services/news-collector/sources/rss-fetcher.js` - Generic RSS/Atom fetcher using rss-parser; custom headers per source; URL filter; 500-char summary cap
@@ -99,6 +99,14 @@ None - no external service configuration required.
 - github-search-fetcher.js and huggingface-fetcher.js already present from Plan 01 (created earlier)
 - sources/ directory now contains all 5 planned fetcher files
 - Blocker: none for Plans 03-04
+
+## Self-Check: PASSED
+
+- rss-fetcher.js: FOUND
+- hn-fetcher.js: FOUND
+- github-trending-fetcher.js: FOUND
+- SUMMARY.md: FOUND
+- Commits 1e81f2d, a684e35, 7eb623a: FOUND in git log
 
 ---
 *Phase: 01-collector*
