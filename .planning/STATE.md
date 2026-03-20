@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: verifying
-stopped_at: Completed 06-01-PLAN.md
-last_updated: "2026-03-20T08:59:38.354Z"
+stopped_at: Completed 06-02-PLAN.md
+last_updated: "2026-03-20T09:07:32.323Z"
 last_activity: 2026-03-19 — Plan 05-03 complete — hotel admin panel (room CRUD, drag-drop photos, QR) built and verified
 progress:
   total_phases: 7
-  completed_phases: 5
+  completed_phases: 6
   total_plans: 24
-  completed_plans: 22
+  completed_plans: 24
   percent: 100
 ---
 
@@ -66,6 +66,7 @@ Progress: [██████████] 100% (All 5 phases complete)
 | Phase 04-writer-publisher P04 | 3 | 2 tasks | 2 files |
 | Phase 06-rezervacij-sistema P00 | 4 | 1 tasks | 1 files |
 | Phase 06-rezervacij-sistema P01 | 7 | 2 tasks | 2 files |
+| Phase 06-rezervacij-sistema P02 | 2 | 1 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -124,6 +125,10 @@ Progress: [██████████] 100% (All 5 phases complete)
 - [Phase 06-rezervacij-sistema]: Wave-0 pattern reused from Phase 05 — test.skip() stubs compile without server dependency, serving as executable spec
 - [Phase 06-rezervacij-sistema]: Non-throwing email method: sendReservationNotification() returns { success: false } on error — fire-and-forget, consistent with sendWelcomeEmail pattern
 - [Phase 06-rezervacij-sistema]: Public POST reservation route: no requireUser — anonymous guests submit without session, service role key bypasses RLS
+- [Phase 06-rezervacij-sistema]: Inline style block inside formEl.innerHTML for component-scoped CSS without external stylesheet changes
+- [Phase 06-rezervacij-sistema]: Replace formEl.innerHTML on success — prevents re-submit and cleanly removes all form DOM
+- [Phase 06-rezervacij-sistema]: loadReservations() independent from refreshHotel() — separate data lifecycle, room saves do not re-fetch reservations
+- [Phase 06-rezervacij-sistema]: owner-email save handler uses _wired flag to prevent duplicate listeners on re-render
 
 ### Roadmap Evolution
 
@@ -143,6 +148,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-20T08:59:38.347Z
-Stopped at: Completed 06-01-PLAN.md
+Last session: 2026-03-20T09:07:30.384Z
+Stopped at: Completed 06-02-PLAN.md
 Resume file: None
