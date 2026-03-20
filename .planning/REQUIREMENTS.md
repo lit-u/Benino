@@ -50,7 +50,7 @@
 - [x] **RES-03**: Admin panelėje rodomas rezervacijų sąrašas su statuso badge'ais (Laukia/Patvirtinta/Atsaukta)
 - [x] **RES-04**: Savininkas gali patvirtinti arba atšaukti kiekvieną rezervaciją per admin panelę
 - [ ] **RES-05**: WhatsApp ir el. pašto nuorodos lieka kaip antriniai CTA po forma
-- [ ] **RES-06**: `owner_email` laukas pridėtas prie `hotels` lentelės; savininkas įveda per admin panelę
+- [x] **RES-06**: `owner_email` laukas pridėtas prie `hotels` lentelės; savininkas įveda per admin panelę
 
 ## v2 Requirements
 

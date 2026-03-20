@@ -136,7 +136,7 @@ Plans:
   5. WhatsApp and email links remain as secondary CTA below the submit button
   6. owner_email column added to hotels table; saveable from admin panel
 **Depends on:** Phase 5
-**Plans:** 1/4 plans executed
+**Plans:** 2/4 plans executed
 
 Plans:
 - [ ] 06-00-PLAN.md — Wave 0: Playwright test stubs (hotel-reservations.spec.js)
