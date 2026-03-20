@@ -52,6 +52,15 @@
 - [x] **RES-05**: WhatsApp ir el. pašto nuorodos lieka kaip antriniai CTA po forma
 - [x] **RES-06**: `owner_email` laukas pridėtas prie `hotels` lentelės; savininkas įveda per admin panelę
 
+### Multi-Hotel (Savitarnos panelė)
+
+- [ ] **MH-01**: `GET /api/hotels/mine` grąžina tik autentifikuoto vartotojo viešbučius
+- [ ] **MH-02**: `POST /api/hotels` be sesijos grąžina 401
+- [ ] **MH-03**: `POST /api/hotels` L2 vartotojui sukuria viešbutį ir grąžina slug
+- [ ] **MH-04**: `/my-hotels` puslapis rodo auth gate neautentifikuotam vartotojui
+- [ ] **MH-05**: Po viešbučio sukūrimo naršyklė nukreipia į `/hotel/:slug/admin`
+- [ ] **MH-06**: Soft limitas: 4-o viešbučio kūrimas grąžina 400
+
 ## v2 Requirements
 
 ### Extended Sources
@@ -112,12 +121,18 @@
 | RES-04 | Phase 6 | Planned (06-00, 06-01, 06-03) |
 | RES-05 | Phase 6 | Planned (06-02) |
 | RES-06 | Phase 6 | Planned (06-01, 06-03) |
+| MH-01 | Phase 7 | Planned (07-00, 07-01) |
+| MH-02 | Phase 7 | Planned (07-00, 07-01) |
+| MH-03 | Phase 7 | Planned (07-00, 07-01) |
+| MH-04 | Phase 7 | Planned (07-00, 07-02) |
+| MH-05 | Phase 7 | Planned (07-00, 07-02) |
+| MH-06 | Phase 7 | Planned (07-00, 07-01) |
 
 **Coverage:**
-- v1 requirements: 29 total
-- Mapped to phases: 29
+- v1 requirements: 35 total
+- Mapped to phases: 35
 - Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-18*
-*Last updated: 2026-03-20 — Phase 6 (RES-01 through RES-06) added and mapped to plans*
+*Last updated: 2026-03-20 — Phase 7 (MH-01 through MH-06) added and mapped to plans*

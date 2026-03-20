@@ -146,10 +146,19 @@ Plans:
 
 ### Phase 7: Multi-Hotel — L2 vartotojai gali kurti savo viešbučius per savitarnos panelę
 
-**Goal:** [To be planned]
-**Requirements**: TBD
+**Goal:** L2 verified users can create and manage their own hotels via a self-service panel at /my-hotels — no admin intervention needed. Backend already supports multi-hotel; this phase adds the frontend surface and one new API endpoint.
+**Requirements**: MH-01, MH-02, MH-03, MH-04, MH-05, MH-06
+**Success Criteria** (what must be TRUE):
+  1. GET /api/hotels/mine returns only hotels owned by the authenticated user
+  2. POST /api/hotels without session returns 401
+  3. POST /api/hotels by L2 user creates hotel and returns slug
+  4. /my-hotels page shows auth gate for unauthenticated users
+  5. After creating a hotel, browser redirects to /hotel/:slug/admin
+  6. Soft limit: 4th hotel creation returns 400
 **Depends on:** Phase 6
-**Plans:** 0 plans
+**Plans:** 3 plans
 
 Plans:
-- [ ] TBD (run /gsd:plan-phase 7 to break down)
+- [ ] 07-00-PLAN.md — Wave 0: Playwright test stubs (hotel-multi.spec.js) for MH-01 through MH-06
+- [ ] 07-01-PLAN.md — Backend: GET /api/hotels/mine endpoint + soft 3-hotel limit in POST /api/hotels
+- [ ] 07-02-PLAN.md — Frontend: my-hotels.html + my-hotels-module.js (auth gate, hotel list, create form, redirect) + checkpoint
