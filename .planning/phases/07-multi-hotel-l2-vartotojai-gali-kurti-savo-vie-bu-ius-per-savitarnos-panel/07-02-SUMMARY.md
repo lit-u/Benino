@@ -18,10 +18,12 @@ decisions:
   - "escapeHTML() added for all user-generated content in hotel cards (name, city) — XSS prevention"
   - "createFormVisible state flag kept at module scope — prevents re-wiring event listeners on re-render"
   - "Cancel button only rendered when hotels.length > 0 (form shown inline, not in empty-state path)"
+requirements-completed: [MH-04, MH-05]
+
 metrics:
-  duration: 2min
+  duration: ~25min (including checkpoint human-verify wait)
   completed: "2026-03-20"
-  tasks_completed: 1
+  tasks_completed: 2
   files_modified: 2
 ---
 
@@ -66,9 +68,12 @@ Vanilla JS self-service hotel dashboard — auth-gated /my-hotels page that list
 
 Otherwise: plan executed exactly as written.
 
-## Checkpoint: Awaiting Human Verification
+## Human Verification: APPROVED
 
-Task 2 is `type="checkpoint:human-verify"`. Human must verify the complete /my-hotels flow end-to-end before this plan is considered done.
+Task 2 (`type="checkpoint:human-verify"`) was completed by human:
+- L1 (incognito): auth gate with "Prisijunkite..." message and login link confirmed visible
+- L2 (logged in): hotel list loaded correctly from GET /api/hotels/mine
+- Page loads at /my-hotels with no errors
 
 ## Self-Check: PASSED
 
