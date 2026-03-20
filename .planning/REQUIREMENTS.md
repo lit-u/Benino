@@ -43,6 +43,15 @@
 - [x] **PUBL-02**: Autorius: `OldBoy-RSS` (kaip sutvarkyk.js pipeline)
 - [x] **PUBL-03**: Publikavimas serverio proceso viduje (ne atskiras išorinis skriptas) — tiesioginis Supabase įrašas su service key yra priimtinas bot autoriams (kaip `sutvarkyk.js` precedentas), nes blog API reikalauja L2 sesijos kurią botai neturi
 
+### Rezervacijų Sistema (Hotel Reservations)
+
+- [ ] **RES-01**: Svečias pateikia rezervacijos formą — duomenys saugomi `hotel_reservations` lentelėje per POST API
+- [ ] **RES-02**: Savininkas gauna el. laišką (Resend) apie kiekvieną naują rezervaciją
+- [ ] **RES-03**: Admin panelėje rodomas rezervacijų sąrašas su statuso badge'ais (Laukia/Patvirtinta/Atsaukta)
+- [ ] **RES-04**: Savininkas gali patvirtinti arba atšaukti kiekvieną rezervaciją per admin panelę
+- [ ] **RES-05**: WhatsApp ir el. pašto nuorodos lieka kaip antriniai CTA po forma
+- [ ] **RES-06**: `owner_email` laukas pridėtas prie `hotels` lentelės; savininkas įveda per admin panelę
+
 ## v2 Requirements
 
 ### Extended Sources
@@ -97,12 +106,18 @@
 | PUBL-01 | Phase 4 | Complete |
 | PUBL-02 | Phase 4 | Complete |
 | PUBL-03 | Phase 4 | Complete |
+| RES-01 | Phase 6 | Planned (06-00, 06-01, 06-02) |
+| RES-02 | Phase 6 | Planned (06-01) |
+| RES-03 | Phase 6 | Planned (06-00, 06-03) |
+| RES-04 | Phase 6 | Planned (06-00, 06-01, 06-03) |
+| RES-05 | Phase 6 | Planned (06-02) |
+| RES-06 | Phase 6 | Planned (06-01, 06-03) |
 
 **Coverage:**
-- v1 requirements: 23 total
-- Mapped to phases: 23
-- Unmapped: 0 ✓
+- v1 requirements: 29 total
+- Mapped to phases: 29
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-18*
-*Last updated: 2026-03-18 — COLL-03, COLL-04 marked complete after 01-01-PLAN.md execution*
+*Last updated: 2026-03-20 — Phase 6 (RES-01 through RES-06) added and mapped to plans*

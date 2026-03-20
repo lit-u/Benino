@@ -123,3 +123,33 @@ Plans:
 - [x] 05-01-PLAN.md — Foundation: DB schema (3 tables) + hotels.js CRUD API + hotel-image-service.js + qrcode install
 - [x] 05-02-PLAN.md — Public page: SSR/injectMeta extension + hotel.html + hotel-module.js (gallery, sea proximity, reservation)
 - [x] 05-03-PLAN.md — Admin panel: hotel-admin.html + hotel-admin-module.js (room CRUD, drag-drop photos, QR) + checkpoint
+
+### Phase 6: Rezervacijų Sistema — tikros rezervacijos į DB, savininkas gauna el. laišką ir WhatsApp pranešimą apie kiekvieną rezervaciją
+
+**Goal:** Guest submits reservation via form (POST to DB), owner receives email notification, and admin panel shows reservation list with Confirm/Cancel actions
+**Requirements**: RES-01, RES-02, RES-03, RES-04, RES-05, RES-06
+**Success Criteria** (what must be TRUE):
+  1. Reservation form POSTs to /api/hotels/:slug/reservations and saves to hotel_reservations table
+  2. Owner receives email notification for each new reservation (via Resend)
+  3. Admin panel shows reservation list with status badges (Laukia/Patvirtinta/Atsaukta)
+  4. Owner can confirm (pending → confirmed) or cancel (→ cancelled) each reservation
+  5. WhatsApp and email links remain as secondary CTA below the submit button
+  6. owner_email column added to hotels table; saveable from admin panel
+**Depends on:** Phase 5
+**Plans:** 4 plans
+
+Plans:
+- [ ] 06-00-PLAN.md — Wave 0: Playwright test stubs (hotel-reservations.spec.js)
+- [ ] 06-01-PLAN.md — DB schema (hotel_reservations table + owner_email) + email service method + 3 API routes
+- [ ] 06-02-PLAN.md — Frontend form modification: POST instead of WhatsApp redirect + success/error states
+- [ ] 06-03-PLAN.md — Admin panel reservations section (list, confirm/cancel, filter tabs, owner_email settings) + checkpoint
+
+### Phase 7: Multi-Hotel — L2 vartotojai gali kurti savo viešbučius per savitarnos panelę
+
+**Goal:** [To be planned]
+**Requirements**: TBD
+**Depends on:** Phase 6
+**Plans:** 0 plans
+
+Plans:
+- [ ] TBD (run /gsd:plan-phase 7 to break down)
