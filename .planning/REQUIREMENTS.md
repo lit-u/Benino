@@ -45,10 +45,10 @@
 
 ### Rezervacijų Sistema (Hotel Reservations)
 
-- [ ] **RES-01**: Svečias pateikia rezervacijos formą — duomenys saugomi `hotel_reservations` lentelėje per POST API
-- [ ] **RES-02**: Savininkas gauna el. laišką (Resend) apie kiekvieną naują rezervaciją
-- [ ] **RES-03**: Admin panelėje rodomas rezervacijų sąrašas su statuso badge'ais (Laukia/Patvirtinta/Atsaukta)
-- [ ] **RES-04**: Savininkas gali patvirtinti arba atšaukti kiekvieną rezervaciją per admin panelę
+- [x] **RES-01**: Svečias pateikia rezervacijos formą — duomenys saugomi `hotel_reservations` lentelėje per POST API
+- [x] **RES-02**: Savininkas gauna el. laišką (Resend) apie kiekvieną naują rezervaciją
+- [x] **RES-03**: Admin panelėje rodomas rezervacijų sąrašas su statuso badge'ais (Laukia/Patvirtinta/Atsaukta)
+- [x] **RES-04**: Savininkas gali patvirtinti arba atšaukti kiekvieną rezervaciją per admin panelę
 - [ ] **RES-05**: WhatsApp ir el. pašto nuorodos lieka kaip antriniai CTA po forma
 - [ ] **RES-06**: `owner_email` laukas pridėtas prie `hotels` lentelės; savininkas įveda per admin panelę
 
