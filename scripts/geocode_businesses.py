@@ -48,17 +48,19 @@ for filename in FILES:
         for i, biz in enumerate(lst):
             if not isinstance(biz, dict): continue
             if biz.get('lat'): continue  # already has coords
-            if not biz.get('address'): continue
-            candidates.append((city, i, biz))
+            # Use address if available, else fallback to name + city
+            query = biz.get('address') or f"{biz.get('name', '')}, {biz.get('city', city)}"
+            if not query.strip(): continue
+            candidates.append((city, i, biz, query))
 
-    print(f'\n{filename}: {len(candidates)} be koordinačių, bet su adresu')
+    print(f'\n{filename}: {len(candidates)} be koordinačių')
 
-    for idx, (city, i, biz) in enumerate(candidates):
+    for idx, (city, i, biz, query) in enumerate(candidates):
         name = biz.get('name', '')[:40]
-        addr = biz.get('address', '')
-        print(f'  [{idx+1:3}/{len(candidates)}] {name:40}', end=' ', flush=True)
+        src = 'adr' if biz.get('address') else 'vardas'
+        print(f'  [{idx+1:3}/{len(candidates)}] {name:40} [{src}]', end=' ', flush=True)
 
-        lat, lng = geocode(addr, biz.get('city', city))
+        lat, lng = geocode(query, biz.get('city', city))
         if lat and LAT_MIN <= lat <= LAT_MAX and LNG_MIN <= lng <= LNG_MAX:
             data[city][i]['lat'] = lat
             data[city][i]['lng'] = lng
