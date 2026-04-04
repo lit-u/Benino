@@ -11,8 +11,8 @@ FILES = ['hotels.json', 'kavines.json', 'paslaugos.json']
 PHOTON_URL = 'https://photon.komoot.io/api/'
 HEADERS = {'User-Agent': 'PajurioPortalas/1.0 (sekmes.lt)'}
 
-# Palanga coast bounding box — reject coords outside this region
-LAT_MIN, LAT_MAX = 55.5, 56.6
+# Palanga coast bounding box — includes Neringa/Nida (55.2+)
+LAT_MIN, LAT_MAX = 55.2, 56.6
 LNG_MIN, LNG_MAX = 20.5, 21.8
 
 def geocode(address, city):
