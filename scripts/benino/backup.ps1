@@ -25,7 +25,7 @@ if ($LASTEXITCODE -le 3) {
 $agentSrc = "d:\_PAL\benino\agent-network"
 $agentDst = "D:\Backups\agent-network\agent-network-$date"
 
-Write-Host "[2/2] Agent Network..." -ForegroundColor Yellow
+Write-Host "[2/3] Agent Network..." -ForegroundColor Yellow
 $agentExcludeDirs = @('node_modules', '.git', 'dist', 'coverage', 'playwright-report', 'test-results', 'tmp', 'temp', '.claude')
 
 robocopy $agentSrc $agentDst /E /XD $agentExcludeDirs /XF $excludeFiles /NFL /NDL /NJH /NJS /NC /NS /NP
@@ -33,6 +33,23 @@ robocopy $agentSrc $agentDst /E /XD $agentExcludeDirs /XF $excludeFiles /NFL /ND
 if ($LASTEXITCODE -le 3) {
     $size = (Get-ChildItem $agentDst -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB
     Write-Host "  OK ($([math]::Round($size, 1)) MB) -> $agentDst" -ForegroundColor Green
+} else {
+    Write-Host "  FAILED (exit code: $LASTEXITCODE)" -ForegroundColor Red
+}
+
+# === FISHEYE360 ===
+$fishSrc = "D:\tmp\fisheye360"
+$fishDst = "D:\Backups\fisheye360\fisheye360-$date"
+
+Write-Host "[3/3] Fisheye360..." -ForegroundColor Yellow
+$fishExcludeDirs = @('node_modules', '.git', '.next', 'dist', '.claude')
+$fishExcludeFiles = @('*.log', '*.tmp', '*.env', '*.env.local', 'package-lock.json')
+
+robocopy $fishSrc $fishDst /E /XD $fishExcludeDirs /XF $fishExcludeFiles /NFL /NDL /NJH /NJS /NC /NS /NP
+
+if ($LASTEXITCODE -le 3) {
+    $size = (Get-ChildItem $fishDst -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB
+    Write-Host "  OK ($([math]::Round($size, 1)) MB) -> $fishDst" -ForegroundColor Green
 } else {
     Write-Host "  FAILED (exit code: $LASTEXITCODE)" -ForegroundColor Red
 }
