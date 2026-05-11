@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Parduotuvė",
+    "city": "Neringa",
+    "category": "viesbutis",
+    "detail_url": "https://www.shop.visitneringa.com",
+    "source": "visitneringa.com",
+    "email": "director@visitneringa.lt",
+    "phone": "+37046952345",
+    "website": "https://www.instagram.com/curonian_spit_neringa/"
+  },
+  {
+    "name": "Parduotuvė",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.shop.visitneringa.com",
+    "source": "visitneringa.com",
+    "email": "director@visitneringa.lt",
+    "phone": "+37046952345",
+    "website": "https://www.instagram.com/curonian_spit_neringa/"
+  }
+]

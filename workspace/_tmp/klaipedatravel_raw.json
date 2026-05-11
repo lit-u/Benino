@@ -1,0 +1,380 @@
+[
+  {
+    "name": "What to see?",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/what-to-see/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "What to do?",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/what-to-do/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Events",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/events2/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Restaurants and cafés",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/restaurants-and-cafes/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "About us",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/about-us/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "What’s new?",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/whats-new/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Conference rooms",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/conference-rooms/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Coworking places",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/coworking-places/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Publications about Klaipėda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/publications-about-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Sports in Klaipėda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/sport-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Public toilet scheme",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/viesuju-tualetu-schema/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Cycling",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/cycling/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "By plane",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/by-plane/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "By sea ferry",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/by-sea-ferry/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Public transport in the city",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/public-transport-in-the-city/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Ferries to Smiltyne",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/ferries-to-smiltyne/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Electric car charging stations in Klaipeda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/electric-car-charging-stations-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Parking in Klaipeda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/parking-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Recommended applications",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/recommended-applications/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Car rental in Klaipeda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/car-rental-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Bicycle rental in Klaipeda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/bicycle-rental-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Water sports service providers",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/vandens-pramogu-paslaugu-teikejai/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Structure and contacts",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/structure-and-contacts/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Events",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "/en/events/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Guides in Klaipėda",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/guides-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Videos",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/videos/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Privacy policy",
+    "city": "Klaipėda",
+    "category": "viesbutis",
+    "detail_url": "https://klaipedatravel.lt/en/privacy-policy/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "What to see?",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/what-to-see/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "What to do?",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/what-to-do/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Events",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/events2/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Accommodation",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/accommodation/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "About us",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/about-us/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "What’s new?",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/whats-new/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Conference rooms",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/conference-rooms/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Coworking places",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/coworking-places/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Publications about Klaipėda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/publications-about-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Sports in Klaipėda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/sport-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Public toilet scheme",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/viesuju-tualetu-schema/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Cycling",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/cycling/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "By plane",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/by-plane/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "By sea ferry",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/by-sea-ferry/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Public transport in the city",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/public-transport-in-the-city/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Ferries to Smiltyne",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/ferries-to-smiltyne/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Electric car charging stations in Klaipeda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/electric-car-charging-stations-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Parking in Klaipeda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/parking-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Recommended applications",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/recommended-applications/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Car rental in Klaipeda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/car-rental-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Bicycle rental in Klaipeda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/bicycle-rental-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Water sports service providers",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/vandens-pramogu-paslaugu-teikejai/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Structure and contacts",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/structure-and-contacts/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Events",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "/en/events/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Guides in Klaipėda",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/guides-in-klaipeda/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Videos",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/videos/",
+    "source": "klaipedatravel.lt"
+  },
+  {
+    "name": "Privacy policy",
+    "city": "Klaipėda",
+    "category": "restoranas",
+    "detail_url": "https://klaipedatravel.lt/en/privacy-policy/",
+    "source": "klaipedatravel.lt"
+  }
+]

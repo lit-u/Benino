@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "STATE.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "15dfa99bc6bfa992",
@@ -194,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9a8e5cafcdaf2f7",
+  "active": "da1dfad7ce873749",
   "lastOpenFiles": [
     "blog/2026-02-21_moonshots_ben_horowitz_lt_pazodinis.md",
     "Untitled 1.md",

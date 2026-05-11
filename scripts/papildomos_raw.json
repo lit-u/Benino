@@ -1,0 +1,540 @@
+{
+  "Palanga": [
+    {
+      "name": "Vaidilutės vaizdas į jūrą",
+      "type": "Apžvalgos taškas",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9064684,
+      "lng": 21.0508661,
+      "opening_hours": null
+    },
+    {
+      "name": "Naglis",
+      "type": "Kino teatras",
+      "city": "Palanga",
+      "address": "Vytauto g., 80, Palanga",
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9154225,
+      "lng": 21.0657218,
+      "opening_hours": null
+    },
+    {
+      "name": "Remontas ir nuoma",
+      "type": "Dviračiai",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9228372,
+      "lng": 21.074468,
+      "opening_hours": null
+    },
+    {
+      "name": "Palangos tiltas",
+      "type": "Apžvalgos taškas",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9198815,
+      "lng": 21.0503467,
+      "opening_hours": null
+    },
+    {
+      "name": "Birutės kalnas",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9056673,
+      "lng": 21.0530202,
+      "opening_hours": null
+    },
+    {
+      "name": "Dviračių nuoma",
+      "type": "Dviračių nuoma",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9167138,
+      "lng": 21.0660092,
+      "opening_hours": null
+    },
+    {
+      "name": "Palangos piliakalnis",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": "https://piliakalniai.lt/piliakalnis.php?piliakalnis_id=827",
+      "description": "Piliakalnis su gyvenviete",
+      "lat": 55.9055558,
+      "lng": 21.053014,
+      "opening_hours": null
+    },
+    {
+      "name": "Žemaičių kalnelis",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9049253,
+      "lng": 21.0561151,
+      "opening_hours": null
+    },
+    {
+      "name": "Kakės makės atrakcionai",
+      "type": "Žaidimų aikštelė",
+      "city": "Palanga",
+      "address": "Vytauto g., 41, Palanga",
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.914883,
+      "lng": 21.0643735,
+      "opening_hours": null
+    },
+    {
+      "name": "Palangos Stasio Vainiūno meno mokykla",
+      "type": "Kultūros centras",
+      "city": "Palanga",
+      "address": "Maironio g., 8, Palanga",
+      "phone": null,
+      "website": "https://www.vainiuno.lt/",
+      "description": null,
+      "lat": 55.9219611,
+      "lng": 21.0662547,
+      "opening_hours": null
+    },
+    {
+      "name": "Circle K",
+      "type": "Automazgykla",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": "https://www.circlek.lt/",
+      "description": null,
+      "lat": 55.9146292,
+      "lng": 21.0780403,
+      "opening_hours": "Mo-Su,PH 00:00-24:00"
+    },
+    {
+      "name": "Palangos pasakų parkas",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": "https://www.palangatic.lt/pramogos-ka-veikti/pasaku-parkas/",
+      "description": "Lietuviškų pasakų parkas, lankytojus viliojantis ne tik itin jaukia aplinka, žaismingomis skulptūromis, bet ir netradiciniais sprendimais – pasakas čia galima ne tik „pačiupinėti“, bet ir išgirsti.",
+      "lat": 55.91322,
+      "lng": 21.057436,
+      "opening_hours": null
+    },
+    {
+      "name": "Palangos bažnyčios bokštas",
+      "type": "Apžvalgos taškas",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9175483,
+      "lng": 21.0656278,
+      "opening_hours": null
+    },
+    {
+      "name": "Nuskendusio laivo „L-9“ vieta",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": "Baltijos jūroje nuskendusio laivo \"L-9\" vieta",
+      "lat": 55.8930826,
+      "lng": 21.0520356,
+      "opening_hours": "sunrise-sunset"
+    },
+    {
+      "name": "Nuskendusio laivo „L-11“ vieta",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": "1.3.2. buvusių komplekso dalių (statinių) liekanos ar jų vietos - laivo liekanos (smėlio pliaže esančio medinio korpuso išlikusios dalies ilgis 15,35 m, plotis virš 3,5 m; korpusas užneštas smėliu; FF Nr. 1; TRP; priedas 4; 2014 m.).",
+      "lat": 55.898,
+      "lng": 21.051,
+      "opening_hours": "24/7"
+    },
+    {
+      "name": "Pramogos žirgais",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": "Klaipėdos pl., 34, Palanga",
+      "phone": null,
+      "website": "https://www.jok.lt/",
+      "description": null,
+      "lat": 55.8915207,
+      "lng": 21.0645434,
+      "opening_hours": null
+    },
+    {
+      "name": "Topsport",
+      "type": "Kazino",
+      "city": "Palanga",
+      "address": null,
+      "phone": "+370 460 30569",
+      "website": null,
+      "description": null,
+      "lat": 55.91669,
+      "lng": 21.06628,
+      "opening_hours": "Mo-Th 00:00-02:00,10:00-24:00; Fr 00:00-02:00,12:00-24:00; Sa 00:00-03:00,12:00-24:00; Su 00:00-03:00,10:00-24:00"
+    },
+    {
+      "name": "Dualtron",
+      "type": "Dviračių nuoma",
+      "city": "Palanga",
+      "address": "Senojo Turgaus g., 8, Palanga",
+      "phone": null,
+      "website": null,
+      "description": "Elektrinių paspirtukų nuoma",
+      "lat": 55.9183416,
+      "lng": 21.070394,
+      "opening_hours": "Mo-Su 10:00-22:00"
+    },
+    {
+      "name": "Melno basakojų takas",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": "barefoot path",
+      "lat": 55.8939637,
+      "lng": 21.058702,
+      "opening_hours": null
+    },
+    {
+      "name": "Sportland",
+      "type": "Sporto prekės",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9141834,
+      "lng": 21.0781997,
+      "opening_hours": null
+    },
+    {
+      "name": "Vaikų parkas",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": "https://www.palangatic.lt/pramogos-ka-veikti/vaiku-parkas/",
+      "description": null,
+      "lat": 55.9291777,
+      "lng": 21.0616871,
+      "opening_hours": null
+    },
+    {
+      "name": "Tiškevičių rūmai",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": "Vytauto g., 17, Palanga",
+      "phone": null,
+      "website": null,
+      "description": null,
+      "lat": 55.9068635,
+      "lng": 21.0559436,
+      "opening_hours": null
+    },
+    {
+      "name": "Palangos koncertų salė",
+      "type": "Teatras",
+      "city": "Palanga",
+      "address": "Vytauto g., 43, Palanga",
+      "phone": null,
+      "website": "https://www.palangosks.lt/",
+      "description": null,
+      "lat": 55.9156064,
+      "lng": 21.063451,
+      "opening_hours": null
+    },
+    {
+      "name": "Race Time - kartodromas",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": "Švarioji g., 5, Palanga",
+      "phone": null,
+      "website": "https://www.facebook.com/racetimelt",
+      "description": null,
+      "lat": 55.9080509,
+      "lng": 21.1010336,
+      "opening_hours": null
+    },
+    {
+      "name": "Melno sutartimi nustatytos LDK valstybinės sienos atkarpa II",
+      "type": "Atrakcija",
+      "city": "Palanga",
+      "address": null,
+      "phone": null,
+      "website": "https://kvr.kpd.lt/#/static-heritage-detail/6e7618ef-b106-4a89-ab13-287446793da2",
+      "description": "XV-XX a. 1422 m. rugsėjo 27 d. Melno taikos susitarimu nustatyta tarpvalstybinė siena tarp Lietuvos Didžiosios Kunigaikštystės ir Vokiečių Ordino. Egzistavo iki Versalio sutarties.",
+      "lat": 55.8939008,
+      "lng": 21.0573176,
+      "opening_hours": null
+    }
+  ],
+  "Šventoji": [
+    {
+      "name": "Eldija",
+      "type": "Kino teatras",
+      "city": "Šventoji",
+      "address": "Šventosios g., 1, Palanga",
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Ošupis",
+      "type": "Stovyklavietė",
+      "city": "Šventoji",
+      "address": "Ošupio tak., 1A, Palanga",
+      "phone": "+370 680 84332",
+      "website": "https://www.osupis.lt/",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Žemaičių Alka",
+      "type": "Atrakcija",
+      "city": "Šventoji",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Šventosios kempingas",
+      "type": "Kempingas",
+      "city": "Šventoji",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "Nida": [
+    {
+      "name": "Parnidžio kopa",
+      "type": "Atrakcija",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Urbo kalnas",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Saulės Laikrodis",
+      "type": "Atrakcija",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Angių kalnas",
+      "type": "Atrakcija",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": "https://saugoma.lt/lt/objektai/angiu-kalnas",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Parnidžio ragas",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Marių Mergelio atodanga",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Itališkas vaizdelis",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Velo Nida",
+      "type": "Dviračių nuoma",
+      "city": "Nida",
+      "address": null,
+      "phone": "+37068214798",
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Mini golfo aikštynas",
+      "type": "Golfo aikštelė",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Nidos apžvalgos bokštas",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Parnidžio pažintinis takas",
+      "type": "Atrakcija",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": "http://www.nerija.lt/aktyviam-poilsiui/pazintiniai-takai",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Velonida",
+      "type": "Dviračių nuoma",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Vaizdas į Parnidžio kopą",
+      "type": "Apžvalgos taškas",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Aplink Nidą",
+      "type": "Atrakcija",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": "https://nerija.lrv.lt/lt/lankytojams/ka-aplankyti/pesciuju-marsrutai",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Menininkų namai",
+      "type": "Kultūros centras",
+      "city": "Nida",
+      "address": null,
+      "phone": null,
+      "website": "http://www.ambergallery.lt/menininku-namai/",
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "Neringa": [
+    {
+      "name": "Naglių gamtinio rezervato pažintinis takas",
+      "type": "Atrakcija",
+      "city": "Neringa",
+      "address": null,
+      "phone": null,
+      "website": "https://nerija.lrv.lt/lt/lankytojams/lankytinos-vietos/nagliu-gamtinio-rezervato-mokomasis-takas",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Negyvosios kopos",
+      "type": "Apžvalgos taškas",
+      "city": "Neringa",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Birštvyno ragas",
+      "type": "Apžvalgos taškas",
+      "city": "Neringa",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "name": "Paukščių stebėjimo taškas",
+      "type": "Apžvalgos taškas",
+      "city": "Neringa",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

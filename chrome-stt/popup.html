@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 320px;
+      background: #0f0f0f;
+      color: #fff;
+      font-family: system-ui, sans-serif;
+      padding: 16px;
+    }
+
+    #status {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 10px;
+      min-height: 16px;
+    }
+
+    #transcript {
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 10px;
+      min-height: 80px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #ddd;
+      margin-bottom: 12px;
+      word-break: break-word;
+    }
+
+    .buttons {
+      display: flex;
+      gap: 8px;
+    }
+
+    button {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 600;
+      transition: background 0.15s;
+    }
+
+    #micBtn {
+      background: #2563eb;
+      color: #fff;
+    }
+
+    #micBtn.recording {
+      background: #dc2626;
+      animation: pulse 1s infinite;
+    }
+
+    #clearBtn {
+      background: #1a1a1a;
+      color: #666;
+      flex: 0 0 auto;
+      padding: 10px 14px;
+    }
+
+    #clearBtn:hover { background: #222; }
+
+    #copyStatus {
+      font-size: 11px;
+      color: #22c55e;
+      text-align: center;
+      margin-top: 8px;
+      min-height: 14px;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+  </style>
+</head>
+<body>
+  <div id="status">Paspausk mikrofono mygtuką</div>
+  <div id="transcript"></div>
+  <div class="buttons">
+    <button id="micBtn">🎤 Įrašyti</button>
+    <button id="clearBtn">✕</button>
+  </div>
+  <div id="copyStatus"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

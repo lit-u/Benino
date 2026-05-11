@@ -1,0 +1,3018 @@
+[
+  {
+    "name": "Dogujomida, MB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Dogujomida-MB/2512084",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89997%2C21.23871"
+  },
+  {
+    "name": "Delfai, kavinė",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Delfai-kavin%C4%97/2169915",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Delfai-237989312899576/"
+  },
+  {
+    "name": "Nida, kavinė",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Nida-kavin%C4%97/2129108",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89036%2C21.24118"
+  },
+  {
+    "name": "Virkštininkų kurortas, UAB „Roko virtuvė“",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Virk%C5%A1tinink%C5%B3-kurortas-UAB-Roko-virtuv%C4%97/2523130",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://rokovirtuve.lt"
+  },
+  {
+    "name": "Bruneros, VšĮ",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Bruneros-V%C5%A1%C4%AE/2128942",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.8909%2C21.2278"
+  },
+  {
+    "name": "Malinka International, UAB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Malinka-International-UAB/2284070",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.8666%2C21.22314"
+  },
+  {
+    "name": "Vienaragio malūnas, restoranas",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Vienaragio-mal%C5%ABnas-restoranas/2128225",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88696%2C21.23736"
+  },
+  {
+    "name": "Believe in, MB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Believe-in-MB/2473565",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91489%2C21.06613"
+  },
+  {
+    "name": "Viktorija, kavinė-baras, UAB \"Viesulas\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Viktorija-kavin%C4%97-baras-UAB-Viesulas/2130092",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.kavineviktorija.lt/"
+  },
+  {
+    "name": "Alda silver, UAB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Alda-silver-UAB/2123065",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.oginskihotel.lt/"
+  },
+  {
+    "name": "Močiučių restoranas, UAB „Roko virtuvė“",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mo%C4%8Diu%C4%8Di%C5%B3-restoranas-UAB-Roko-virtuv%C4%97/2488981",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.rokovirtuve.lt"
+  },
+  {
+    "name": "Flow, restoranas, UAB \"Alda Silver\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Flow-restoranas-UAB-Alda-Silver/2434328",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.oginskihotel.lt/"
+  },
+  {
+    "name": "Močiučių rezidencija, UAB „Roko virtuvė“",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mo%C4%8Diu%C4%8Di%C5%B3-rezidencija-UAB-Roko-virtuv%C4%97/2523128",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://rokovirtuve.lt"
+  },
+  {
+    "name": "Stora antis, restoranas, UAB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Stora-antis-restoranas-UAB/2131319",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70942%2C21.13411"
+  },
+  {
+    "name": "Hesburger, greito maisto restoranas, UAB \"Vpark\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Hesburger-greito-maisto-restoranas-UAB-Vpark/2273222",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71837%2C21.14617"
+  },
+  {
+    "name": "Gamtos perlas, poilsio kompleksas",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Gamtos-perlas-poilsio-kompleksas/2321061",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.81066%2C21.07008"
+  },
+  {
+    "name": "Rozmarinas, restoranas, UAB \"Gedradvė\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Rozmarinas-restoranas-UAB-Gedradv%C4%97/2329648",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70661%2C21.12632"
+  },
+  {
+    "name": "Grill London, UAB \"Klaipėdos restoranas\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Grill-London-UAB-Klaip%C4%97dos-restoranas/2395133",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69327%2C21.15543"
+  },
+  {
+    "name": "Vario komanda, UAB",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Vario-komanda-UAB/2417205",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91825%2C21.05351"
+  },
+  {
+    "name": "Hot'N'Cold Sushi, restoranas, UAB \"Katačiai\"",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Hot-N-Cold-Sushi-restoranas-UAB-Kata%C4%8Diai/2418939",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=%C5%BDaliakelio+g.+1%2C+Slengi%C5%B3+k.%2C+92338+Klaip%C4%97dos+r."
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Gruzijos skonis Trakų širdyje: kulinarinių malonumų atradimas",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Gruzijos-skonis-Trak%C5%B3-%C5%A1irdyje-kulinarini%C5%B3-malonum%C5%B3-atradimas/19308",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Meksikietiška virtuvė – kuo ji ypatinga?",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Meksikieti%C5%A1ka-virtuv%C4%97-kuo-ji-ypatinga/18597",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Kur pavalgyti Kaune: 10 restoranų ir užkandinių",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Kur-pavalgyti-Kaune-10-restoran%C5%B3-ir-u%C5%BEkandini%C5%B3/18462",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Keliaujame po Lietuvą",
+    "city": "Kretinga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Keliaujame-po-Lietuv%C4%85/17376",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Dogujomida, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Dogujomida-MB/2512084",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89997%2C21.23871"
+  },
+  {
+    "name": "Delfai, kavinė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Delfai-kavin%C4%97/2169915",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Delfai-237989312899576/"
+  },
+  {
+    "name": "Urkauskų sodyba",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Urkausk%C5%B3-sodyba/2422455",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.06262%2C21.50533"
+  },
+  {
+    "name": "Centro pica ir kebabai",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Centro-pica-ir-kebabai/2128286",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88978%2C21.24348"
+  },
+  {
+    "name": "Nida, kavinė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Nida-kavin%C4%97/2129108",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89036%2C21.24118"
+  },
+  {
+    "name": "Autoratas, kavinė, UAB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Autoratas-kavin%C4%97-UAB/2320769",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://autoratas.lt/#kavine"
+  },
+  {
+    "name": "HBH Palanga, UAB \"Žibosa\"",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/HBH-Palanga-UAB-%C5%BDibosa/2128790",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.95942%2C21.14556"
+  },
+  {
+    "name": "Pas grafą, kavinė, R. Valentukonio įmonė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Pas-graf%C4%85-kavin%C4%97-R-Valentukonio-%C4%AFmon%C4%97/2128884",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90012%2C21.2486"
+  },
+  {
+    "name": "Vienkiemis, kavinė - viešbutis, J. Šoblinskienės įmonė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Vienkiemis-kavin%C4%97-vie%C5%A1butis-J-%C5%A0oblinskien%C4%97s-%C4%AFmon%C4%97/2128947",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Padvariai%2C+97157+Kretingos+r."
+  },
+  {
+    "name": "Virkštininkų dvaro užeiga",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Virk%C5%A1tinink%C5%B3-dvaro-u%C5%BEeiga/2129077",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90805%2C21.12466"
+  },
+  {
+    "name": "Rock Pub Britanija, K. Latako paslaugų įmonė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Rock-Pub-Britanija-K-Latako-paslaug%C5%B3-%C4%AFmon%C4%97/2267814",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88881%2C21.24709"
+  },
+  {
+    "name": "Vytis ant kalvos, UAB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Vytis-ant-kalvos-UAB/2419045",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92956%2C21.19474"
+  },
+  {
+    "name": "Laimės hormonai, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Laim%C4%97s-hormonai-MB/2505209",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89308%2C21.26631"
+  },
+  {
+    "name": "Retro, kavinė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Retro-kavin%C4%97/2128671",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89064%2C21.25927"
+  },
+  {
+    "name": "Kryžkelė, kavinė",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Kry%C5%BEkel%C4%97-kavin%C4%97/2129139",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89715%2C21.23768"
+  },
+  {
+    "name": "Naktižiedė, UAB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Nakti%C5%BEied%C4%97-UAB/2283836",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.06003%2C21.57185"
+  },
+  {
+    "name": "Migdolinė Lapė, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Migdolin%C4%97-Lap%C4%97-MB/2437545",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=%C5%BDalgirio+g.+15%2C+Raguvi%C5%A1ki%C5%B3+k%2C+97160+Kretingos+r."
+  },
+  {
+    "name": "Kulšė, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Kul%C5%A1%C4%97-MB/2475225",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Lauk%C5%BEem%C4%97s+g.+2C%2C+Medomi%C5%A1ki%C5%B3+k.%2C+97280+Kretingos+r."
+  },
+  {
+    "name": "Mažasis užupis, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Ma%C5%BEasis-u%C5%BEupis-MB/2479222",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=J.+Basanavi%C4%8Diaus+g.+60%2C+97125+Kretinga"
+  },
+  {
+    "name": "Tvenkinio ledainė, MB",
+    "city": "Kretinga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Tvenkinio-ledain%C4%97-MB/2480665",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89818%2C21.24774"
+  },
+  {
+    "name": "Delfai, kavinė",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Delfai-kavin%C4%97/2169915",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Delfai-237989312899576/"
+  },
+  {
+    "name": "Smagratis, restobaras-motelis",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Smagratis-restobaras-motelis/2128381",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89359%2C21.26522"
+  },
+  {
+    "name": "Vienkiemis, kavinė - viešbutis, J. Šoblinskienės įmonė",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vienkiemis-kavin%C4%97-vie%C5%A1butis-J-%C5%A0oblinskien%C4%97s-%C4%AFmon%C4%97/2128947",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Padvariai%2C+97157+Kretingos+r."
+  },
+  {
+    "name": "Virkštininkų dvaro užeiga",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Virk%C5%A1tinink%C5%B3-dvaro-u%C5%BEeiga/2129077",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90805%2C21.12466"
+  },
+  {
+    "name": "Tirevičių sodyba, MB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Tirevi%C4%8Di%C5%B3-sodyba-MB/2437176",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.93541%2C21.34317"
+  },
+  {
+    "name": "Sondija, UAB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Sondija-UAB/2331102",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Kveci%C5%B3+k.%2C+97163+Kretingos+r."
+  },
+  {
+    "name": "VikGreta, vila",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/VikGreta-vila/2395503",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89819%2C21.24047"
+  },
+  {
+    "name": "Kouzy, MB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Kouzy-MB/2488511",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Maloni%C5%A1ki%C5%B3+g.+12%2C+Darb%C4%97nai%2C+97264+Kretingos+r."
+  },
+  {
+    "name": "Poilsio studija, MB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Poilsio-studija-MB/2511854",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=%C5%A0a%C5%A1ai%C4%8Di%C5%B3+g.+17%2C+Jok%C5%ABbavo+k.%2C+97210+Kretingos+r."
+  },
+  {
+    "name": "Trevena, motelis",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Trevena-motelis/2277571",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89689%2C21.24449"
+  },
+  {
+    "name": "Meguva Resort hotel",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Meguva-Resort-hotel/2376115",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Venecijos+aklg.+4%2C+%C5%BDibininkai%2C+97231+Kretingos+r."
+  },
+  {
+    "name": "Trumpalaikė butų nuoma",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Trumpalaik%C4%97-but%C5%B3-nuoma/2421867",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.93949%2C21.17457"
+  },
+  {
+    "name": "Palangos grafų lankos, MB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Palangos-graf%C5%B3-lankos-MB/2449366",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.grafulankos.com"
+  },
+  {
+    "name": "Greenas, UAB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Greenas-UAB/2285210",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.greenas.lt"
+  },
+  {
+    "name": "V. Stuobrienės apgyvendinimo namai",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/V-Stuobrien%C4%97s-apgyvendinimo-namai/2269303",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90438%2C21.8519"
+  },
+  {
+    "name": "Alda silver, UAB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Alda-silver-UAB/2123065",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.oginskihotel.lt/"
+  },
+  {
+    "name": "Etmė, UAB",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Etm%C4%97-UAB/2268432",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92023%2C21.82928"
+  },
+  {
+    "name": "Vila Kalniškiai, kaimo turizmo sodyba",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Kalni%C5%A1kiai-kaimo-turizmo-sodyba/2427023",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Vila.Kalniskiai"
+  },
+  {
+    "name": "Miego namai, viešbutis",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Miego-namai-vie%C5%A1butis/2419628",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70097%2C21.41192"
+  },
+  {
+    "name": "Oginski hotel, UAB \"Alda silver\"",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Oginski-hotel-UAB-Alda-silver/2427886",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.oginskihotel.lt"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "5 geriausi nakvynių pasiūlymai planuojantiems poilsiauti Birštone",
+    "city": "Kretinga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai/5-geriausi-nakvyni%C5%B3-pasi%C5%ABlymai-planuojantiems-poilsiauti-Bir%C5%A1tone/13818",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Meirėja, UAB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Meir%C4%97ja-UAB/2460849",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.meireja.com"
+  },
+  {
+    "name": "Kirpo, UAB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Kirpo-UAB/2448693",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=%C5%BDALGIRIO+SEN.%2C+TUJ%C5%B2+G.+7E%2C+KLUONALI%C5%B2+K.%2C+KRETINGOS+R.+SAV.%2C+LT-97193"
+  },
+  {
+    "name": "Garbana, moterų ir vyrų salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Garbana-moter%C5%B3-ir-vyr%C5%B3-salonas/2042898",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89031%2C21.24378"
+  },
+  {
+    "name": "Kirpykla",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Kirpykla/2057550",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89288%2C21.25329"
+  },
+  {
+    "name": "Aušrinė, grožio studija",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Au%C5%A1rin%C4%97-gro%C5%BEio-studija/2253753",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.8896%2C21.26734"
+  },
+  {
+    "name": "Dalia, grožio salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Dalia-gro%C5%BEio-salonas/2343456",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89131%2C21.26063"
+  },
+  {
+    "name": "Charitė, grožio studija",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Charit%C4%97-gro%C5%BEio-studija/2379950",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88811%2C21.24686"
+  },
+  {
+    "name": "Kailiukas spa, MB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Kailiukas-spa-MB/2461892",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.86689%2C21.2205"
+  },
+  {
+    "name": "AIL Studija, MB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/AIL-Studija-MB/2476507",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.87142%2C21.22456"
+  },
+  {
+    "name": "Pmu eksperte, MB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Pmu-eksperte-MB/2490033",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Pavasario+g.+10%2C+Padvari%C5%B3+k.%2C+97179+Kretingos+r."
+  },
+  {
+    "name": "Solemu, Mažoji Bendrija, MB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Solemu-Ma%C5%BEoji-Bendrija-MB/2513268",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89136%2C21.25814"
+  },
+  {
+    "name": "Vienplaukė, UAB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Vienplauk%C4%97-UAB/2132058",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.vienplauke.lt/"
+  },
+  {
+    "name": "Brigita, grožio salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Brigita-gro%C5%BEio-salonas/2028037",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Gro%C5%BEio-Salonas-Brigita-Klaip%C4%97da-672303882828440/"
+  },
+  {
+    "name": "Grožio terapijos namai",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Gro%C5%BEio-terapijos-namai/2420117",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://lt.beautytherapy-palanga.com"
+  },
+  {
+    "name": "Princesė Audronė, grožio salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Princes%C4%97-Audron%C4%97-gro%C5%BEio-salonas/2210253",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.princeseaudrone.lt"
+  },
+  {
+    "name": "Gražina, G. Adomaitienės grožio salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Gra%C5%BEina-G-Adomaitien%C4%97s-gro%C5%BEio-salonas/2123297",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/grazinasalonas/"
+  },
+  {
+    "name": "CHARM, grožio namai",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/CHARM-gro%C5%BEio-namai/2285081",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://charmgrozionamai.lt/"
+  },
+  {
+    "name": "Kristina, grožio salonas",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Kristina-gro%C5%BEio-salonas/2079253",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71112%2C21.39715"
+  },
+  {
+    "name": "Živilė Jan",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/%C5%BDivil%C4%97-Jan/2421345",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70183%2C21.13614"
+  },
+  {
+    "name": "Skinica, MB",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Skinica-MB/2477945",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Unguros+g.+7-1%2C+Tru%C5%A1eli%C5%B3+k.%2C+92337+Klaip%C4%97dos+r."
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Modelinis kirpimas - kas tai?",
+    "city": "Kretinga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/straipsniai/Modelinis-kirpimas-kas-tai/20855",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Pajūrio perliukas, MB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Paj%C5%ABrio-perliukas-MB/2170409",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88933%2C21.27453"
+  },
+  {
+    "name": "Gidentus, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Gidentus-UAB/2378784",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89818%2C21.24774"
+  },
+  {
+    "name": "Kretingos odontologijos centras, MB \"Dadenta\"",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Kretingos-odontologijos-centras-MB-Dadenta/2398100",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88842%2C21.24023"
+  },
+  {
+    "name": "Dens medicus, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Dens-medicus-UAB/2407256",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Savanori%C5%B3+g.+5A-1%2C+97179+Kretinga"
+  },
+  {
+    "name": "Fordenta, S. Bertašienės odontologijos kabinetas",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Fordenta-S-Berta%C5%A1ien%C4%97s-odontologijos-kabinetas/2026774",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88186%2C21.24623"
+  },
+  {
+    "name": "V. Jastrumskienės odontologijos kabinetas",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/V-Jastrumskien%C4%97s-odontologijos-kabinetas/2128770",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.8849%2C21.26252"
+  },
+  {
+    "name": "R. Morkuvienės odontologijos kabinetas",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/R-Morkuvien%C4%97s-odontologijos-kabinetas/2128794",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89519%2C21.24533"
+  },
+  {
+    "name": "Ritadenta, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Ritadenta-UAB/2128887",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89085%2C21.24609"
+  },
+  {
+    "name": "L. Grinienės odontologijos kabinetas",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/L-Grinien%C4%97s-odontologijos-kabinetas/2129109",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89879%2C21.24233"
+  },
+  {
+    "name": "Sveiki dantys, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Sveiki-dantys-UAB/2284278",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88309%2C21.25072"
+  },
+  {
+    "name": "DovDenta, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/DovDenta-UAB/2328409",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89248%2C21.25893"
+  },
+  {
+    "name": "Aldentas, MB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Aldentas-MB/2404906",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.05983%2C21.57307"
+  },
+  {
+    "name": "Sendolora, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Sendolora-UAB/2413020",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.89169%2C21.25826"
+  },
+  {
+    "name": "Klaipėdos odontologijos centras, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Klaip%C4%97dos-odontologijos-centras-UAB/2333182",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.klaipedosoc.lt/"
+  },
+  {
+    "name": "Lucida, odontologijos klinika",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Lucida-odontologijos-klinika/2387381",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.lucida.lt"
+  },
+  {
+    "name": "Pas Saidą, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Pas-Said%C4%85-UAB/2381704",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.passaida.lt/"
+  },
+  {
+    "name": "Deodenta, odontologijos klinika",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Deodenta-odontologijos-klinika/2131092",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.deodenta.lt"
+  },
+  {
+    "name": "Žavesys, odontologinė klinika, UAB",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/%C5%BDavesys-odontologin%C4%97-klinika-UAB/2078944",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.klinikazavesys.lt"
+  },
+  {
+    "name": "Bandužių odontologijos klinika",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/Bandu%C5%BEi%C5%B3-odontologijos-klinika/2131080",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://banduziuklinika.lt/"
+  },
+  {
+    "name": "A. Grikšienės IĮ, odontologijos kabinetas",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/imones/A-Grik%C5%A1ien%C4%97s-I%C4%AE-odontologijos-kabinetas/2411970",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71148%2C21.40112"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Kokias dantų problemas galima išspręsti su ozono terapija?",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/straipsniai/Kokias-dantu-problemas-galima-isspresti-su-ozono-terapija/21008",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Cirkonio implantai: ką apie juos sako moksliniai faktai?",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/straipsniai/Cirkonio-implantai-ka-apie-juos-sako-moksliniai-faktai/20913",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Ar breketai vis dar geriausias sprendimas tiesiems dantims?",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/straipsniai/Ar-breketai-vis-dar-geriausias-sprendimas-tiesiems-dantims/20837",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "„Papadent“ klinikos vadovas Tomas Stumbrys apie dantų protezavimo galimybes",
+    "city": "Kretinga",
+    "category": "odontologas",
+    "detail_url": "https://www.info.lt/straipsniai/Papadent-klinikos-vadovas-Tomas-Stumbrys-apie-dant%C5%B3-protezavimo-galimybes/20772",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Konditerijos kepykla, UAB \"Kepasta\"",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Konditerijos-kepykla-UAB-Kepasta/2375047",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90186%2C21.13669"
+  },
+  {
+    "name": "Bonaveta, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Bonaveta-UAB/2284176",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88608%2C21.24767"
+  },
+  {
+    "name": "RA dukra, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/RA-dukra-UAB/2303706",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.95952%2C21.14816"
+  },
+  {
+    "name": "Kalniaus duona, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Kalniaus-duona-UAB/2336032",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Stoties+g.+9B%2C+97122+Kretinga"
+  },
+  {
+    "name": "R. Šiaulienės komercinė-ūkinė įmonė",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/R-%C5%A0iaulien%C4%97s-komercin%C4%97-%C5%ABkin%C4%97-%C4%AFmon%C4%97/2128948",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.05256%2C21.57084"
+  },
+  {
+    "name": "Kartenos duona, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Kartenos-duona-UAB/2395743",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Alanto+g.+35%2C+Kartena%2C+97341+Kretingos+r."
+  },
+  {
+    "name": "Klaipėdos duona, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Klaip%C4%97dos-duona-UAB/2130703",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69553%2C21.17572"
+  },
+  {
+    "name": "Plungės duonos kepiniai, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Plung%C4%97s-duonos-kepiniai-UAB/2350639",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91068%2C21.86338"
+  },
+  {
+    "name": "Plungės duona, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Plung%C4%97s-duona-UAB/2123307",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91068%2C21.86338"
+  },
+  {
+    "name": "Visarta, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Visarta-UAB/2335537",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.716%2C21.12987"
+  },
+  {
+    "name": "Namai be gliuteno, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Namai-be-gliuteno-UAB/2404390",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71397%2C21.13036"
+  },
+  {
+    "name": "Duonė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Duon%C4%97-UAB/2386974",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.66578%2C21.16894"
+  },
+  {
+    "name": "Mėlynoji rugiagėlė, parduotuvė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/M%C4%97lynoji-rugiag%C4%97l%C4%97-parduotuv%C4%97-UAB/2131288",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70042%2C21.16109"
+  },
+  {
+    "name": "Ūkininkės S. Rožienės žemės ūkio produkcijos perdirbimo įmonė",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/%C5%AAkinink%C4%97s-S-Ro%C5%BEien%C4%97s-%C5%BEem%C4%97s-%C5%ABkio-produkcijos-perdirbimo-%C4%AFmon%C4%97/2276039",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71667%2C21.30867"
+  },
+  {
+    "name": "G. Jucevičiaus IĮ",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/G-Jucevi%C4%8Diaus-I%C4%AE/2121600",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.26939%2C21.53269"
+  },
+  {
+    "name": "Biržų duona, krautuvė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Bir%C5%BE%C5%B3-duona-krautuv%C4%97-UAB/2502295",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71257%2C21.13083"
+  },
+  {
+    "name": "Biržų duona, krautuvė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Bir%C5%BE%C5%B3-duona-krautuv%C4%97-UAB/2502296",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71659%2C21.12901"
+  },
+  {
+    "name": "Biržų duona, krautuvė",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Bir%C5%BE%C5%B3-duona-krautuv%C4%97/2516001",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.72248%2C21.15566"
+  },
+  {
+    "name": "Vilniaus duona, firminė parduotuvė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Vilniaus-duona-firmin%C4%97-parduotuv%C4%97-UAB/2386615",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.67453%2C21.16751"
+  },
+  {
+    "name": "Mantinga, Klaipėdos atstovybė, UAB",
+    "city": "Kretinga",
+    "category": "autoservisas",
+    "detail_url": "https://www.info.lt/imones/Mantinga-Klaip%C4%97dos-atstovyb%C4%97-UAB/2054872",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70296%2C21.16168"
+  },
+  {
+    "name": "eStart, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/eStart-UAB/2332269",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.88935%2C21.24404"
+  },
+  {
+    "name": "Inlista, MB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Inlista-MB/2470411",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Main%C5%B3+g.+6%2C+94101+Klaip%C4%97da"
+  },
+  {
+    "name": "Varliukai, asociacija",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Varliukai-asociacija/2462719",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69264%2C21.18557"
+  },
+  {
+    "name": "Lantelis, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Lantelis-UAB/2242069",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69778%2C21.14727"
+  },
+  {
+    "name": "Fėja, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/F%C4%97ja-UAB/2123362",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91238%2C21.8448"
+  },
+  {
+    "name": "Wowlycode, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Wowlycode-UAB/2505701",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70814%2C21.13711"
+  },
+  {
+    "name": "Lansneta, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Lansneta-UAB/2285341",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.67765%2C21.16846"
+  },
+  {
+    "name": "Informacinių technologijų pajėgos, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Informacini%C5%B3-technologij%C5%B3-paj%C4%97gos-UAB/2223350",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.72923%2C21.13817"
+  },
+  {
+    "name": "IT gausa, MB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/IT-gausa-MB/2341978",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.68116%2C21.18545"
+  },
+  {
+    "name": "Update LT, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Update-LT-UAB/2248689",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71564%2C21.13284"
+  },
+  {
+    "name": "Hillseek, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Hillseek-UAB/2447075",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=KLAIP%C4%96DA%2C+RAGAIN%C4%96S+G.+2A-27%2C+LT-92196"
+  },
+  {
+    "name": "Bnsave, MB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Bnsave-MB/2489663",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.6886%2C21.18315"
+  },
+  {
+    "name": "Power Media, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Power-Media-UAB/2250606",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.72437%2C21.12606"
+  },
+  {
+    "name": "Webmod, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Webmod-UAB/2171327",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.68894%2C21.15075"
+  },
+  {
+    "name": "Construction line, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Construction-line-UAB/2460760",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70573%2C21.16056"
+  },
+  {
+    "name": "Globerta, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Globerta-UAB/2284347",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71523%2C21.13277"
+  },
+  {
+    "name": "Intelektualios automatizuotos sistemos, IĮ",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Intelektualios-automatizuotos-sistemos-I%C4%AE/2245658",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69857%2C21.14583"
+  },
+  {
+    "name": "Tagai, MB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Tagai-MB/2424672",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.7375%2C21.08796"
+  },
+  {
+    "name": "Faimark, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Faimark-UAB/2245979",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.75569%2C21.15184"
+  },
+  {
+    "name": "Erasa, UAB",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/imones/Erasa-UAB/2285614",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70386%2C21.21973"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Klausimai, kuriuos verta užduoti hostingo paslaugų teikėjui",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/straipsniai/Klausimai-kuriuos-verta-u%C5%BEduoti-hostingo-paslaug%C5%B3-teik%C4%97jui/17022",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Asmeninis prekių ženklas: kaip pradėti savo verslą?",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/straipsniai/Asmeninis-preki%C5%B3-%C5%BEenklas-kaip-prad%C4%97ti-savo-versl%C4%85/16949",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Kodėl naudinga turėti elektroninį paštą?",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/straipsniai/Kod%C4%97l-naudinga-tur%C4%97ti-elektronin%C4%AF-pa%C5%A1t%C4%85/15571",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Kokia paslauga yra debesų kompiuterija?",
+    "city": "Kretinga",
+    "category": "gydytojas",
+    "detail_url": "https://www.info.lt/straipsniai/Kokia-paslauga-yra-debes%C5%B3-kompiuterija/15271",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "GRS Industry, MB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/GRS-Industry-MB/2430792",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.grs-industry.com"
+  },
+  {
+    "name": "Kalvita, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Kalvita-UAB/2348322",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.kalvita.lt/"
+  },
+  {
+    "name": "Salantų akmuo, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Salant%C5%B3-akmuo-UAB/2328418",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.05769%2C21.57653"
+  },
+  {
+    "name": "Medinių durų gamyba, N. Žilytės įmonė",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Medini%C5%B3-dur%C5%B3-gamyba-N-%C5%BDilyt%C4%97s-%C4%AFmon%C4%97/2242907",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/medines.durys.5/"
+  },
+  {
+    "name": "Ringera, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Ringera-UAB/2326831",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Ro%C5%BEi%C5%B3+aklg.+10%2C+97176+Kretinga"
+  },
+  {
+    "name": "Vaidmanta, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Vaidmanta-UAB/2415900",
+    "source": "info.lt",
+    "email": "komercija.vaidmanta@gmail.com",
+    "website": "https://vaidmanta.lt/"
+  },
+  {
+    "name": "BM Sprendimai, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/BM-Sprendimai-UAB/2430379",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.bmsprendimai.lt/"
+  },
+  {
+    "name": "Midama, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Midama-UAB/2128869",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.midama.lt/"
+  },
+  {
+    "name": "Laiptų kalvė, MB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Laipt%C5%B3-kalv%C4%97-MB/2497110",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://laiptukalve.lt/"
+  },
+  {
+    "name": "Sigromas, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Sigromas-UAB/2130623",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.67641%2C21.19791"
+  },
+  {
+    "name": "Hard metalas, MB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Hard-metalas-MB/2439710",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.hardmetalas.com"
+  },
+  {
+    "name": "Vorkšopas, MB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Vork%C5%A1opas-MB/2523110",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "phone": "+37065550183",
+    "website": "https://w-workshop.lt/"
+  },
+  {
+    "name": "Donžonas, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Don%C5%BEonas-UAB/2212592",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.donzonas.lt/"
+  },
+  {
+    "name": "Pajūrio laiptai",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Paj%C5%ABrio-laiptai/2394851",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69411%2C21.14551"
+  },
+  {
+    "name": "Baukštė, MB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Bauk%C5%A1t%C4%97-MB/2407730",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.74954%2C21.28003"
+  },
+  {
+    "name": "R. Karaliaus IĮ",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/R-Karaliaus-I%C4%AE/2123302",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://lt-lt.facebook.com/romas.karalius.12"
+  },
+  {
+    "name": "Transrifus, Klaipėdos grupė, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Transrifus-Klaip%C4%97dos-grup%C4%97-UAB/2517446",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.transrifus.lt/"
+  },
+  {
+    "name": "Kalvita, filialas, UAB",
+    "city": "Kretinga",
+    "category": "parduotuvė",
+    "detail_url": "https://www.info.lt/imones/Kalvita-filialas-UAB/2394820",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.kalvita.lt/"
+  },
+  {
+    "name": "Believe in, MB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Believe-in-MB/2473565",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91489%2C21.06613"
+  },
+  {
+    "name": "Močiučių restoranas, UAB „Roko virtuvė“",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mo%C4%8Diu%C4%8Di%C5%B3-restoranas-UAB-Roko-virtuv%C4%97/2488981",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.rokovirtuve.lt"
+  },
+  {
+    "name": "Močiučių rezidencija, UAB „Roko virtuvė“",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mo%C4%8Diu%C4%8Di%C5%B3-rezidencija-UAB-Roko-virtuv%C4%97/2523128",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://rokovirtuve.lt"
+  },
+  {
+    "name": "Vario komanda, UAB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Vario-komanda-UAB/2417205",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91825%2C21.05351"
+  },
+  {
+    "name": "Oldman, restoranas, UAB \"Kurortas ir Co\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Oldman-restoranas-UAB-Kurortas-ir-Co/2414811",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92255%2C21.05585"
+  },
+  {
+    "name": "Decuba, restoranas, UAB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Decuba-restoranas-UAB/2263658",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91825%2C21.06024"
+  },
+  {
+    "name": "Vandenis, restoranas, muzikos klubas",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Vandenis-restoranas-muzikos-klubas/2092996",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.9141%2C21.05679"
+  },
+  {
+    "name": "Sinners Burgers, restoranas, UAB \"Frank Lt\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Sinners-Burgers-restoranas-UAB-Frank-Lt/2426815",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=U%C5%BEkanav%C4%97s+g.+6%2C+00169+Palanga"
+  },
+  {
+    "name": "CaCa, restoranas, UAB \"Jukaca Neringa\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/CaCa-restoranas-UAB-Jukaca-Neringa/2436645",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91923%2C21.05836"
+  },
+  {
+    "name": "Loca'les Bodega Palanga, restoranas, MB \"Domalis\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Loca-les-Bodega-Palanga-restoranas-MB-Domalis/2434530",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Ron%C5%BE%C4%97s+g.+2%2C+00131+Palanga"
+  },
+  {
+    "name": "Floros simfonija, restoranas, UAB \"Didvyriai\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Floros-simfonija-restoranas-UAB-Didvyriai/2276675",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91954%2C21.05702"
+  },
+  {
+    "name": "Titanikas, pramogų centras, UAB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Titanikas-pramog%C5%B3-centras-UAB/2125662",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.03049%2C21.08003"
+  },
+  {
+    "name": "Alka, restoranas",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Alka-restoranas/2303537",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.9153%2C21.06142"
+  },
+  {
+    "name": "Paršelio rojus, restoranas, UAB \"Šventoji\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Par%C5%A1elio-rojus-restoranas-UAB-%C5%A0ventoji/2126026",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.03009%2C21.08054"
+  },
+  {
+    "name": "iLunch, restoranas, UAB \"Saulė kyla rytais\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/iLunch-restoranas-UAB-Saul%C4%97-kyla-rytais/2480105",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91855%2C21.07243"
+  },
+  {
+    "name": "Sicilija LT, MB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Sicilija-LT-MB/2432423",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Kur%C5%A1i%C5%B3+tak.+3%2C+00317+Palanga"
+  },
+  {
+    "name": "Skortis, UAB",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Skortis-UAB/2264411",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91767%2C21.06249"
+  },
+  {
+    "name": "Pušų paunksnėje, restoranas",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Pu%C5%A1%C5%B3-paunksn%C4%97je-restoranas/2267748",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91144%2C21.06109"
+  },
+  {
+    "name": "Floros simfonija, restoranas, UAB \"Didvyriai\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Floros-simfonija-restoranas-UAB-Didvyriai/2425194",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Topoli%C5%B3+g.+22A%2C+00308+Palanga"
+  },
+  {
+    "name": "Feliksas, restoranas, UAB \"Palrenta\"",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Feliksas-restoranas-UAB-Palrenta/2192298",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92141%2C21.06892"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Gruzijos skonis Trakų širdyje: kulinarinių malonumų atradimas",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Gruzijos-skonis-Trak%C5%B3-%C5%A1irdyje-kulinarini%C5%B3-malonum%C5%B3-atradimas/19308",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Meksikietiška virtuvė – kuo ji ypatinga?",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Meksikieti%C5%A1ka-virtuv%C4%97-kuo-ji-ypatinga/18597",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Kur pavalgyti Kaune: 10 restoranų ir užkandinių",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Kur-pavalgyti-Kaune-10-restoran%C5%B3-ir-u%C5%BEkandini%C5%B3/18462",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Keliaujame po Lietuvą",
+    "city": "Palanga",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Keliaujame-po-Lietuv%C4%85/17376",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Believe in, MB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Believe-in-MB/2473565",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91489%2C21.06613"
+  },
+  {
+    "name": "Jūros akmuo, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/J%C5%ABros-akmuo-UAB/2125794",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91829%2C21.06707"
+  },
+  {
+    "name": "Nendrinė pastogė, kavinė",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Nendrin%C4%97-pastog%C4%97-kavin%C4%97/2058612",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.02393%2C21.10812"
+  },
+  {
+    "name": "1925, kavinė-baras, UAB \"Senolių užeiga\"",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/1925-kavin%C4%97-baras-UAB-Senoli%C5%B3-u%C5%BEeiga/2075056",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91705%2C21.06412"
+  },
+  {
+    "name": "Šeimos kavinė malūnas",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/%C5%A0eimos-kavin%C4%97-mal%C5%ABnas/2340441",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92082%2C21.0757"
+  },
+  {
+    "name": "Juova, kavinė, J. Stratkausko IĮ",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Juova-kavin%C4%97-J-Stratkausko-I%C4%AE/2046949",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91839%2C21.06823"
+  },
+  {
+    "name": "Vikingas, smuklė",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Vikingas-smukl%C4%97/2125599",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.03067%2C21.08062"
+  },
+  {
+    "name": "Senamiesčio skoniai, MB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Senamies%C4%8Dio-skoniai-MB/2489491",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Maironio+g.+4-6%2C+00134+Palanga"
+  },
+  {
+    "name": "Paljuga, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Paljuga-UAB/2385297",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Liepojos+pl.+1D%2C+00171+Palanga"
+  },
+  {
+    "name": "Molinis ąsotis, alaus restoranas, Pakutinsko PĮ",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Molinis-%C4%85sotis-alaus-restoranas-Pakutinsko-P%C4%AE/2125664",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=J.+Basanavi%C4%8Diaus+g.+8A%2C+00113+Palanga"
+  },
+  {
+    "name": "Barzdoti avokadai, MB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Barzdoti-avokadai-MB/2449170",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.9233%2C21.06707"
+  },
+  {
+    "name": "Devyniasdešimt aštunti, MB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Devyniasde%C5%A1imt-a%C5%A1tunti-MB/2420650",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91596%2C21.06603"
+  },
+  {
+    "name": "PARELITA, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/PARELITA-UAB/2420208",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91268%2C21.07685"
+  },
+  {
+    "name": "Pajūrio žibintas, kavinė-baras, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Paj%C5%ABrio-%C5%BEibintas-kavin%C4%97-baras-UAB/2125828",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91848%2C21.05934"
+  },
+  {
+    "name": "M, šeimos restoranas, kavinė, UAB \"Ambro-art\"",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/M-%C5%A1eimos-restoranas-kavin%C4%97-UAB-Ambro-art/2125959",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91758%2C21.06268"
+  },
+  {
+    "name": "Aušra, valgykla, UAB \"Raneda\"",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Au%C5%A1ra-valgykla-UAB-Raneda/2250563",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.02159%2C21.07704"
+  },
+  {
+    "name": "SN25, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/SN25-UAB/2446932",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91967%2C21.05993"
+  },
+  {
+    "name": "Palangos rūta, kavinė",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Palangos-r%C5%ABta-kavin%C4%97/2125991",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91829%2C21.06707"
+  },
+  {
+    "name": "Volungė, baras, UAB \"Vidvita\"",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Volung%C4%97-baras-UAB-Vidvita/2125895",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91817%2C21.07409"
+  },
+  {
+    "name": "Vitkema, UAB",
+    "city": "Palanga",
+    "category": "kavinė",
+    "detail_url": "https://www.info.lt/imones/Vitkema-UAB/2353077",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91817%2C21.07409"
+  },
+  {
+    "name": "Grožio terapijos namai",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Gro%C5%BEio-terapijos-namai/2420117",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://lt.beautytherapy-palanga.com"
+  },
+  {
+    "name": "Sakura, R. Poškevičienės IVV",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Sakura-R-Po%C5%A1kevi%C4%8Dien%C4%97s-IVV/2343265",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91901%2C21.07315"
+  },
+  {
+    "name": "Bloom, estetikos ir grožio studija",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Bloom-estetikos-ir-gro%C5%BEio-studija/2426605",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91827%2C21.07047"
+  },
+  {
+    "name": "E. Juknevičienės IĮ",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/E-Juknevi%C4%8Dien%C4%97s-I%C4%AE/2442192",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91855%2C21.07243"
+  },
+  {
+    "name": "Smiltė, grožio salonas",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Smilt%C4%97-gro%C5%BEio-salonas/2056159",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91729%2C21.06904"
+  },
+  {
+    "name": "Bučinys, grožio salonas",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Bu%C4%8Dinys-gro%C5%BEio-salonas/2342884",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91564%2C21.06945"
+  },
+  {
+    "name": "Junona, IVV",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Junona-IVV/2343090",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Klaip%C4%97dos+pl.+50A%2C+00114+Palanga"
+  },
+  {
+    "name": "Kristė, K. Butkės grožio salonas",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Krist%C4%97-K-Butk%C4%97s-gro%C5%BEio-salonas/2343152",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91747%2C21.06944"
+  },
+  {
+    "name": "Foxpremium, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Foxpremium-MB/2415377",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Vasario+16-osios+g.+25-2%2C+00129+Palanga"
+  },
+  {
+    "name": "Kirpimo kodas, UAB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Kirpimo-kodas-UAB/2445711",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91555%2C21.06159"
+  },
+  {
+    "name": "Lamani LT, UAB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Lamani-LT-UAB/2448498",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92179%2C21.06911"
+  },
+  {
+    "name": "Moksa, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Moksa-MB/2465542",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91504%2C21.06554"
+  },
+  {
+    "name": "RK Wellness Group, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/RK-Wellness-Group-MB/2480941",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Saul%C4%97tekio+tak.+22-5%2C+00123+Palanga"
+  },
+  {
+    "name": "Bellelux.klinika, UAB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Bellelux-klinika-UAB/2487845",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91967%2C21.07383"
+  },
+  {
+    "name": "Era holistica, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Era-holistica-MB/2493168",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Mokyklos+g.+53+K1-8%2C+00303+Palanga"
+  },
+  {
+    "name": "Giji estetikos ir grožio kabinetas, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Giji-estetikos-ir-gro%C5%BEio-kabinetas-MB/2496310",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Taikos+g.+8-2%2C+00116+Palanga"
+  },
+  {
+    "name": "Svajonių realizavimas, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Svajoni%C5%B3-realizavimas-MB/2501278",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Kontinink%C5%B3+g.+3B+K8%2C+00171+Palanga"
+  },
+  {
+    "name": "Eos glow, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Eos-glow-MB/2512113",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Au%C5%A1ros+g.+23-1%2C+00104+Palanga"
+  },
+  {
+    "name": "Gileta, MB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Gileta-MB/2519259",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Plyt%C5%B3+g.+12-19%2C+00132+Palanga"
+  },
+  {
+    "name": "Ikona, filialas, UAB",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/imones/Ikona-filialas-UAB/2404546",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91799%2C21.0612"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Modelinis kirpimas - kas tai?",
+    "city": "Palanga",
+    "category": "grožio salonas",
+    "detail_url": "https://www.info.lt/straipsniai/Modelinis-kirpimas-kas-tai/20855",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Key for Rest, guest house",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Key-for-Rest-guest-house/2409047",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.keyforrest.lt"
+  },
+  {
+    "name": "Senoji Palanga, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Senoji-Palanga-sve%C4%8Di%C5%B3-namai/2224185",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92105%2C21.06154"
+  },
+  {
+    "name": "Pajūrio sodyba, viešbutis, UAB",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Paj%C5%ABrio-sodyba-vie%C5%A1butis-UAB/2323935",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.01656%2C21.08358"
+  },
+  {
+    "name": "Baltija, poilsio namai, UAB",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Baltija-poilsio-namai-UAB/2022534",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90773%2C21.06873"
+  },
+  {
+    "name": "Regina, vila",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Regina-vila/2252749",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=56.02999%2C21.08801"
+  },
+  {
+    "name": "Ema, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Ema-sve%C4%8Di%C5%B3-namai/2221090",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.9205%2C21.06535"
+  },
+  {
+    "name": "Aštuoni, svečių namai, IĮ",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/A%C5%A1tuoni-sve%C4%8Di%C5%B3-namai-I%C4%AE/2262792",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91444%2C21.05594"
+  },
+  {
+    "name": "Palangos žuvėdra, UAB",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Palangos-%C5%BEuv%C4%97dra-UAB/2125963",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91428%2C21.05366"
+  },
+  {
+    "name": "Rivastar, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Rivastar-sve%C4%8Di%C5%B3-namai/2125865",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91479%2C21.06137"
+  },
+  {
+    "name": "Ramybė, vila, UAB \"Ramybė 2\"",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Ramyb%C4%97-vila-UAB-Ramyb%C4%97-2/2125960",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91196%2C21.06364"
+  },
+  {
+    "name": "Vila Romantika",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Romantika/2266599",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91101%2C21.06922"
+  },
+  {
+    "name": "Alka, viešbutis",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Alka-vie%C5%A1butis/2125724",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.9153%2C21.06142"
+  },
+  {
+    "name": "Elegancija, vila",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Elegancija-vila/2145621",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90918%2C21.06731"
+  },
+  {
+    "name": "Obelynė, svečių namai Palangoje",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Obelyn%C4%97-sve%C4%8Di%C5%B3-namai-Palangoje/2188787",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91027%2C21.07157"
+  },
+  {
+    "name": "Pušų paunksnėje, viešbutis, UAB",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Pu%C5%A1%C5%B3-paunksn%C4%97je-vie%C5%A1butis-UAB/2062984",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91144%2C21.06109"
+  },
+  {
+    "name": "Tarp tujų, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Tarp-tuj%C5%B3-sve%C4%8Di%C5%B3-namai/2071086",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91202%2C21.06476"
+  },
+  {
+    "name": "Vila Elena, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Elena-sve%C4%8Di%C5%B3-namai/2352624",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.91956%2C21.06263"
+  },
+  {
+    "name": "Vila Vitalija",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Vitalija/2190325",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92942%2C21.06818"
+  },
+  {
+    "name": "Pas Edmundą",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Pas-Edmund%C4%85/2260137",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92139%2C21.06128"
+  },
+  {
+    "name": "7 sakalai, svečių namai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/7-sakalai-sve%C4%8Di%C5%B3-namai/2340268",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.951%2C21.07314"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "5 geriausi nakvynių pasiūlymai planuojantiems poilsiauti Birštone",
+    "city": "Palanga",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai/5-geriausi-nakvyni%C5%B3-pasi%C5%ABlymai-planuojantiems-poilsiauti-Bir%C5%A1tone/13818",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Senasis uostas, restoranas-baras",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Senasis-uostas-restoranas-baras/2126567",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Nagli%C5%B3+g.+29D%2C+Nida%2C+93123+Neringa"
+  },
+  {
+    "name": "Pušynė Food on Fire, UAB \"Smagi Nida\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Pu%C5%A1yn%C4%97-Food-on-Fire-UAB-Smagi-Nida/2429950",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Nidos-Smiltyn%C4%97s+pl.+3%2C+93125+Neringa"
+  },
+  {
+    "name": "Garden, restoranas, MB \"Agilės namai\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Garden-restoranas-MB-Agil%C4%97s-namai/2432732",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.41631%2C21.09811"
+  },
+  {
+    "name": "Ešerinė, restoranas, UAB \"Regmonida\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/E%C5%A1erin%C4%97-restoranas-UAB-Regmonida/2092429",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30128%2C21.00588"
+  },
+  {
+    "name": "Mama sakė paeis, MB",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mama-sak%C4%97-paeis-MB/2433778",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Nidos-Smiltyn%C4%97s+pl.+7-11%2C+93125+Neringa"
+  },
+  {
+    "name": "Malka, pizza-grill restoranas, UAB \"Jovila\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Malka-pizza-grill-restoranas-UAB-Jovila/2432297",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.5331%2C21.11736"
+  },
+  {
+    "name": "BLIŪDAS, poke-bowl restoranas, UAB \"Jovila\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/BLI%C5%AADAS-poke-bowl-restoranas-UAB-Jovila/2432298",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.5331%2C21.11736"
+  },
+  {
+    "name": "Mr. Snob, restoranas, UAB \"Kūrybinė virtuvė\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Mr-Snob-restoranas-UAB-K%C5%ABrybin%C4%97-virtuv%C4%97/2382602",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30237%2C21.0076"
+  },
+  {
+    "name": "Viktorija, kavinė-baras, UAB \"Viesulas\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Viktorija-kavin%C4%97-baras-UAB-Viesulas/2130092",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.kavineviktorija.lt/"
+  },
+  {
+    "name": "Trukio stotelė, kavinė - restoranas",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Trukio-stotel%C4%97-kavin%C4%97-restoranas/2332778",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.34469%2C21.48028"
+  },
+  {
+    "name": "Stora antis, restoranas, UAB",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Stora-antis-restoranas-UAB/2131319",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70942%2C21.13411"
+  },
+  {
+    "name": "Hesburger, greito maisto restoranas, UAB \"Burger Klaipėda\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Hesburger-greito-maisto-restoranas-UAB-Burger-Klaip%C4%97da/2224334",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.66536%2C21.17614"
+  },
+  {
+    "name": "Monai, restoranas, UAB \"Zizi namai\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Monai-restoranas-UAB-Zizi-namai/2260697",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71174%2C21.13282"
+  },
+  {
+    "name": "Hesburger, greito maisto restoranas, UAB \"Vpark\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Hesburger-greito-maisto-restoranas-UAB-Vpark/2273222",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.71837%2C21.14617"
+  },
+  {
+    "name": "Gamtos perlas, poilsio kompleksas",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Gamtos-perlas-poilsio-kompleksas/2321061",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.81066%2C21.07008"
+  },
+  {
+    "name": "Rozmarinas, restoranas, UAB \"Gedradvė\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Rozmarinas-restoranas-UAB-Gedradv%C4%97/2329648",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.70661%2C21.12632"
+  },
+  {
+    "name": "Grill London, UAB \"Klaipėdos restoranas\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Grill-London-UAB-Klaip%C4%97dos-restoranas/2395133",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.69327%2C21.15543"
+  },
+  {
+    "name": "Meridianas, restoranas, UAB",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Meridianas-restoranas-UAB/2412791",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=kairioji+Dan%C4%97s+krantin%C4%97%2C+91001+Klaip%C4%97da"
+  },
+  {
+    "name": "Prie Peterso tilto, restoranas",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Prie-Peterso-tilto-restoranas/2412870",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.29811%2C21.3793"
+  },
+  {
+    "name": "Hot'N'Cold Sushi, restoranas, UAB \"Katačiai\"",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/imones/Hot-N-Cold-Sushi-restoranas-UAB-Kata%C4%8Diai/2418939",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=%C5%BDaliakelio+g.+1%2C+Slengi%C5%B3+k.%2C+92338+Klaip%C4%97dos+r."
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Gruzijos skonis Trakų širdyje: kulinarinių malonumų atradimas",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Gruzijos-skonis-Trak%C5%B3-%C5%A1irdyje-kulinarini%C5%B3-malonum%C5%B3-atradimas/19308",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Meksikietiška virtuvė – kuo ji ypatinga?",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Meksikieti%C5%A1ka-virtuv%C4%97-kuo-ji-ypatinga/18597",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "Kur pavalgyti Kaune: 10 restoranų ir užkandinių",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Kur-pavalgyti-Kaune-10-restoran%C5%B3-ir-u%C5%BEkandini%C5%B3/18462",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Keliaujame po Lietuvą",
+    "city": "Neringa",
+    "category": "restoranas",
+    "detail_url": "https://www.info.lt/straipsniai/Keliaujame-po-Lietuv%C4%85/17376",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "Vila Flora, viešbutis",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Flora-vie%C5%A1butis/2126366",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.54283%2C21.12093"
+  },
+  {
+    "name": "Nidos gaiva",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Nidos-gaiva/2261567",
+    "source": "info.lt",
+    "email": "info@nidosgaiva.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30811%2C21.00591"
+  },
+  {
+    "name": "Naglis, vila",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Naglis-vila/2252421",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30252%2C21.0071"
+  },
+  {
+    "name": "Baldininkas, vila",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Baldininkas-vila/2036176",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.41345%2C21.09499"
+  },
+  {
+    "name": "Smėlio juosta, apartamentai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Sm%C4%97lio-juosta-apartamentai/2339941",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30742%2C21.00515"
+  },
+  {
+    "name": "Saulės rezidencija, apartamentai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Saul%C4%97s-rezidencija-apartamentai/2341259",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.54476%2C21.12067"
+  },
+  {
+    "name": "E. Verpečinsko IVV",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/E-Verpe%C4%8Dinsko-IVV/2341933",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.3745%2C21.06838"
+  },
+  {
+    "name": "Vilavita, svečių namai, UAB",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vilavita-sve%C4%8Di%C5%B3-namai-UAB/2100345",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.52921%2C21.11693"
+  },
+  {
+    "name": "G. Krasauskės IVV",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/G-Krasausk%C4%97s-IVV/2413293",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Preilos+g.+39D%2C+93129+Neringa"
+  },
+  {
+    "name": "Jelita, viešbutis, UAB \"Viljelita\"",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Jelita-vie%C5%A1butis-UAB-Viljelita/2100517",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30973%2C20.99549"
+  },
+  {
+    "name": "Kuršių kiemas, poilsio namai, A. Venckienės IĮ",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Kur%C5%A1i%C5%B3-kiemas-poilsio-namai-A-Venckien%C4%97s-I%C4%AE/2051128",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.54489%2C21.11984"
+  },
+  {
+    "name": "G. Armalienės svečių namai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/G-Armalien%C4%97s-sve%C4%8Di%C5%B3-namai/2094459",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.31565%2C21.01661"
+  },
+  {
+    "name": "Jūratė, viešbutis, AB",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/J%C5%ABrat%C4%97-vie%C5%A1butis-AB/2092244",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30615%2C21.00591"
+  },
+  {
+    "name": "Nidus, viešbutis",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Nidus-vie%C5%A1butis/2150050",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30928%2C20.99792"
+  },
+  {
+    "name": "Prie ąžuolo, poilsio namai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Prie-%C4%85%C5%BEuolo-poilsio-namai/2340802",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.5322%2C21.11645"
+  },
+  {
+    "name": "Vila marė, poisio namai-vila",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-mar%C4%97-poisio-namai-vila/2349878",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.41293%2C21.0942"
+  },
+  {
+    "name": "Poilsis Nidoje, UAB",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Poilsis-Nidoje-UAB/2126397",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30221%2C21.00577"
+  },
+  {
+    "name": "Lotmiškis",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Lotmi%C5%A1kis/2341889",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30292%2C21.00548"
+  },
+  {
+    "name": "Ąžuolynas, poilsio namai, UAB",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/%C4%84%C5%BEuolynas-poilsio-namai-UAB/2036380",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.53235%2C21.11598"
+  },
+  {
+    "name": "L. Laurenčikienės svečių namai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/L-Lauren%C4%8Dikien%C4%97s-sve%C4%8Di%C5%B3-namai/2093955",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.30722%2C21.00695"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.metida.lt/prekiu-zenklu-uzklausa-kodas/"
+  },
+  {
+    "name": "5 geriausi nakvynių pasiūlymai planuojantiems poilsiauti Birštone",
+    "city": "Neringa",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai/5-geriausi-nakvyni%C5%B3-pasi%C5%ABlymai-planuojantiems-poilsiauti-Bir%C5%A1tone/13818",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  },
+  {
+    "name": "Karpynė, kaimo turizmo sodyba",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Karpyn%C4%97-kaimo-turizmo-sodyba/2329581",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.karpyne.lt"
+  },
+  {
+    "name": "Pas Radvilą, pramogų ir konferencijų centras",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Pas-Radvil%C4%85-pramog%C5%B3-ir-konferencij%C5%B3-centras/2140424",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.pasradvila.lt"
+  },
+  {
+    "name": "Palangos grafų lankos, MB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Palangos-graf%C5%B3-lankos-MB/2449366",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.grafulankos.com"
+  },
+  {
+    "name": "Greenas, UAB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Greenas-UAB/2285210",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.greenas.lt"
+  },
+  {
+    "name": "V. Stuobrienės apgyvendinimo namai",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/V-Stuobrien%C4%97s-apgyvendinimo-namai/2269303",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.90438%2C21.8519"
+  },
+  {
+    "name": "Vila Šerkšnė",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-%C5%A0erk%C5%A1n%C4%97/2297310",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.vilaserksne.lt"
+  },
+  {
+    "name": "Branša, motelis",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Bran%C5%A1a-motelis/2037695",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.bransa.lt/"
+  },
+  {
+    "name": "Diamond svečių namai, UAB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Diamond-sve%C4%8Di%C5%B3-namai-UAB/2470659",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.diamondhouse.lt"
+  },
+  {
+    "name": "Etmė, UAB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Etm%C4%97-UAB/2268432",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=55.92023%2C21.82928"
+  },
+  {
+    "name": "Vila Nikolas, UAB \"Nikolas-LT\"",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Vila-Nikolas-UAB-Nikolas-LT/2335151",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://vilanikolas.lt/"
+  },
+  {
+    "name": "Kartenis, viešbutis, MB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Kartenis-vie%C5%A1butis-MB/2343791",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=54.78334%2C24.65864"
+  },
+  {
+    "name": "Forest resort, vila",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Forest-resort-vila/2428115",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.forestresort.lt/"
+  },
+  {
+    "name": "Minpenta, UAB",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Minpenta-UAB/2005147",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=54.95145%2C23.04673"
+  },
+  {
+    "name": "Delfai, kavinė",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Delfai-kavin%C4%97/2169915",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/Delfai-237989312899576/"
+  },
+  {
+    "name": "Jūra, kavinė, B. Ruškienės GKĮ",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/J%C5%ABra-kavin%C4%97-B-Ru%C5%A1kien%C4%97s-GK%C4%AE/2122120",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/kavinejura/"
+  },
+  {
+    "name": "Giraitė, motelis, UAB \"Vijūkai\"",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Girait%C4%97-motelis-UAB-Vij%C5%ABkai/2095813",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=54.95688%2C23.86343"
+  },
+  {
+    "name": "Karčema \"Pas Čipą\"",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Kar%C4%8Dema-Pas-%C4%8Cip%C4%85/2141707",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.facebook.com/pascipa.lt/"
+  },
+  {
+    "name": "Grėjaus namas, viešbutis-restoranas",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Gr%C4%97jaus-namas-vie%C5%A1butis-restoranas/2190571",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.grejausnamas.lt"
+  },
+  {
+    "name": "Piligrimo užeiga",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Piligrimo-u%C5%BEeiga/2119343",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://www.google.com/maps/dir/?api=1&destination=Kuodai%C4%8Di%C5%B3+k.+3%2C+75101+%C5%A0ilal%C4%97s+r."
+  },
+  {
+    "name": "Deims, viešbutis, UAB \"Nemuno viešbutis\"",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/imones/Deims-vie%C5%A1butis-UAB-Nemuno-vie%C5%A1butis/2118815",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.deims.lt"
+  },
+  {
+    "name": "Straipsniai",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "https://ekodarbai.lt/"
+  },
+  {
+    "name": "5 geriausi nakvynių pasiūlymai planuojantiems poilsiauti Birštone",
+    "city": "Šventoji",
+    "category": "viešbutis",
+    "detail_url": "https://www.info.lt/straipsniai/5-geriausi-nakvyni%C5%B3-pasi%C5%ABlymai-planuojantiems-poilsiauti-Bir%C5%A1tone/13818",
+    "source": "info.lt",
+    "email": "info@saulesspektras.lt",
+    "website": "http://www.autopas.lt"
+  }
+]
